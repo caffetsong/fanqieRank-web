@@ -1,4 +1,20 @@
 document.addEventListener("DOMContentLoaded", () => {
+    const ANNOUNCEMENT_HTML_CONTENT = `
+        <h4>欢迎与说明</h4>
+        <p>本项目旨在提供一个干净美观的阅读榜单参考，通常每2-3天更新一次。</p>
+        
+        <h4>名词解释 & FAQ</h4>
+        <ul>
+            <li><strong>「NEW」标签:</strong> 指与上一次榜单数据对比，该书籍新进入榜单。</li>
+            <li><strong>数据偶有异常 (如“未知类型”):</strong> 这是资源出现了错误，会在下一个更新尝试自我修复，请耐心等待即可。</li>
+        </ul>
+
+        <hr>
+        
+        <h4>免责声明</h4>
+        <p>本项目为非官方的个人学习项目，旨在技术交流与分享，<strong>不保证数据的绝对准确性与服务的永久可用性。</strong></p>
+        <p>所有数据请以官方为准，请勿用于任何商业目的或进行大规模宣传。</p>
+`
     // --- 全局状态变量 ---
     let fullData = null
     let currentlyDisplayedBooks = [] // 【新增】存储当前渲染的书籍，用于详情查询
@@ -33,26 +49,19 @@ document.addEventListener("DOMContentLoaded", () => {
     const newOnlyCheckbox = document.getElementById("new-only-checkbox")
     const categoryContainer = document.getElementById("category-filter-container")
 
+    // 公告弹窗相关DOM
+    const announcementOverlay = document.getElementById("announcement-overlay")
+    const announcementModal = document.getElementById("announcement-modal")
+    const modalCloseBtn = document.getElementById("modal-close-btn")
+    const modalUpdateTime = document.getElementById("modal-update-time")
+    const modalStaticContent = document.getElementById("modal-static-content")
+
     // --- 数据获取与初始化 ---
     fetch("./report_data.json")
         .then((response) => (response.ok ? response.json() : Promise.reject(`HTTP error! status: ${response.status}`)))
         .then((data) => {
             fullData = data
             render()
-
-            // 【新增】首次进入时显示欢迎Toast的逻辑
-            try {
-                if (!sessionStorage.getItem("welcomeToastShown")) {
-                    // 1. 如果sessionStorage中没有标记，则显示Toast
-                    showToast("欢迎使用！点击右下角筛选按钮，开始探索。")
-
-                    // 2. 显示后，立刻设置标记，确保本会话不再重复显示
-                    sessionStorage.setItem("welcomeToastShown", "true")
-                }
-            } catch (e) {
-                // 如果浏览器处于隐私模式或禁用存储，sessionStorage会报错，捕获异常防止程序崩溃
-                console.warn("无法访问sessionStorage，欢迎提示功能可能受影响。", e)
-            }
         })
         .catch(handleError)
 
@@ -70,12 +79,18 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     })
     infoBtn.addEventListener("click", () => {
+        // 1. 填充静态内容
+        modalStaticContent.innerHTML = ANNOUNCEMENT_HTML_CONTENT
+
+        // 2. 填充动态内容
         if (fullData && fullData.updateTime) {
-            // 【关键修改】使用<br>标签来创建换行
-            showToast(`数据更新于: ${fullData.updateTime}<br>请勿宣传此项目`)
+            modalUpdateTime.textContent = `数据更新于: ${fullData.updateTime}`
         } else {
-            showToast("数据正在加载中...")
+            modalUpdateTime.textContent = "数据正在加载中..."
         }
+
+        // 3. 显示弹窗
+        toggleModal(true)
     })
     // 筛选抽屉事件监听 (无变化)
     filterBtn.addEventListener("click", () => {
@@ -97,10 +112,13 @@ document.addEventListener("DOMContentLoaded", () => {
         render()
     })
 
-    // 【新增】详情面板事件监听
+    // 详情面板事件监听
     mobileViewContainer.addEventListener("click", handleCardClick)
     closeDetailsBtn.addEventListener("click", () => toggleDrawer("details", false))
     detailsOverlay.addEventListener("click", () => toggleDrawer("details", false))
+    // 【新增】公告弹窗关闭事件
+    modalCloseBtn.addEventListener("click", () => toggleModal(false))
+    announcementOverlay.addEventListener("click", () => toggleModal(false))
 
     // --- 函数定义 ---
     let toastTimer = null
@@ -234,7 +252,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <table>
                 <thead>
                     <tr>
-                        <th>排名</th><th>书名</th><th>作者</th><th>状态</th><th>类型</th><th>字数</th>
+                        <th>排名</th><th>书名</th><th>作者</th><th>状态</th><th>类型</th><th>字数(w)</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -300,6 +318,9 @@ document.addEventListener("DOMContentLoaded", () => {
             </ul>
         `
         toggleDrawer("details", true)
+    }
+    function toggleModal(open) {
+        document.body.classList.toggle("modal-open", open)
     }
 
     // --- 筛选抽屉内部交互 ---

@@ -1,4 +1,4 @@
-/* --- 全局与布局 开始修改--- */
+
 /* --- 全局与布局 --- */
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
@@ -7,12 +7,12 @@ body {
     padding: 0;
     background-color: #f8f9fa;
     color: #343a40;
-    touch-action: manipulation;
-    /* 【新增】禁止双击缩放，保留滚动和捏合缩放 */
+    touch-action: manipulation;/* 禁止双击缩放，保留滚动和捏合缩放 */
 }
 
 body.drawer-open,
-body.details-open {
+body.details-open,
+body.modal-open {
     overflow: hidden;
 }
 
@@ -76,23 +76,43 @@ header h1 {
     display: none;
 }
 
-/* 字母 "i" 的最终样式 */
-.info-letter {
-    font-size: 30px;
-    /* 最终确认的尺寸 */
-    font-weight: bold;
-    font-style: normal;
-    color: #495057;
-    line-height: 1;
-    /* 确保垂直居中 */
-    user-select: none;
-}
 
 /* SVG 图标的最终样式 */
 .header-action-btn svg {
     width: 24px;
     height: 24px;
     fill: #495057;
+}
+
+/* 【新增】为公告按钮添加永久可见的圆形边框 */
+button#info-btn {
+    border: 2px solid #595d61;
+    /* 使用一个柔和的灰色作为边框颜色 */
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+ 
+
+            width: 26px;
+            height: 26px;
+        padding-top: 2%;
+   
+        
+}
+
+/* 【新增】为问号字符本身定义样式 */
+.info-question-mark {
+    font-size: 20px;
+    /* 问号的理想尺寸 */
+    font-weight: bold;
+    /* 加粗以增加可见性 */
+    font-style: normal;
+    color: #495057;
+    /* 与其他图标颜色保持一致 */
+    line-height: 1;
+    /* 确保垂直居中 */
+    user-select: none;
+    /* 禁止用户选中这个问号 */
+    margin-top: -2px;
+    /* 针对'?'字符的视觉微调，使其看起来更居中 */
 }
 
 main {
@@ -140,7 +160,6 @@ main {
     padding: 20px;
     background-color: transparent;
 }
-
 
 
 
@@ -359,18 +378,20 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
-    font-size: 0.9em;
+    font-size: 1.5em;
     table-layout: fixed;
     word-break: break-all;
 }
 
 thead {
-    background-color: #e9ecef;
+    background-color: #F6754B;
+    color:white;
+   
 }
 
 th,
 td {
-    border: 1px solid #dee2e6;
+    border: 1px solid #FFC4B2;
     padding: 10px 12px;
     text-align: center;
     vertical-align: middle;
@@ -381,22 +402,46 @@ th {
 }
 
 tbody tr:nth-child(odd) {
-    background-color: #f8f9fa;
+    background-color: #FFE3DF;
 }
 
-tbody tr:hover {
-    background-color: #e2e6ea;
+
+
+th:nth-child(1),
+td:nth-child(1) {
+    width: 6%;
 }
 
+/* 书名 */
 th:nth-child(2),
 td:nth-child(2) {
-    text-align: left;
+    width: 41%;
 }
 
+/* 作者 */
 th:nth-child(3),
 td:nth-child(3) {
-    text-align: left;
+    width: 22%;
 }
+
+/* 状态 */
+th:nth-child(4),
+td:nth-child(4) {
+    width: 8%;
+}
+
+/* 类型 */
+th:nth-child(5),
+td:nth-child(5) {
+    width: 10%;
+}
+
+/* 字数 */
+th:nth-child(6),
+td:nth-child(6) {
+    width: 10%;
+}
+
 
 /* --- 移动端卡片 (桌面端默认隐藏) --- */
 #mobile-view-container {
@@ -424,6 +469,116 @@ td:nth-child(3) {
     transform: translateX(-50%) translateY(0);
     opacity: 1;
 }
+
+/* --- 【新增】通用模态弹窗样式 --- */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 110;
+    /* 比抽屉更高层级 */
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0s 0.3s;
+}
+
+.modal-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.95);
+    z-index: 111;
+    width: 90%;
+    max-width: 500px;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, transform 0.3s ease, visibility 0s 0.3s;
+}
+
+body.modal-open .modal-overlay,
+body.modal-open .modal-container {
+    opacity: 1;
+    visibility: visible;
+    transition-delay: 0s;
+}
+
+body.modal-open .modal-container {
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.modal-content {
+    background-color: #fff;
+    border-radius: 16px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 20px;
+    border-bottom: 1px solid #e9ecef;
+    /* 与抽屉样式保持一致 */
+}
+
+.modal-header h2 {
+    margin: 0;
+    font-size: 1.2em;
+    /* 与抽屉样式保持一致 */
+}
+
+.modal-body {
+    padding: 20px;
+    max-height: 60vh;
+    /* 限制最大高度，超出则滚动 */
+    overflow-y: auto;
+}
+
+.meta-info {
+    font-size: 0.85em;
+    color: #6c757d;
+    margin-top: 0;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px dashed #dee2e6;
+}
+
+#modal-static-content p {
+    margin: 0 0 1em 0;
+    line-height: 1.7;
+}
+
+#modal-static-content hr {
+    border: 0;
+    border-top: 1px solid #e9ecef;
+    margin: 1.5em 0;
+}
+
+#modal-static-content strong {
+    color: #d9534f;
+}
+
+/* 响应式适配：确保移动端弹窗体验良好 */
+@media (max-width: 768px) {
+    .modal-container {
+        width: 92%;
+        /* 在小屏幕上稍微加宽 */
+        top: 45%;
+        /* 稍微上移，避免被虚拟键盘遮挡 */
+    }
+
+    .modal-body {
+        max-height: 65vh;
+        /* 移动端可滚动区域稍微增大 */
+    }
+}
+
 
 @media (max-width: 768px) {
 body {
