@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const tableContainer = document.getElementById("table-container")
     const channelSwitcher = document.querySelector(".channel-switcher")
 
-    // 【新增】移动端和详情面板相关DOM
+    // 移动端和详情面板相关DOM
     const mobileViewContainer = document.getElementById("mobile-view-container")
     const detailsOverlay = document.getElementById("details-overlay")
     const detailsDrawer = document.getElementById("details-drawer")
