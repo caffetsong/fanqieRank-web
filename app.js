@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const categoryContainer = document.getElementById("category-filter-container")
 
     // --- 数据获取与初始化 ---
-    fetch("http://szwso9ilj.hn-bkt.clouddn.com/report_data.json")
+    fetch("https://szwso9ilj.hn-bkt.clouddn.com/report_data.json")
         .then((response) => (response.ok ? response.json() : Promise.reject(`HTTP error! status: ${response.status}`)))
         .then((data) => {
             fullData = data
