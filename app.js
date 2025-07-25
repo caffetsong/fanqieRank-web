@@ -306,19 +306,40 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // 【新增】显示书籍详情面板的函数
-    function showDetailsPanel(book) {
-        detailsTitle.textContent = book.title
-        detailsContent.innerHTML = `
-            <ul>
-                <li><span class="detail-label">作者</span><span class="detail-value">${book.author}</span></li>
-                <li><span class="detail-label">状态</span><span class="detail-value">${book.status}</span></li>
-                <li><span class="detail-label">类型</span><span class="detail-value">${book.category}</span></li>
-                <li><span class="detail-label">字数</span><span class="detail-value">${book.wordCount}</span></li>
-                <li><span class="detail-label">入榜状态</span><span class="detail-value">${book.isNew ? "本次新入榜" : "持续在榜"}</span></li>
-            </ul>
-        `
-        toggleDrawer("details", true)
+function showDetailsPanel(book) {
+    // 我们给书名元素一个ID，方便后续绑定事件
+    detailsTitle.innerHTML = `<span id="copyable-title">${book.title}</span>`
+    detailsContent.innerHTML = `
+        <ul>
+            <li><span class="detail-label">作者</span><span class="detail-value">${book.author}</span></li>
+            <li><span class="detail-label">状态</span><span class="detail-value">${book.status}</span></li>
+            <li><span class="detail-label">类型</span><span class="detail-value">${book.category}</span></li>
+            <li><span class="detail-label">字数</span><span class="detail-value">${book.wordCount}</span></li>
+            <li><span class="detail-label">入榜状态</span><span class="detail-value">${book.isNew ? "本次新入榜" : "持续在榜"}</span></li>
+        </ul>
+        <p class="copy-tip">（点击上方书名可直接复制）</p> 
+    `
+    toggleDrawer("details", true)
+
+    // 【关键新增】在详情面板渲染并弹出后，再获取书名元素并绑定事件
+    const copyableTitle = document.getElementById("copyable-title")
+    if (copyableTitle) {
+        copyableTitle.addEventListener("click", () => {
+            // 使用 Clipboard API 写入剪贴板
+            navigator.clipboard
+                .writeText(book.title)
+                .then(() => {
+                    // 成功后给予Toast提示
+                    showToast("书名已复制！")
+                })
+                .catch((err) => {
+                    // 失败时在控制台打印错误，并给予用户提示
+                    console.error("复制失败: ", err)
+                    showToast("复制失败，您的浏览器可能不支持此功能。")
+                })
+        })
     }
+}
     function toggleModal(open) {
         document.body.classList.toggle("modal-open", open)
     }

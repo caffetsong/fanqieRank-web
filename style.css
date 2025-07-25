@@ -1,3 +1,7 @@
+/* --- 全局优化 --- */
+* {
+    -webkit-tap-highlight-color: transparent;
+}
 
 /* --- 全局与布局 --- */
 body {
@@ -756,6 +760,18 @@ main {
         font-weight: 500;
         color: #212529;
     }
+.copy-tip {
+    text-align: center;
+    font-size: 0.8em;
+    color: #adb5bd;
+    margin-top: 20px;
+    padding-top: 15px;
+    border-top: 1px solid #f1f3f5;
+}
 
+#copyable-title {
+    cursor: pointer;
+    /* 鼠标悬停时显示手型，暗示可点击 */
+}
 
 }
