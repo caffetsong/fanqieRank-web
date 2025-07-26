@@ -283,7 +283,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <div class="rank">${index + 1}</div>
                 <div class="book-details">
                     <h3 class="book-title">${book.title}</h3>
-                    <p class="book-author">${book.author}</p>
+                    <p class="book-category">${book.category}</p>
                 </div>
                 ${book.isNew ? '<div class="new-badge">NEW</div>' : ""}
             </div>
@@ -317,7 +317,7 @@ function showDetailsPanel(book) {
             <li><span class="detail-label">字数</span><span class="detail-value">${book.wordCount}</span></li>
             <li><span class="detail-label">入榜状态</span><span class="detail-value">${book.isNew ? "本次新入榜" : "持续在榜"}</span></li>
         </ul>
-        <p class="copy-tip">（点击上方书名可直接复制）</p> 
+        <p class="copy-tip">（点击书名可直接复制）</p> 
     `
     toggleDrawer("details", true)
 

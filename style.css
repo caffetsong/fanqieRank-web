@@ -649,7 +649,6 @@ main {
     height: 3px;
    
     border-radius: 2px;
-    /* --- 以下是核心修改 --- */
     left: 50%;
     /* 1. 将下划线的左端点移动到按钮的中心线 */
     transform: translateX(-50%);
@@ -709,7 +708,7 @@ main {
     }
 
     .book-title {
-        font-size: 1.1em;
+        font-size: 1em;
         font-weight: 600;
         color: #212529;
         white-space: nowrap;
@@ -718,7 +717,7 @@ main {
         margin: 0 0 4px 0;
     }
 
-    .book-author {
+    .book-category {
         font-size: 0.9em;
         color: #6c757d;
         margin: 0;
