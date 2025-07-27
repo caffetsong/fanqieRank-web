@@ -1,109 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="zh-CN">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>番茄小说在读榜</title>
-        <link rel="stylesheet" href="style.css" />
-    </head>
-    <body>
-        <header>
-            <h1>番茄小说在读榜</h1>
-            <div class="header-actions">
-                <!-- 信息按钮内容变为字母i，并应用统一基类 -->
-                <!-- 公告按钮已更新为带边框的问号样式 -->
-                <button id="info-btn" class="header-action-btn" aria-label="查看公告">
-                    <span class="info-question-mark">?</span>
-                </button>
-
-                <!-- 筛选按钮也应用统一基类，以实现风格统一 -->
-                <button id="filter-btn" class="header-action-btn" aria-label="打开筛选器">
-                    <svg viewBox="0 0 1024 1024">
-                        <path
-                            d="M960 128H64c-17.7 0-32 14.3-32 32v64c0 17.7 14.3 32 32 32h896c17.7 0 32-14.3 32-32v-64c0-17.7-14.3-32-32-32zM704 480H320c-17.7 0-32 14.3-32 32v64c0 17.7 14.3 32 32 32h384c17.7 0 32-14.3 32-32v-64c0-17.7-14.3-32-32-32zM512 832H320c-17.7 0-32 14.3-32 32v64c0 17.7 14.3 32 32 32h192c17.7 0 32-14.3 32-32v-64c0-17.7-14.3-32-32-32z"
-                        ></path>
-                    </svg>
-                    <span class="filter-btn-text">筛选</span>
-                </button>
-            </div>
-        </header>
-        <main>
-            <div class="channel-switcher">
-                <button data-channel="all" class="active">总榜</button>
-                <button data-channel="male">男频</button>
-                <button data-channel="female">女频</button>
-            </div>
-
-            <div id="app-content">
-                <!-- 旧的更新时间容器已被删除 -->
-                <section id="content-section">
-                    <div id="table-container"><!-- 表格 --></div>
-                    <div id="mobile-view-container"><!-- 卡片 --></div>
-                </section>
-            </div>
-        </main>
-
-        <!-- 抽屉与面板区域 -->
-        <div id="filter-overlay" class="filter-overlay"></div>
-        <aside id="filter-drawer" class="filter-drawer">
-            <div class="drawer-header">
-                <h2>筛选</h2>
-                <button id="close-drawer-btn" class="close-btn" aria-label="关闭筛选器">×</button>
-            </div>
-            <div class="drawer-content">
-                <div class="filter-section">
-                    <h3>状态</h3>
-                    <div id="status-filter-group" class="segmented-control">
-                        <button data-status="all" class="active">全部</button>
-                        <button data-status="连载中">连载中</button>
-                        <button data-status="已完结">完结</button>
-                    </div>
-                </div>
-                <div class="filter-section">
-                    <h3>其他</h3>
-                    <label class="checkbox-label">
-                        <input type="checkbox" id="new-only-checkbox" />
-                        只看新入榜
-                    </label>
-                </div>
-                <div class="filter-section">
-                    <h3>排除以下类型</h3>
-                    <div id="category-filter-container" class="checkbox-grid">
-                        <p class="loading-text">类型加载中...</p>
-                    </div>
-                </div>
-            </div>
-            <div class="drawer-footer">
-                <button id="reset-filter-btn" class="btn-secondary">重置</button>
-                <button id="apply-filter-btn" class="btn-primary">确认</button>
-            </div>
-        </aside>
-
-        <div id="details-overlay" class="details-overlay"></div>
-        <aside id="details-drawer" class="details-drawer">
-            <div class="drawer-header">
-                <h2 id="details-title">书籍详情</h2>
-                <button id="close-details-btn" class="close-btn" aria-label="关闭详情面板">×</button>
-            </div>
-            <div id="details-content" class="drawer-content"></div>
-        </aside>
-        <!-- 【新增】公告弹窗HTML骨架 -->
-        <div id="announcement-overlay" class="modal-overlay"></div>
-        <div id="announcement-modal" class="modal-container">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h2 id="modal-title">公告</h2>
-                    <button id="modal-close-btn" class="close-btn" aria-label="关闭公告">×</button>
-                </div>
-                <div class="modal-body">
-                    <p id="modal-update-time" class="meta-info"></p>
-                    <div id="modal-static-content">
-                        <!-- 公告的静态内容将由JS填充到这里 -->
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <script src="app.js"></script>
-    </body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>番茄小说在读榜</title>
+    <script type="module" crossorigin src="index-CbvoBLCb.js"></script>
+    <link rel="stylesheet" crossorigin href="index-mcfgIAsO.css">
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
 </html>
