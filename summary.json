@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-07-25",
+  "updateTime": "2025-07-30 08:17",
   "all": [
     {
       "rank": 1,
@@ -8,7 +8,7 @@
       "status": "已完结",
       "category": "悬疑脑洞",
       "wordCount": 296.4,
-      "isNew": false
+      "isNew": true
     },
     {
       "rank": 2,
@@ -16,8 +16,8 @@
       "author": "三九音域",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 298.4,
-      "isNew": false
+      "wordCount": 300.1,
+      "isNew": true
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "status": "已完结",
       "category": "都市高武",
       "wordCount": 426.4,
-      "isNew": false
+      "isNew": true
     },
     {
       "rank": 4,
@@ -34,8 +34,8 @@
       "author": "一月九十秋",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 278.2,
-      "isNew": false
+      "wordCount": 280.5,
+      "isNew": true
     },
     {
       "rank": 5,
@@ -43,8 +43,8 @@
       "author": "口爬鱼",
       "status": "连载中",
       "category": "抗战谍战",
-      "wordCount": 21.3,
-      "isNew": false
+      "wordCount": 24.3,
+      "isNew": true
     },
     {
       "rank": 6,
@@ -53,7 +53,7 @@
       "status": "已完结",
       "category": "星光璀璨",
       "wordCount": 129.7,
-      "isNew": false
+      "isNew": true
     },
     {
       "rank": 7,
@@ -61,8 +61,8 @@
       "author": "沐潇三生",
       "status": "连载中",
       "category": "传统玄幻",
-      "wordCount": 436.3,
-      "isNew": false
+      "wordCount": 438.4,
+      "isNew": true
     },
     {
       "rank": 8,
@@ -70,17 +70,17 @@
       "author": "陈若舟",
       "status": "连载中",
       "category": "豪门总裁",
-      "wordCount": 31.0,
-      "isNew": false
+      "wordCount": 33.7,
+      "isNew": true
     },
     {
       "rank": 9,
-      "title": "科举，农家子的权臣之路",
-      "author": "江河大爷",
+      "title": "和变态分手后，忘记关亲密付了",
+      "author": "小鸭鸭",
       "status": "连载中",
-      "category": "历史古代",
-      "wordCount": 57.2,
-      "isNew": false
+      "category": "现言脑洞",
+      "wordCount": 17.1,
+      "isNew": true
     },
     {
       "rank": 10,
@@ -89,9 +89,8 @@
       "status": "已完结",
       "category": "悬疑脑洞",
       "wordCount": 209.3,
-      "isNew": false
+      "isNew": true
     }
-  
   ],
   "male": [
     {
@@ -101,7 +100,7 @@
       "status": "已完结",
       "category": "悬疑脑洞",
       "wordCount": 296.4,
-      "isNew": false
+      "isNew": true
     },
     {
       "rank": 2,
@@ -109,8 +108,8 @@
       "author": "三九音域",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 298.4,
-      "isNew": false
+      "wordCount": 300.1,
+      "isNew": true
     },
     {
       "rank": 3,
@@ -119,7 +118,7 @@
       "status": "已完结",
       "category": "都市高武",
       "wordCount": 426.4,
-      "isNew": false
+      "isNew": true
     },
     {
       "rank": 4,
@@ -127,8 +126,8 @@
       "author": "一月九十秋",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 278.2,
-      "isNew": false
+      "wordCount": 280.5,
+      "isNew": true
     },
     {
       "rank": 5,
@@ -136,8 +135,8 @@
       "author": "口爬鱼",
       "status": "连载中",
       "category": "抗战谍战",
-      "wordCount": 21.3,
-      "isNew": false
+      "wordCount": 24.3,
+      "isNew": true
     },
     {
       "rank": 6,
@@ -145,47 +144,45 @@
       "author": "沐潇三生",
       "status": "连载中",
       "category": "传统玄幻",
-      "wordCount": 436.3,
-      "isNew": false
+      "wordCount": 438.4,
+      "isNew": true
     },
     {
       "rank": 7,
-      "title": "科举，农家子的权臣之路",
-      "author": "江河大爷",
-      "status": "连载中",
-      "category": "历史古代",
-      "wordCount": 57.2,
-      "isNew": false
-    },
-    {
-      "rank": 8,
       "title": "诡舍",
       "author": "夜来风雨声丶",
       "status": "已完结",
       "category": "悬疑脑洞",
       "wordCount": 209.3,
-      "isNew": false
+      "isNew": true
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "序列：吃神者",
       "author": "不要大脑要小脑",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 214.2,
-      "isNew": false
+      "wordCount": 216.0,
+      "isNew": true
+    },
+    {
+      "rank": 9,
+      "title": "科举，农家子的权臣之路",
+      "author": "江河大爷",
+      "status": "连载中",
+      "category": "历史古代",
+      "wordCount": 59.3,
+      "isNew": true
     },
     {
       "rank": 10,
-      "title": "我顶级背景，你们还敢欺负我？",
-      "author": "开心点小狐狸",
+      "title": "开局长生万古，苟到天荒地老",
+      "author": "紫灵风雪",
       "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 28.4,
-      "isNew": false
+      "category": "玄幻脑洞",
+      "wordCount": 500.5,
+      "isNew": true
     }
-    
-    
   ],
   "female": [
     {
@@ -195,7 +192,7 @@
       "status": "已完结",
       "category": "星光璀璨",
       "wordCount": 129.7,
-      "isNew": false
+      "isNew": true
     },
     {
       "rank": 2,
@@ -203,26 +200,26 @@
       "author": "陈若舟",
       "status": "连载中",
       "category": "豪门总裁",
-      "wordCount": 31.0,
-      "isNew": false
+      "wordCount": 33.7,
+      "isNew": true
     },
     {
       "rank": 3,
+      "title": "和变态分手后，忘记关亲密付了",
+      "author": "小鸭鸭",
+      "status": "连载中",
+      "category": "现言脑洞",
+      "wordCount": 17.1,
+      "isNew": true
+    },
+    {
+      "rank": 4,
       "title": "我靠摆烂拯救了全宗门",
       "author": "公主不回家",
       "status": "已完结",
       "category": "玄幻言情",
       "wordCount": 189.9,
-      "isNew": false
-    },
-    {
-      "rank": 4,
-      "title": "我死后的第十一年",
-      "author": "皮卡黑",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 53.7,
-      "isNew": false
+      "isNew": true
     },
     {
       "rank": 5,
@@ -231,53 +228,52 @@
       "status": "已完结",
       "category": "年代",
       "wordCount": 183.3,
-      "isNew": false
+      "isNew": true
     },
     {
       "rank": 6,
-      "title": "末日生存方案供应商",
-      "author": "板面王仔",
-      "status": "连载中",
-      "category": "科幻末世",
-      "wordCount": 60.1,
-      "isNew": false
-    },
-    {
-      "rank": 7,
-      "title": "和变态分手后，忘记关亲密付了",
-      "author": "小鸭鸭",
-      "status": "连载中",
-      "category": "现言脑洞",
-      "wordCount": 15.2,
-      "isNew": false
-    },
-    {
-      "rank": 8,
       "title": "全宗门都是恋爱脑，唯我是真疯批",
       "author": "纸老虎",
       "status": "已完结",
       "category": "玄幻言情",
       "wordCount": 127.6,
-      "isNew": false
+      "isNew": true
+    },
+    {
+      "rank": 7,
+      "title": "我死后的第十一年",
+      "author": "皮卡黑",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 55.5,
+      "isNew": true
+    },
+    {
+      "rank": 8,
+      "title": "有了暴君读心术，我在宫里杀疯了",
+      "author": "尹在水",
+      "status": "已完结",
+      "category": "古言脑洞",
+      "wordCount": 85.7,
+      "isNew": true
     },
     {
       "rank": 9,
-      "title": "白日勾火",
-      "author": "咪小汐",
-      "status": "已完结",
-      "category": "星光璀璨",
-      "wordCount": 25.6,
-      "isNew": false
-    },
-    {
-      "rank": 10,
       "title": "名义：我下场后，祁同伟必须进步",
       "author": "河南火神",
       "status": "连载中",
       "category": "男频衍生",
-      "wordCount": 59.2,
-      "isNew": false
+      "wordCount": 61.7,
+      "isNew": true
+    },
+    {
+      "rank": 10,
+      "title": "序列公路求生：我在末日升级物资",
+      "author": "山海呼啸",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 73.0,
+      "isNew": true
     }
-   
   ]
 }
