@@ -1,0 +1,279 @@
+{
+  "updateTime": "2025-07-30 08:17",
+  "all": [
+    {
+      "rank": 1,
+      "title": "十日终焉",
+      "author": "杀虫队队员",
+      "status": "已完结",
+      "category": "悬疑脑洞",
+      "wordCount": 296.4,
+      "isNew": true
+    },
+    {
+      "rank": 2,
+      "title": "我不是戏神",
+      "author": "三九音域",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 300.1,
+      "isNew": true
+    },
+    {
+      "rank": 3,
+      "title": "我在精神病院学斩神",
+      "author": "三九音域",
+      "status": "已完结",
+      "category": "都市高武",
+      "wordCount": 426.4,
+      "isNew": true
+    },
+    {
+      "rank": 4,
+      "title": "诸神愚戏",
+      "author": "一月九十秋",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 280.5,
+      "isNew": true
+    },
+    {
+      "rank": 5,
+      "title": "顶替我高考状元？我扛匾跪军区",
+      "author": "口爬鱼",
+      "status": "连载中",
+      "category": "抗战谍战",
+      "wordCount": 24.3,
+      "isNew": true
+    },
+    {
+      "rank": 6,
+      "title": "癫，都癫，癫点好啊",
+      "author": "小盐子",
+      "status": "已完结",
+      "category": "星光璀璨",
+      "wordCount": 129.7,
+      "isNew": true
+    },
+    {
+      "rank": 7,
+      "title": "天渊",
+      "author": "沐潇三生",
+      "status": "连载中",
+      "category": "传统玄幻",
+      "wordCount": 438.4,
+      "isNew": true
+    },
+    {
+      "rank": 8,
+      "title": "雾色靡靡",
+      "author": "陈若舟",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 33.7,
+      "isNew": true
+    },
+    {
+      "rank": 9,
+      "title": "和变态分手后，忘记关亲密付了",
+      "author": "小鸭鸭",
+      "status": "连载中",
+      "category": "现言脑洞",
+      "wordCount": 17.1,
+      "isNew": true
+    },
+    {
+      "rank": 10,
+      "title": "诡舍",
+      "author": "夜来风雨声丶",
+      "status": "已完结",
+      "category": "悬疑脑洞",
+      "wordCount": 209.3,
+      "isNew": true
+    }
+  ],
+  "male": [
+    {
+      "rank": 1,
+      "title": "十日终焉",
+      "author": "杀虫队队员",
+      "status": "已完结",
+      "category": "悬疑脑洞",
+      "wordCount": 296.4,
+      "isNew": true
+    },
+    {
+      "rank": 2,
+      "title": "我不是戏神",
+      "author": "三九音域",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 300.1,
+      "isNew": true
+    },
+    {
+      "rank": 3,
+      "title": "我在精神病院学斩神",
+      "author": "三九音域",
+      "status": "已完结",
+      "category": "都市高武",
+      "wordCount": 426.4,
+      "isNew": true
+    },
+    {
+      "rank": 4,
+      "title": "诸神愚戏",
+      "author": "一月九十秋",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 280.5,
+      "isNew": true
+    },
+    {
+      "rank": 5,
+      "title": "顶替我高考状元？我扛匾跪军区",
+      "author": "口爬鱼",
+      "status": "连载中",
+      "category": "抗战谍战",
+      "wordCount": 24.3,
+      "isNew": true
+    },
+    {
+      "rank": 6,
+      "title": "天渊",
+      "author": "沐潇三生",
+      "status": "连载中",
+      "category": "传统玄幻",
+      "wordCount": 438.4,
+      "isNew": true
+    },
+    {
+      "rank": 7,
+      "title": "诡舍",
+      "author": "夜来风雨声丶",
+      "status": "已完结",
+      "category": "悬疑脑洞",
+      "wordCount": 209.3,
+      "isNew": true
+    },
+    {
+      "rank": 8,
+      "title": "序列：吃神者",
+      "author": "不要大脑要小脑",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 216.0,
+      "isNew": true
+    },
+    {
+      "rank": 9,
+      "title": "科举，农家子的权臣之路",
+      "author": "江河大爷",
+      "status": "连载中",
+      "category": "历史古代",
+      "wordCount": 59.3,
+      "isNew": true
+    },
+    {
+      "rank": 10,
+      "title": "开局长生万古，苟到天荒地老",
+      "author": "紫灵风雪",
+      "status": "连载中",
+      "category": "玄幻脑洞",
+      "wordCount": 500.5,
+      "isNew": true
+    }
+  ],
+  "female": [
+    {
+      "rank": 1,
+      "title": "癫，都癫，癫点好啊",
+      "author": "小盐子",
+      "status": "已完结",
+      "category": "星光璀璨",
+      "wordCount": 129.7,
+      "isNew": true
+    },
+    {
+      "rank": 2,
+      "title": "雾色靡靡",
+      "author": "陈若舟",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 33.7,
+      "isNew": true
+    },
+    {
+      "rank": 3,
+      "title": "和变态分手后，忘记关亲密付了",
+      "author": "小鸭鸭",
+      "status": "连载中",
+      "category": "现言脑洞",
+      "wordCount": 17.1,
+      "isNew": true
+    },
+    {
+      "rank": 4,
+      "title": "我靠摆烂拯救了全宗门",
+      "author": "公主不回家",
+      "status": "已完结",
+      "category": "玄幻言情",
+      "wordCount": 189.9,
+      "isNew": true
+    },
+    {
+      "rank": 5,
+      "title": "七零：被赶出家门后我转头嫁军官",
+      "author": "小双瑜",
+      "status": "已完结",
+      "category": "年代",
+      "wordCount": 183.3,
+      "isNew": true
+    },
+    {
+      "rank": 6,
+      "title": "全宗门都是恋爱脑，唯我是真疯批",
+      "author": "纸老虎",
+      "status": "已完结",
+      "category": "玄幻言情",
+      "wordCount": 127.6,
+      "isNew": true
+    },
+    {
+      "rank": 7,
+      "title": "我死后的第十一年",
+      "author": "皮卡黑",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 55.5,
+      "isNew": true
+    },
+    {
+      "rank": 8,
+      "title": "有了暴君读心术，我在宫里杀疯了",
+      "author": "尹在水",
+      "status": "已完结",
+      "category": "古言脑洞",
+      "wordCount": 85.7,
+      "isNew": true
+    },
+    {
+      "rank": 9,
+      "title": "名义：我下场后，祁同伟必须进步",
+      "author": "河南火神",
+      "status": "连载中",
+      "category": "男频衍生",
+      "wordCount": 61.7,
+      "isNew": true
+    },
+    {
+      "rank": 10,
+      "title": "序列公路求生：我在末日升级物资",
+      "author": "山海呼啸",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 73.0,
+      "isNew": true
+    }
+  ]
+}
