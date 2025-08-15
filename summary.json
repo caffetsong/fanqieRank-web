@@ -1,22 +1,22 @@
 {
-  "updateTime": "2025-08-07 11:13",
+  "updateTime": "2025-08-15 15:06",
   "all": [
     {
       "rank": 1,
+      "title": "我不是戏神",
+      "author": "三九音域",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 306.6,
+      "isNew": false
+    },
+    {
+      "rank": 2,
       "title": "十日终焉",
       "author": "杀虫队队员",
       "status": "已完结",
       "category": "悬疑脑洞",
       "wordCount": 296.4,
-      "isNew": false
-    },
-    {
-      "rank": 2,
-      "title": "我不是戏神",
-      "author": "三九音域",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 304.1,
       "isNew": false
     },
     {
@@ -30,6 +30,15 @@
     },
     {
       "rank": 4,
+      "title": "斩仙台上何人？灵台方寸关门弟子",
+      "author": "小蟑螂七岁了",
+      "status": "连载中",
+      "category": "玄幻脑洞",
+      "wordCount": 20.4,
+      "isNew": false
+    },
+    {
+      "rank": 5,
       "title": "癫，都癫，癫点好啊",
       "author": "小盐子",
       "status": "已完结",
@@ -38,77 +47,68 @@
       "isNew": false
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "诸神愚戏",
       "author": "一月九十秋",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 284.2,
-      "isNew": false
-    },
-    {
-      "rank": 6,
-      "title": "天渊",
-      "author": "沐潇三生",
-      "status": "连载中",
-      "category": "传统玄幻",
-      "wordCount": 441.4,
+      "wordCount": 287.9,
       "isNew": false
     },
     {
       "rank": 7,
-      "title": "顶替我高考状元？我扛匾跪军区",
-      "author": "口爬鱼",
+      "title": "天渊",
+      "author": "沐潇三生",
       "status": "连载中",
-      "category": "抗战谍战",
-      "wordCount": 29.1,
+      "category": "传统玄幻",
+      "wordCount": 444.7,
       "isNew": false
     },
     {
       "rank": 8,
-      "title": "斩仙台上何人？灵台方寸关门弟子",
-      "author": "小蟑螂七岁了",
+      "title": "游戏入侵：抢男女主机缘会上瘾诶",
+      "author": "猫不秃",
       "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 16.4,
+      "category": "游戏体育",
+      "wordCount": 210.2,
       "isNew": false
     },
     {
       "rank": 9,
-      "title": "被唐僧赶走？花果山成最强一难！",
-      "author": "一三五只兔",
+      "title": "闺蜜说大哥凶，可他夜里喊我宝宝",
+      "author": "鎏旗",
       "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 26.6,
+      "category": "豪门总裁",
+      "wordCount": 23.8,
       "isNew": false
     },
     {
       "rank": 10,
-      "title": "序列：吃神者",
-      "author": "不要大脑要小脑",
+      "title": "开局长生万古，苟到天荒地老",
+      "author": "紫灵风雪",
       "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 219.3,
+      "category": "玄幻脑洞",
+      "wordCount": 507.3,
       "isNew": false
     }
   ],
   "male": [
     {
       "rank": 1,
+      "title": "我不是戏神",
+      "author": "三九音域",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 306.6,
+      "isNew": false
+    },
+    {
+      "rank": 2,
       "title": "十日终焉",
       "author": "杀虫队队员",
       "status": "已完结",
       "category": "悬疑脑洞",
       "wordCount": 296.4,
-      "isNew": false
-    },
-    {
-      "rank": 2,
-      "title": "我不是戏神",
-      "author": "三九音域",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 304.1,
       "isNew": false
     },
     {
@@ -122,65 +122,65 @@
     },
     {
       "rank": 4,
-      "title": "诸神愚戏",
-      "author": "一月九十秋",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 284.2,
-      "isNew": false
-    },
-    {
-      "rank": 5,
-      "title": "天渊",
-      "author": "沐潇三生",
-      "status": "连载中",
-      "category": "传统玄幻",
-      "wordCount": 441.4,
-      "isNew": false
-    },
-    {
-      "rank": 6,
-      "title": "顶替我高考状元？我扛匾跪军区",
-      "author": "口爬鱼",
-      "status": "连载中",
-      "category": "抗战谍战",
-      "wordCount": 29.1,
-      "isNew": false
-    },
-    {
-      "rank": 7,
       "title": "斩仙台上何人？灵台方寸关门弟子",
       "author": "小蟑螂七岁了",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 16.4,
+      "wordCount": 20.4,
+      "isNew": false
+    },
+    {
+      "rank": 5,
+      "title": "诸神愚戏",
+      "author": "一月九十秋",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 287.9,
+      "isNew": false
+    },
+    {
+      "rank": 6,
+      "title": "天渊",
+      "author": "沐潇三生",
+      "status": "连载中",
+      "category": "传统玄幻",
+      "wordCount": 444.7,
+      "isNew": false
+    },
+    {
+      "rank": 7,
+      "title": "开局长生万古，苟到天荒地老",
+      "author": "紫灵风雪",
+      "status": "连载中",
+      "category": "玄幻脑洞",
+      "wordCount": 507.3,
       "isNew": false
     },
     {
       "rank": 8,
-      "title": "被唐僧赶走？花果山成最强一难！",
-      "author": "一三五只兔",
+      "title": "系统赋我长生，我熬死了所有人",
+      "author": "一只榴莲3号",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 26.6,
+      "wordCount": 361.3,
       "isNew": false
     },
     {
       "rank": 9,
-      "title": "序列：吃神者",
-      "author": "不要大脑要小脑",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 219.3,
-      "isNew": false
-    },
-    {
-      "rank": 10,
       "title": "提前登陆游戏世界，开局联姻女帝",
       "author": "潇楚还没睡",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 145.3,
+      "wordCount": 150.2,
+      "isNew": false
+    },
+    {
+      "rank": 10,
+      "title": "被唐僧赶走？花果山成最强一难！",
+      "author": "一三五只兔",
+      "status": "连载中",
+      "category": "玄幻脑洞",
+      "wordCount": 32.4,
       "isNew": false
     }
   ],
@@ -200,47 +200,20 @@
       "author": "猫不秃",
       "status": "连载中",
       "category": "游戏体育",
-      "wordCount": 206.8,
+      "wordCount": 210.2,
       "isNew": false
     },
     {
       "rank": 3,
-      "title": "和变态分手后，忘记关亲密付了",
-      "author": "小鸭鸭",
-      "status": "连载中",
-      "category": "现言脑洞",
-      "wordCount": 20.5,
-      "isNew": false
-    },
-    {
-      "rank": 4,
       "title": "闺蜜说大哥凶，可他夜里喊我宝宝",
       "author": "鎏旗",
       "status": "连载中",
       "category": "豪门总裁",
-      "wordCount": 20.5,
+      "wordCount": 23.8,
       "isNew": false
     },
     {
-      "rank": 5,
-      "title": "有了暴君读心术，我在宫里杀疯了",
-      "author": "尹在水",
-      "status": "已完结",
-      "category": "古言脑洞",
-      "wordCount": 86.6,
-      "isNew": false
-    },
-    {
-      "rank": 6,
-      "title": "我靠摆烂拯救了全宗门",
-      "author": "公主不回家",
-      "status": "已完结",
-      "category": "玄幻言情",
-      "wordCount": 189.9,
-      "isNew": false
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "title": "七零：被赶出家门后我转头嫁军官",
       "author": "小双瑜",
       "status": "已完结",
@@ -249,21 +222,48 @@
       "isNew": false
     },
     {
-      "rank": 8,
-      "title": "雾色靡靡",
-      "author": "陈若舟",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 37.5,
+      "rank": 5,
+      "title": "有了暴君读心术，我在宫里杀疯了",
+      "author": "尹在水",
+      "status": "已完结",
+      "category": "古言脑洞",
+      "wordCount": 86.8,
       "isNew": false
     },
     {
-      "rank": 9,
+      "rank": 6,
+      "title": "我死后的第十一年",
+      "author": "皮卡黑",
+      "status": "已完结",
+      "category": "豪门总裁",
+      "wordCount": 57.0,
+      "isNew": false
+    },
+    {
+      "rank": 7,
+      "title": "怎敌她动人",
+      "author": "彼呦",
+      "status": "连载中",
+      "category": "青春甜宠",
+      "wordCount": 30.7,
+      "isNew": true
+    },
+    {
+      "rank": 8,
       "title": "全宗门都是恋爱脑，唯我是真疯批",
       "author": "纸老虎",
       "status": "已完结",
       "category": "玄幻言情",
       "wordCount": 127.6,
+      "isNew": false
+    },
+    {
+      "rank": 9,
+      "title": "和变态分手后，忘记关亲密付了",
+      "author": "小鸭鸭",
+      "status": "连载中",
+      "category": "现言脑洞",
+      "wordCount": 23.8,
       "isNew": false
     },
     {
