@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-09-22 19:49",
+  "updateTime": "2025-09-24 19:49",
   "all": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "猫不秃",
       "status": "连载中",
       "category": "游戏体育",
-      "wordCount": 226.6,
+      "wordCount": 227.5,
       "isNew": false
     },
     {
@@ -16,7 +16,7 @@
       "author": "三九音域",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 321.2,
+      "wordCount": 322.0,
       "isNew": false
     },
     {
@@ -43,29 +43,11 @@
       "author": "紫灵风雪",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 523.1,
+      "wordCount": 523.9,
       "isNew": false
     },
     {
       "rank": 6,
-      "title": "天渊",
-      "author": "沐潇三生",
-      "status": "连载中",
-      "category": "传统玄幻",
-      "wordCount": 459.8,
-      "isNew": false
-    },
-    {
-      "rank": 7,
-      "title": "诸神愚戏",
-      "author": "一月九十秋",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 306.0,
-      "isNew": false
-    },
-    {
-      "rank": 8,
       "title": "侯府忘恩义？摄政王撑腰，不原谅",
       "author": "初点点",
       "status": "已完结",
@@ -74,21 +56,39 @@
       "isNew": false
     },
     {
+      "rank": 7,
+      "title": "天渊",
+      "author": "沐潇三生",
+      "status": "连载中",
+      "category": "传统玄幻",
+      "wordCount": 460.6,
+      "isNew": false
+    },
+    {
+      "rank": 8,
+      "title": "皇家金牌县令",
+      "author": "板面王仔",
+      "status": "已完结",
+      "category": "历史古代",
+      "wordCount": 273.7,
+      "isNew": false
+    },
+    {
       "rank": 9,
-      "title": "时停起手，邪神也得给我跪下！",
-      "author": "六个葫芦",
+      "title": "诸神愚戏",
+      "author": "一月九十秋",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 74.9,
+      "wordCount": 307.0,
       "isNew": false
     },
     {
       "rank": 10,
-      "title": "斩仙台上何人？灵台方寸关门弟子",
-      "author": "小蟑螂七岁了",
+      "title": "时停起手，邪神也得给我跪下！",
+      "author": "六个葫芦",
       "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 40.9,
+      "category": "都市高武",
+      "wordCount": 76.0,
       "isNew": false
     }
   ],
@@ -99,7 +99,7 @@
       "author": "三九音域",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 321.2,
+      "wordCount": 322.0,
       "isNew": false
     },
     {
@@ -126,7 +126,7 @@
       "author": "紫灵风雪",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 523.1,
+      "wordCount": 523.9,
       "isNew": false
     },
     {
@@ -135,38 +135,11 @@
       "author": "沐潇三生",
       "status": "连载中",
       "category": "传统玄幻",
-      "wordCount": 459.8,
+      "wordCount": 460.6,
       "isNew": false
     },
     {
       "rank": 6,
-      "title": "诸神愚戏",
-      "author": "一月九十秋",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 306.0,
-      "isNew": false
-    },
-    {
-      "rank": 7,
-      "title": "时停起手，邪神也得给我跪下！",
-      "author": "六个葫芦",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 74.9,
-      "isNew": false
-    },
-    {
-      "rank": 8,
-      "title": "斩仙台上何人？灵台方寸关门弟子",
-      "author": "小蟑螂七岁了",
-      "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 40.9,
-      "isNew": false
-    },
-    {
-      "rank": 9,
       "title": "皇家金牌县令",
       "author": "板面王仔",
       "status": "已完结",
@@ -175,12 +148,39 @@
       "isNew": false
     },
     {
+      "rank": 7,
+      "title": "诸神愚戏",
+      "author": "一月九十秋",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 307.0,
+      "isNew": false
+    },
+    {
+      "rank": 8,
+      "title": "时停起手，邪神也得给我跪下！",
+      "author": "六个葫芦",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 76.0,
+      "isNew": false
+    },
+    {
+      "rank": 9,
+      "title": "斩仙台上何人？灵台方寸关门弟子",
+      "author": "小蟑螂七岁了",
+      "status": "连载中",
+      "category": "玄幻脑洞",
+      "wordCount": 42.5,
+      "isNew": false
+    },
+    {
       "rank": 10,
       "title": "系统赋我长生，我熬死了所有人",
       "author": "一只榴莲3号",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 380.6,
+      "wordCount": 381.4,
       "isNew": false
     }
   ],
@@ -191,7 +191,7 @@
       "author": "猫不秃",
       "status": "连载中",
       "category": "游戏体育",
-      "wordCount": 226.6,
+      "wordCount": 227.5,
       "isNew": false
     },
     {
@@ -223,29 +223,29 @@
     },
     {
       "rank": 5,
-      "title": "奶团被找回，京圈大佬一心洗奶瓶",
-      "author": "多多锦",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 19.4,
-      "isNew": false
-    },
-    {
-      "rank": 6,
       "title": "穿书后意外攻略了苗疆少年",
       "author": "奔跑的桃子",
       "status": "连载中",
       "category": "古言脑洞",
-      "wordCount": 44.7,
+      "wordCount": 45.8,
+      "isNew": false
+    },
+    {
+      "rank": 6,
+      "title": "奶团被找回，京圈大佬一心洗奶瓶",
+      "author": "多多锦",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 20.3,
       "isNew": false
     },
     {
       "rank": 7,
-      "title": "潮汐界限",
-      "author": "奶糖酥",
+      "title": "闷骚前男友空降，成了我老板",
+      "author": "玥从安",
       "status": "连载中",
-      "category": "职场婚恋",
-      "wordCount": 30.4,
+      "category": "豪门总裁",
+      "wordCount": 24.7,
       "isNew": false
     },
     {
@@ -254,25 +254,25 @@
       "author": "妖铃",
       "status": "连载中",
       "category": "豪门总裁",
-      "wordCount": 40.5,
+      "wordCount": 41.4,
       "isNew": false
     },
     {
       "rank": 9,
-      "title": "闷骚前男友空降，成了我老板",
-      "author": "玥从安",
+      "title": "潮汐界限",
+      "author": "奶糖酥",
       "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 23.9,
+      "category": "职场婚恋",
+      "wordCount": 31.5,
       "isNew": false
     },
     {
       "rank": 10,
-      "title": "被S级alpha们包围的直男",
-      "author": "拒清水",
+      "title": "逼我断亲，住牛棚我暴富你们哭啥",
+      "author": "樱花的梦",
       "status": "已完结",
-      "category": "双男主",
-      "wordCount": 20.1,
+      "category": "种田",
+      "wordCount": 127.0,
       "isNew": false
     }
   ]
