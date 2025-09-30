@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-09-28 19:49",
+  "updateTime": "2025-09-30 19:49",
   "all": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "猫不秃",
       "status": "连载中",
       "category": "游戏体育",
-      "wordCount": 229.3,
+      "wordCount": 230.1,
       "isNew": false
     },
     {
@@ -16,7 +16,7 @@
       "author": "三九音域",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 323.6,
+      "wordCount": 324.2,
       "isNew": false
     },
     {
@@ -43,7 +43,7 @@
       "author": "紫灵风雪",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 525.6,
+      "wordCount": 526.4,
       "isNew": false
     },
     {
@@ -57,15 +57,6 @@
     },
     {
       "rank": 7,
-      "title": "天渊",
-      "author": "沐潇三生",
-      "status": "连载中",
-      "category": "传统玄幻",
-      "wordCount": 462.3,
-      "isNew": false
-    },
-    {
-      "rank": 8,
       "title": "皇家金牌县令",
       "author": "板面王仔",
       "status": "已完结",
@@ -74,12 +65,21 @@
       "isNew": false
     },
     {
+      "rank": 8,
+      "title": "天渊",
+      "author": "沐潇三生",
+      "status": "连载中",
+      "category": "传统玄幻",
+      "wordCount": 463.1,
+      "isNew": false
+    },
+    {
       "rank": 9,
       "title": "重生千禧年：官场之路从片警开始",
       "author": "码到死",
       "status": "连载中",
       "category": "都市日常",
-      "wordCount": 136.2,
+      "wordCount": 137.6,
       "isNew": false
     },
     {
@@ -88,7 +88,7 @@
       "author": "一月九十秋",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 308.9,
+      "wordCount": 309.9,
       "isNew": false
     }
   ],
@@ -99,7 +99,7 @@
       "author": "三九音域",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 323.6,
+      "wordCount": 324.2,
       "isNew": false
     },
     {
@@ -126,20 +126,11 @@
       "author": "紫灵风雪",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 525.6,
+      "wordCount": 526.4,
       "isNew": false
     },
     {
       "rank": 5,
-      "title": "天渊",
-      "author": "沐潇三生",
-      "status": "连载中",
-      "category": "传统玄幻",
-      "wordCount": 462.3,
-      "isNew": false
-    },
-    {
-      "rank": 6,
       "title": "皇家金牌县令",
       "author": "板面王仔",
       "status": "已完结",
@@ -148,12 +139,21 @@
       "isNew": false
     },
     {
+      "rank": 6,
+      "title": "天渊",
+      "author": "沐潇三生",
+      "status": "连载中",
+      "category": "传统玄幻",
+      "wordCount": 463.1,
+      "isNew": false
+    },
+    {
       "rank": 7,
       "title": "重生千禧年：官场之路从片警开始",
       "author": "码到死",
       "status": "连载中",
       "category": "都市日常",
-      "wordCount": 136.2,
+      "wordCount": 137.6,
       "isNew": false
     },
     {
@@ -162,25 +162,25 @@
       "author": "一月九十秋",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 308.9,
+      "wordCount": 309.9,
       "isNew": false
     },
     {
       "rank": 9,
-      "title": "公考捡漏：从女友抛弃到权利巅峰",
-      "author": "元明小阳",
-      "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 83.5,
-      "isNew": false
-    },
-    {
-      "rank": 10,
       "title": "时停起手，邪神也得给我跪下！",
       "author": "六个葫芦",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 78.6,
+      "wordCount": 79.9,
+      "isNew": false
+    },
+    {
+      "rank": 10,
+      "title": "公考捡漏：从女友抛弃到权利巅峰",
+      "author": "元明小阳",
+      "status": "连载中",
+      "category": "都市日常",
+      "wordCount": 84.5,
       "isNew": false
     }
   ],
@@ -191,7 +191,7 @@
       "author": "猫不秃",
       "status": "连载中",
       "category": "游戏体育",
-      "wordCount": 229.3,
+      "wordCount": 230.1,
       "isNew": false
     },
     {
@@ -214,42 +214,6 @@
     },
     {
       "rank": 4,
-      "title": "穿书后意外攻略了苗疆少年",
-      "author": "奔跑的桃子",
-      "status": "连载中",
-      "category": "古言脑洞",
-      "wordCount": 47.8,
-      "isNew": false
-    },
-    {
-      "rank": 5,
-      "title": "奶团被找回，京圈大佬一心洗奶瓶",
-      "author": "多多锦",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 22.1,
-      "isNew": false
-    },
-    {
-      "rank": 6,
-      "title": "拜金樊胜美，孟宴臣偏要宠",
-      "author": "希暖十月",
-      "status": "已完结",
-      "category": "女频衍生",
-      "wordCount": 33.9,
-      "isNew": false
-    },
-    {
-      "rank": 7,
-      "title": "闷骚前男友空降，成了我老板",
-      "author": "玥从安",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 26.3,
-      "isNew": false
-    },
-    {
-      "rank": 8,
       "title": "深情诱引",
       "author": "鸟松米",
       "status": "已完结",
@@ -258,21 +222,57 @@
       "isNew": false
     },
     {
-      "rank": 9,
-      "title": "她醉酒进错房，京圈大佬一夜沦陷",
-      "author": "妖铃",
+      "rank": 5,
+      "title": "奶团被找回，京圈大佬一心洗奶瓶",
+      "author": "多多锦",
       "status": "连载中",
       "category": "豪门总裁",
-      "wordCount": 43.1,
+      "wordCount": 23.0,
       "isNew": false
     },
     {
-      "rank": 10,
+      "rank": 6,
+      "title": "穿书后意外攻略了苗疆少年",
+      "author": "奔跑的桃子",
+      "status": "连载中",
+      "category": "古言脑洞",
+      "wordCount": 48.5,
+      "isNew": false
+    },
+    {
+      "rank": 7,
       "title": "现代女散修的元神漫游记",
       "author": "梵一善",
       "status": "连载中",
       "category": "现言脑洞",
-      "wordCount": 32.5,
+      "wordCount": 33.7,
+      "isNew": false
+    },
+    {
+      "rank": 8,
+      "title": "她醉酒进错房，京圈大佬一夜沦陷",
+      "author": "妖铃",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 43.9,
+      "isNew": false
+    },
+    {
+      "rank": 9,
+      "title": "拜金樊胜美，孟宴臣偏要宠",
+      "author": "希暖十月",
+      "status": "已完结",
+      "category": "女频衍生",
+      "wordCount": 33.9,
+      "isNew": false
+    },
+    {
+      "rank": 10,
+      "title": "闷骚前男友空降，成了我老板",
+      "author": "玥从安",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 27.4,
       "isNew": false
     }
   ]
