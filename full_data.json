@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-09-30 19:49",
+  "updateTime": "2025-10-02 19:49",
   "all": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "猫不秃",
       "status": "连载中",
       "category": "游戏体育",
-      "wordCount": 230.1,
+      "wordCount": 231.0,
       "isNew": false
     },
     {
@@ -16,7 +16,7 @@
       "author": "三九音域",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 324.2,
+      "wordCount": 325.0,
       "isNew": false
     },
     {
@@ -43,7 +43,7 @@
       "author": "紫灵风雪",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 526.4,
+      "wordCount": 527.3,
       "isNew": false
     },
     {
@@ -70,74 +70,65 @@
       "author": "沐潇三生",
       "status": "连载中",
       "category": "传统玄幻",
-      "wordCount": 463.1,
+      "wordCount": 463.9,
       "isNew": false
     },
     {
       "rank": 9,
-      "title": "重生千禧年：官场之路从片警开始",
-      "author": "码到死",
-      "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 137.6,
-      "isNew": false
-    },
-    {
-      "rank": 10,
       "title": "诸神愚戏",
       "author": "一月九十秋",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 309.9,
+      "wordCount": 311.0,
       "isNew": false
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "时停起手，邪神也得给我跪下！",
       "author": "六个葫芦",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 79.9,
+      "wordCount": 81.1,
       "isNew": false
     },
     {
-      "rank": 12,
-      "title": "公考捡漏：从女友抛弃到权利巅峰",
-      "author": "元明小阳",
-      "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 84.5,
-      "isNew": false
-    },
-    {
-      "rank": 13,
+      "rank": 11,
       "title": "系统赋我长生，我熬死了所有人",
       "author": "一只榴莲3号",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 383.9,
+      "wordCount": 384.7,
       "isNew": false
     },
     {
-      "rank": 14,
+      "rank": 12,
+      "title": "重生千禧年：官场之路从片警开始",
+      "author": "码到死",
+      "status": "连载中",
+      "category": "都市日常",
+      "wordCount": 139.3,
+      "isNew": false
+    },
+    {
+      "rank": 13,
       "title": "斩仙台上何人？灵台方寸关门弟子",
       "author": "小蟑螂七岁了",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 45.3,
+      "wordCount": 46.2,
       "isNew": false
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "惊鸿",
       "author": "一夕烟雨",
       "status": "连载中",
       "category": "传统玄幻",
-      "wordCount": 778.0,
+      "wordCount": 778.8,
       "isNew": false
     },
     {
-      "rank": 16,
+      "rank": 15,
       "title": "反派：我的弟弟是天选之子",
       "author": "家养了只肥兔",
       "status": "已完结",
@@ -146,25 +137,7 @@
       "isNew": false
     },
     {
-      "rank": 17,
-      "title": "序列公路求生：我在末日升级物资",
-      "author": "山海呼啸",
-      "status": "连载中",
-      "category": "悬疑脑洞",
-      "wordCount": 115.6,
-      "isNew": false
-    },
-    {
-      "rank": 18,
-      "title": "大一实习，你跑去749收容怪物",
-      "author": "我爱罗的沙",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 210.1,
-      "isNew": false
-    },
-    {
-      "rank": 19,
+      "rank": 16,
       "title": "癫，都癫，癫点好啊",
       "author": "小盐子",
       "status": "已完结",
@@ -173,7 +146,7 @@
       "isNew": false
     },
     {
-      "rank": 20,
+      "rank": 17,
       "title": "诡舍",
       "author": "夜来风雨声丶",
       "status": "已完结",
@@ -182,12 +155,39 @@
       "isNew": false
     },
     {
-      "rank": 21,
+      "rank": 18,
+      "title": "大一实习，你跑去749收容怪物",
+      "author": "我爱罗的沙",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 211.0,
+      "isNew": false
+    },
+    {
+      "rank": 19,
+      "title": "公考捡漏：从女友抛弃到权利巅峰",
+      "author": "元明小阳",
+      "status": "连载中",
+      "category": "都市日常",
+      "wordCount": 85.5,
+      "isNew": false
+    },
+    {
+      "rank": 20,
       "title": "我以狐仙镇百鬼",
       "author": "紫梦游龙",
       "status": "连载中",
       "category": "悬疑灵异",
-      "wordCount": 777.9,
+      "wordCount": 779.4,
+      "isNew": false
+    },
+    {
+      "rank": 21,
+      "title": "我国补克星，你问我光刻机能修吗",
+      "author": "核动力打窝仙人",
+      "status": "连载中",
+      "category": "都市脑洞",
+      "wordCount": 43.9,
       "isNew": false
     },
     {
@@ -196,34 +196,34 @@
       "author": "隔胳呜呜",
       "status": "已完结",
       "category": "都市日常",
-      "wordCount": 297.7,
+      "wordCount": 297.9,
       "isNew": false
     },
     {
       "rank": 23,
+      "title": "序列公路求生：我在末日升级物资",
+      "author": "山海呼啸",
+      "status": "连载中",
+      "category": "悬疑脑洞",
+      "wordCount": 116.9,
+      "isNew": false
+    },
+    {
+      "rank": 24,
+      "title": "深情诱引",
+      "author": "鸟松米",
+      "status": "已完结",
+      "category": "豪门总裁",
+      "wordCount": 66.7,
+      "isNew": false
+    },
+    {
+      "rank": 25,
       "title": "北派盗墓笔记",
       "author": "云峰",
       "status": "连载中",
       "category": "悬疑灵异",
       "wordCount": 420.0,
-      "isNew": false
-    },
-    {
-      "rank": 24,
-      "title": "镇龙棺，阎王命",
-      "author": "匪夷",
-      "status": "连载中",
-      "category": "悬疑灵异",
-      "wordCount": 303.0,
-      "isNew": false
-    },
-    {
-      "rank": 25,
-      "title": "蒙冤入狱服刑，一日作案十八次",
-      "author": "汽水伴东风",
-      "status": "连载中",
-      "category": "都市脑洞",
-      "wordCount": 22.2,
       "isNew": false
     },
     {
@@ -237,24 +237,15 @@
     },
     {
       "rank": 27,
-      "title": "深情诱引",
-      "author": "鸟松米",
-      "status": "已完结",
-      "category": "豪门总裁",
-      "wordCount": 66.7,
+      "title": "镇龙棺，阎王命",
+      "author": "匪夷",
+      "status": "连载中",
+      "category": "悬疑灵异",
+      "wordCount": 303.8,
       "isNew": false
     },
     {
       "rank": 28,
-      "title": "奶团被找回，京圈大佬一心洗奶瓶",
-      "author": "多多锦",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 23.0,
-      "isNew": false
-    },
-    {
-      "rank": 29,
       "title": "神级选择：这个御兽师有亿点生猛",
       "author": "三风11",
       "status": "已完结",
@@ -263,43 +254,151 @@
       "isNew": false
     },
     {
-      "rank": 30,
+      "rank": 29,
       "title": "末日生存方案供应商",
       "author": "板面王仔",
       "status": "连载中",
       "category": "科幻末世",
-      "wordCount": 104.0,
+      "wordCount": 105.2,
+      "isNew": false
+    },
+    {
+      "rank": 30,
+      "title": "蒙冤入狱服刑，一日作案十八次",
+      "author": "汽水伴东风",
+      "status": "连载中",
+      "category": "都市脑洞",
+      "wordCount": 23.6,
       "isNew": false
     },
     {
       "rank": 31,
+      "title": "开局停职？我转投纪委调查组",
+      "author": "江门二爷",
+      "status": "连载中",
+      "category": "都市日常",
+      "wordCount": 446.2,
+      "isNew": false
+    },
+    {
+      "rank": 32,
+      "title": "末世：从副县长开始重建华夏",
+      "author": "喜欢摸鱼的九尾狐",
+      "status": "连载中",
+      "category": "科幻末世",
+      "wordCount": 31.3,
+      "isNew": false
+    },
+    {
+      "rank": 33,
+      "title": "冒姓琅琊",
+      "author": "东周公子南",
+      "status": "连载中",
+      "category": "历史古代",
+      "wordCount": 94.2,
+      "isNew": false
+    },
+    {
+      "rank": 34,
+      "title": "新婚慢熟",
+      "author": "芥婕",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 14.6,
+      "isNew": false
+    },
+    {
+      "rank": 35,
+      "title": "奶团被找回，京圈大佬一心洗奶瓶",
+      "author": "多多锦",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 23.8,
+      "isNew": false
+    },
+    {
+      "rank": 36,
+      "title": "退役佣兵：开局被红色家族认亲",
+      "author": "大乾太子李玄",
+      "status": "连载中",
+      "category": "战神赘婿",
+      "wordCount": 43.8,
+      "isNew": false
+    },
+    {
+      "rank": 37,
+      "title": "序列：吃神者",
+      "author": "不要大脑要小脑",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 242.8,
+      "isNew": false
+    },
+    {
+      "rank": 38,
+      "title": "偏门之王的自我修养",
+      "author": "35瓶",
+      "status": "连载中",
+      "category": "都市日常",
+      "wordCount": 53.6,
+      "isNew": false
+    },
+    {
+      "rank": 39,
       "title": "穿书后意外攻略了苗疆少年",
       "author": "奔跑的桃子",
-      "status": "连载中",
+      "status": "已完结",
       "category": "古言脑洞",
       "wordCount": 48.5,
       "isNew": false
     },
     {
-      "rank": 32,
-      "title": "开局停职？我转投纪委调查组",
-      "author": "江门二爷",
+      "rank": 40,
+      "title": "高手下山，我家师姐太宠我了",
+      "author": "求求你让我火吧",
       "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 444.8,
+      "category": "都市修真",
+      "wordCount": 474.8,
       "isNew": false
     },
     {
-      "rank": 33,
-      "title": "我国补克星，你问我光刻机能修吗",
-      "author": "核动力打窝仙人",
+      "rank": 41,
+      "title": "乱世荒年：我每日一卦粮肉满仓！",
+      "author": "风起于渊",
       "status": "连载中",
-      "category": "都市脑洞",
-      "wordCount": 43.1,
+      "category": "历史脑洞",
+      "wordCount": 35.5,
       "isNew": false
     },
     {
-      "rank": 34,
+      "rank": 42,
+      "title": "冰河末世，我囤积了百亿物资",
+      "author": "记忆的海",
+      "status": "连载中",
+      "category": "科幻末世",
+      "wordCount": 535.5,
+      "isNew": false
+    },
+    {
+      "rank": 43,
+      "title": "第九帝国",
+      "author": "清楼贵客",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 200.0,
+      "isNew": false
+    },
+    {
+      "rank": 44,
+      "title": "开局多子多福，我打造绝世仙朝",
+      "author": "朽木可以雕",
+      "status": "连载中",
+      "category": "玄幻脑洞",
+      "wordCount": 58.5,
+      "isNew": false
+    },
+    {
+      "rank": 45,
       "title": "天眼风水师",
       "author": "道之光",
       "status": "已完结",
@@ -308,115 +407,43 @@
       "isNew": false
     },
     {
-      "rank": 35,
-      "title": "冒姓琅琊",
-      "author": "东周公子南",
-      "status": "连载中",
-      "category": "历史古代",
-      "wordCount": 93.9,
-      "isNew": false
-    },
-    {
-      "rank": 36,
-      "title": "高手下山，我家师姐太宠我了",
-      "author": "求求你让我火吧",
-      "status": "连载中",
-      "category": "都市修真",
-      "wordCount": 473.9,
-      "isNew": false
-    },
-    {
-      "rank": 37,
-      "title": "开局制卡师，一张核心找五年",
-      "author": "晓山青绿蓝",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 17.4,
-      "isNew": false
-    },
-    {
-      "rank": 38,
-      "title": "序列：吃神者",
-      "author": "不要大脑要小脑",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 242.0,
-      "isNew": false
-    },
-    {
-      "rank": 39,
-      "title": "偏门之王的自我修养",
-      "author": "35瓶",
-      "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 52.7,
-      "isNew": false
-    },
-    {
-      "rank": 40,
-      "title": "冰河末世，我囤积了百亿物资",
-      "author": "记忆的海",
-      "status": "连载中",
-      "category": "科幻末世",
-      "wordCount": 534.2,
-      "isNew": false
-    },
-    {
-      "rank": 41,
-      "title": "我的东莞姐姐",
-      "author": "孔雀大魔王",
-      "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 70.7,
-      "isNew": false
-    },
-    {
-      "rank": 42,
-      "title": "全民氪命：化身死神救济天下女神",
-      "author": "可乐同学",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 78.5,
-      "isNew": false
-    },
-    {
-      "rank": 43,
-      "title": "娱乐：被资本做局，我拿红歌护体",
-      "author": "污水塘",
-      "status": "连载中",
-      "category": "都市脑洞",
-      "wordCount": 31.6,
-      "isNew": false
-    },
-    {
-      "rank": 44,
+      "rank": 46,
       "title": "高武纪元：开局加载田伯光模板",
       "author": "铁头龙",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 69.3,
-      "isNew": false
-    },
-    {
-      "rank": 45,
-      "title": "末世：从副县长开始重建华夏",
-      "author": "喜欢摸鱼的九尾狐",
-      "status": "连载中",
-      "category": "科幻末世",
-      "wordCount": 30.3,
-      "isNew": false
-    },
-    {
-      "rank": 46,
-      "title": "提前登陆游戏世界，开局联姻女帝",
-      "author": "潇楚还没睡",
-      "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 178.8,
+      "wordCount": 71.0,
       "isNew": false
     },
     {
       "rank": 47,
+      "title": "开局制卡师，一张核心找五年",
+      "author": "晓山青绿蓝",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 18.3,
+      "isNew": false
+    },
+    {
+      "rank": 48,
+      "title": "现代女散修的元神漫游记",
+      "author": "梵一善",
+      "status": "连载中",
+      "category": "现言脑洞",
+      "wordCount": 35.0,
+      "isNew": false
+    },
+    {
+      "rank": 49,
+      "title": "我的东莞姐姐",
+      "author": "孔雀大魔王",
+      "status": "连载中",
+      "category": "都市日常",
+      "wordCount": 71.5,
+      "isNew": false
+    },
+    {
+      "rank": 50,
       "title": "第九特区",
       "author": "伪戒",
       "status": "已完结",
@@ -425,57 +452,30 @@
       "isNew": false
     },
     {
-      "rank": 48,
-      "title": "乱世荒年：我每日一卦粮肉满仓！",
-      "author": "风起于渊",
-      "status": "连载中",
-      "category": "历史脑洞",
-      "wordCount": 34.4,
-      "isNew": false
-    },
-    {
-      "rank": 49,
-      "title": "开局多子多福，我打造绝世仙朝",
-      "author": "朽木可以雕",
-      "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 57.9,
-      "isNew": false
-    },
-    {
-      "rank": 50,
-      "title": "武碎星河",
-      "author": "妖夜",
-      "status": "已完结",
-      "category": "传统玄幻",
-      "wordCount": 793.3,
-      "isNew": false
-    },
-    {
       "rank": 51,
-      "title": "诡异难杀？抱歉，我才是真正不死",
-      "author": "六个葫芦",
-      "status": "已完结",
+      "title": "全民氪命：化身死神救济天下女神",
+      "author": "可乐同学",
+      "status": "连载中",
       "category": "都市高武",
-      "wordCount": 204.8,
+      "wordCount": 79.1,
       "isNew": false
     },
     {
       "rank": 52,
-      "title": "第九帝国",
-      "author": "清楼贵客",
+      "title": "揣双胎带灵泉，资本家小姐去随军",
+      "author": "范氏女子",
       "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 199.0,
+      "category": "年代",
+      "wordCount": 50.0,
       "isNew": false
     },
     {
       "rank": 53,
-      "title": "现代女散修的元神漫游记",
-      "author": "梵一善",
+      "title": "全民大航海，我开局一条幽灵船",
+      "author": "新买的桃子",
       "status": "连载中",
-      "category": "现言脑洞",
-      "wordCount": 33.7,
+      "category": "游戏体育",
+      "wordCount": 212.4,
       "isNew": false
     },
     {
@@ -484,263 +484,146 @@
       "author": "弈青锋",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 508.2,
+      "wordCount": 509.1,
       "isNew": false
     },
     {
       "rank": 55,
-      "title": "名义：我才是最后的赢家",
-      "author": "放千山",
-      "status": "连载中",
-      "category": "男频衍生",
-      "wordCount": 28.7,
+      "title": "武碎星河",
+      "author": "妖夜",
+      "status": "已完结",
+      "category": "传统玄幻",
+      "wordCount": 793.3,
       "isNew": false
     },
     {
       "rank": 56,
-      "title": "全民大航海，我开局一条幽灵船",
-      "author": "新买的桃子",
+      "title": "提前登陆游戏世界，开局联姻女帝",
+      "author": "潇楚还没睡",
       "status": "连载中",
-      "category": "游戏体育",
-      "wordCount": 211.6,
+      "category": "玄幻脑洞",
+      "wordCount": 180.1,
       "isNew": false
     },
     {
       "rank": 57,
-      "title": "人在游神，见鬼起乩增损二将",
-      "author": "仲夏将至",
+      "title": "名义：我才是最后的赢家",
+      "author": "放千山",
       "status": "连载中",
-      "category": "悬疑灵异",
-      "wordCount": 157.1,
+      "category": "男频衍生",
+      "wordCount": 29.8,
       "isNew": false
     },
     {
       "rank": 58,
-      "title": "凡骨",
-      "author": "壹更大师",
-      "status": "连载中",
-      "category": "东方仙侠",
-      "wordCount": 688.0,
+      "title": "诡异难杀？抱歉，我才是真正不死",
+      "author": "六个葫芦",
+      "status": "已完结",
+      "category": "都市高武",
+      "wordCount": 204.8,
       "isNew": false
     },
     {
       "rank": 59,
-      "title": "她醉酒进错房，京圈大佬一夜沦陷",
-      "author": "妖铃",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 43.9,
-      "isNew": false
-    },
-    {
-      "rank": 60,
-      "title": "拜金樊胜美，孟宴臣偏要宠",
-      "author": "希暖十月",
-      "status": "已完结",
-      "category": "女频衍生",
-      "wordCount": 33.9,
-      "isNew": false
-    },
-    {
-      "rank": 61,
-      "title": "古代饥荒年：带嫂纳妾，粮肉满仓",
-      "author": "书虫十一",
-      "status": "连载中",
-      "category": "历史古代",
-      "wordCount": 34.2,
-      "isNew": false
-    },
-    {
-      "rank": 62,
-      "title": "退役佣兵：开局被红色家族认亲",
-      "author": "大乾太子李玄",
-      "status": "连载中",
-      "category": "战神赘婿",
-      "wordCount": 42.5,
-      "isNew": false
-    },
-    {
-      "rank": 63,
-      "title": "上门龙婿",
-      "author": "叶公子",
-      "status": "连载中",
-      "category": "战神赘婿",
-      "wordCount": 842.2,
-      "isNew": false
-    },
-    {
-      "rank": 64,
-      "title": "人在高武，开局送老婆",
-      "author": "精神病院卖大力",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 70.8,
-      "isNew": false
-    },
-    {
-      "rank": 65,
-      "title": "宦海官途",
-      "author": "风流小二",
-      "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 478.5,
-      "isNew": false
-    },
-    {
-      "rank": 66,
-      "title": "师门嫌我太狠辣，入朝堂后镇天下",
-      "author": "武梁耶",
-      "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 59.0,
-      "isNew": false
-    },
-    {
-      "rank": 67,
-      "title": "满门忠烈遭霸凌？我抬匾问哭军区",
-      "author": "短发小脸控",
-      "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 36.7,
-      "isNew": false
-    },
-    {
-      "rank": 68,
-      "title": "天不应",
-      "author": "夜来风雨声丶",
-      "status": "连载中",
-      "category": "东方仙侠",
-      "wordCount": 113.2,
-      "isNew": false
-    },
-    {
-      "rank": 69,
-      "title": "开局被分手，觉醒十大凶兽武魂",
-      "author": "上官素",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 228.9,
-      "isNew": false
-    },
-    {
-      "rank": 70,
-      "title": "被女帝离婚后，我分走百万倍修为",
-      "author": "戏柳先生",
-      "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 115.2,
-      "isNew": false
-    },
-    {
-      "rank": 71,
-      "title": "起底观心术",
-      "author": "鲍尔日",
-      "status": "已完结",
-      "category": "都市日常",
-      "wordCount": 158.6,
-      "isNew": false
-    },
-    {
-      "rank": 72,
-      "title": "龙头至尊",
-      "author": "简单的鱼",
-      "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 588.4,
-      "isNew": false
-    },
-    {
-      "rank": 73,
-      "title": "我的法宝都是规则系",
-      "author": "板面王仔",
-      "status": "已完结",
-      "category": "传统玄幻",
-      "wordCount": 270.1,
-      "isNew": false
-    },
-    {
-      "rank": 74,
-      "title": "闷骚前男友空降，成了我老板",
-      "author": "玥从安",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 27.4,
-      "isNew": false
-    },
-    {
-      "rank": 75,
-      "title": "逼我断亲，住牛棚我暴富你们哭啥",
-      "author": "樱花的梦",
-      "status": "已完结",
-      "category": "种田",
-      "wordCount": 127.0,
-      "isNew": false
-    },
-    {
-      "rank": 76,
-      "title": "谢太太的退场",
-      "author": "易木殇",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 15.7,
-      "isNew": false
-    },
-    {
-      "rank": 77,
-      "title": "开局圣地道子，你让我走废材流？",
-      "author": "东大街一霸",
-      "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 157.7,
-      "isNew": false
-    },
-    {
-      "rank": 78,
-      "title": "网游：我有超神级天赋",
-      "author": "撼动猩",
-      "status": "连载中",
-      "category": "游戏体育",
-      "wordCount": 409.8,
-      "isNew": false
-    },
-    {
-      "rank": 79,
-      "title": "谍战小特务的逆袭",
-      "author": "冬天不热",
-      "status": "已完结",
-      "category": "抗战谍战",
-      "wordCount": 278.0,
-      "isNew": false
-    },
-    {
-      "rank": 80,
       "title": "闺蜜说大哥凶，可他夜里喊我宝宝",
       "author": "鎏旗",
       "status": "连载中",
       "category": "豪门总裁",
-      "wordCount": 42.5,
+      "wordCount": 43.3,
       "isNew": false
     },
     {
-      "rank": 81,
-      "title": "只赚钱不谈情，职业舔狗我最行！",
-      "author": "长叹一声",
+      "rank": 60,
+      "title": "斗罗：收徒成神从截胡朱竹清开始",
+      "author": "此刻依然",
+      "status": "连载中",
+      "category": "男频衍生",
+      "wordCount": 31.3,
+      "isNew": true
+    },
+    {
+      "rank": 61,
+      "title": "凡骨",
+      "author": "壹更大师",
+      "status": "连载中",
+      "category": "东方仙侠",
+      "wordCount": 689.3,
+      "isNew": false
+    },
+    {
+      "rank": 62,
+      "title": "师门嫌我太狠辣，入朝堂后镇天下",
+      "author": "武梁耶",
+      "status": "连载中",
+      "category": "玄幻脑洞",
+      "wordCount": 60.3,
+      "isNew": false
+    },
+    {
+      "rank": 63,
+      "title": "龙头至尊",
+      "author": "简单的鱼",
       "status": "连载中",
       "category": "都市日常",
-      "wordCount": 220.0,
+      "wordCount": 590.7,
       "isNew": false
     },
     {
-      "rank": 82,
-      "title": "你们刷怪啊，刷我干嘛！",
-      "author": "喜欢吃橘子",
+      "rank": 64,
+      "title": "开局被分手，觉醒十大凶兽武魂",
+      "author": "上官素",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 118.4,
+      "wordCount": 229.8,
       "isNew": false
     },
     {
-      "rank": 83,
+      "rank": 65,
+      "title": "娱乐：被资本做局，我拿红歌护体",
+      "author": "污水塘",
+      "status": "连载中",
+      "category": "都市脑洞",
+      "wordCount": 31.8,
+      "isNew": false
+    },
+    {
+      "rank": 66,
+      "title": "人在游神，见鬼起乩增损二将",
+      "author": "仲夏将至",
+      "status": "连载中",
+      "category": "悬疑灵异",
+      "wordCount": 157.9,
+      "isNew": false
+    },
+    {
+      "rank": 67,
+      "title": "她醉酒进错房，京圈大佬一夜沦陷",
+      "author": "妖铃",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 44.8,
+      "isNew": false
+    },
+    {
+      "rank": 68,
+      "title": "上门龙婿",
+      "author": "叶公子",
+      "status": "连载中",
+      "category": "战神赘婿",
+      "wordCount": 842.7,
+      "isNew": false
+    },
+    {
+      "rank": 69,
+      "title": "被女帝离婚后，我分走百万倍修为",
+      "author": "戏柳先生",
+      "status": "连载中",
+      "category": "玄幻脑洞",
+      "wordCount": 116.6,
+      "isNew": false
+    },
+    {
+      "rank": 70,
       "title": "怎敌她动人",
       "author": "彼呦",
       "status": "连载中",
@@ -749,97 +632,178 @@
       "isNew": false
     },
     {
-      "rank": 84,
-      "title": "科举，农家子的权臣之路",
-      "author": "江河大爷",
+      "rank": 71,
+      "title": "宦海官途",
+      "author": "风流小二",
       "status": "连载中",
-      "category": "历史古代",
-      "wordCount": 86.2,
+      "category": "都市日常",
+      "wordCount": 479.3,
       "isNew": false
     },
     {
-      "rank": 85,
+      "rank": 72,
+      "title": "你们刷怪啊，刷我干嘛！",
+      "author": "喜欢吃橘子",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 119.1,
+      "isNew": false
+    },
+    {
+      "rank": 73,
+      "title": "开局圣地道子，你让我走废材流？",
+      "author": "东大街一霸",
+      "status": "连载中",
+      "category": "玄幻脑洞",
+      "wordCount": 158.6,
+      "isNew": false
+    },
+    {
+      "rank": 74,
+      "title": "我的法宝都是规则系",
+      "author": "板面王仔",
+      "status": "已完结",
+      "category": "传统玄幻",
+      "wordCount": 270.1,
+      "isNew": false
+    },
+    {
+      "rank": 75,
+      "title": "天不应",
+      "author": "夜来风雨声丶",
+      "status": "连载中",
+      "category": "东方仙侠",
+      "wordCount": 113.5,
+      "isNew": false
+    },
+    {
+      "rank": 76,
+      "title": "恶毒女配守活寡？夫兄，人家好怕",
+      "author": "叶不鸿",
+      "status": "连载中",
+      "category": "宫斗宅斗",
+      "wordCount": 49.7,
+      "isNew": false
+    },
+    {
+      "rank": 77,
+      "title": "起底观心术",
+      "author": "鲍尔日",
+      "status": "已完结",
+      "category": "都市日常",
+      "wordCount": 158.6,
+      "isNew": false
+    },
+    {
+      "rank": 78,
+      "title": "公主太恶劣？抱紧她大腿后真香！",
+      "author": "桃白白真的白",
+      "status": "连载中",
+      "category": "传统玄幻",
+      "wordCount": 48.1,
+      "isNew": false
+    },
+    {
+      "rank": 79,
+      "title": "只赚钱不谈情，职业舔狗我最行！",
+      "author": "长叹一声",
+      "status": "连载中",
+      "category": "都市日常",
+      "wordCount": 220.8,
+      "isNew": false
+    },
+    {
+      "rank": 80,
+      "title": "谍战小特务的逆袭",
+      "author": "冬天不热",
+      "status": "已完结",
+      "category": "抗战谍战",
+      "wordCount": 278.0,
+      "isNew": false
+    },
+    {
+      "rank": 81,
+      "title": "不求真心求苟活，奈何帝王偏爱我",
+      "author": "楼台烟雨中",
+      "status": "连载中",
+      "category": "宫斗宅斗",
+      "wordCount": 38.9,
+      "isNew": false
+    },
+    {
+      "rank": 82,
       "title": "公路求生榜一说她要走到公路尽头",
       "author": "张泡泡",
       "status": "连载中",
       "category": "游戏体育",
-      "wordCount": 122.9,
+      "wordCount": 123.9,
+      "isNew": false
+    },
+    {
+      "rank": 83,
+      "title": "网游：我有超神级天赋",
+      "author": "撼动猩",
+      "status": "连载中",
+      "category": "游戏体育",
+      "wordCount": 410.8,
+      "isNew": false
+    },
+    {
+      "rank": 84,
+      "title": "谢太太的退场",
+      "author": "易木殇",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 16.5,
+      "isNew": false
+    },
+    {
+      "rank": 85,
+      "title": "古代饥荒年：带嫂纳妾，粮肉满仓",
+      "author": "书虫十一",
+      "status": "连载中",
+      "category": "历史古代",
+      "wordCount": 35.4,
       "isNew": false
     },
     {
       "rank": 86,
-      "title": "和植物人女神领证，系统激活！",
-      "author": "一只微胖的皮皮虾",
+      "title": "闷骚前男友空降，成了我老板",
+      "author": "玥从安",
       "status": "连载中",
-      "category": "都市脑洞",
-      "wordCount": 17.9,
+      "category": "豪门总裁",
+      "wordCount": 28.2,
       "isNew": false
     },
     {
       "rank": 87,
-      "title": "退役后找不到工作，被迫当雇佣兵",
-      "author": "七进七出赵子龙",
-      "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 29.2,
-      "isNew": false
-    },
-    {
-      "rank": 88,
-      "title": "高手下山，我有九个无敌师父！",
-      "author": "小殇殇",
-      "status": "连载中",
-      "category": "都市修真",
-      "wordCount": 747.5,
-      "isNew": false
-    },
-    {
-      "rank": 89,
-      "title": "有了暴君读心术，我在宫里杀疯了",
-      "author": "尹在水",
-      "status": "已完结",
-      "category": "古言脑洞",
-      "wordCount": 86.8,
-      "isNew": false
-    },
-    {
-      "rank": 90,
       "title": "天物觉醒：我能刻印一切",
       "author": "御风而行的葉子",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 202.9,
+      "wordCount": 203.4,
       "isNew": false
     },
     {
-      "rank": 91,
-      "title": "全球迷宫：开局设计精绝古城",
-      "author": "无戒僧",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 60.9,
-      "isNew": false
-    },
-    {
-      "rank": 92,
-      "title": "高手下山：我不当赘婿",
-      "author": "市井仙人",
+      "rank": 88,
+      "title": "逼我断亲，住牛棚我暴富你们哭啥",
+      "author": "樱花的梦",
       "status": "已完结",
-      "category": "都市修真",
-      "wordCount": 308.9,
+      "category": "种田",
+      "wordCount": 127.0,
       "isNew": false
     },
     {
-      "rank": 93,
-      "title": "我不过作作妖，怎么就成了白月光",
-      "author": "叁生三三",
+      "rank": 89,
+      "title": "一剑霸天",
+      "author": "永夜星河",
       "status": "连载中",
-      "category": "现言脑洞",
-      "wordCount": 180.1,
+      "category": "传统玄幻",
+      "wordCount": 769.3,
       "isNew": false
     },
     {
-      "rank": 94,
+      "rank": 90,
       "title": "全宗门都是恋爱脑，唯我是真疯批",
       "author": "纸老虎",
       "status": "已完结",
@@ -848,57 +812,93 @@
       "isNew": false
     },
     {
-      "rank": 95,
-      "title": "公主太恶劣？抱紧她大腿后真香！",
-      "author": "桃白白真的白",
+      "rank": 91,
+      "title": "高手下山，我有九个无敌师父！",
+      "author": "小殇殇",
       "status": "连载中",
-      "category": "传统玄幻",
-      "wordCount": 47.7,
+      "category": "都市修真",
+      "wordCount": 749.1,
       "isNew": false
     },
     {
-      "rank": 96,
-      "title": "重生：官运亨通",
-      "author": "弹剑听潮",
-      "status": "已完结",
-      "category": "都市日常",
-      "wordCount": 578.0,
-      "isNew": false
-    },
-    {
-      "rank": 97,
-      "title": "重生：那个人好骚啊",
-      "author": "icp住户",
+      "rank": 92,
+      "title": "科举，农家子的权臣之路",
+      "author": "江河大爷",
       "status": "连载中",
-      "category": "都市种田",
-      "wordCount": 65.3,
+      "category": "历史古代",
+      "wordCount": 87.0,
       "isNew": false
     },
     {
-      "rank": 98,
+      "rank": 93,
       "title": "赛车娘世界：我有神级改装词条！",
       "author": "宇宙无敌暴龙烧鹅",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 64.5,
+      "wordCount": 65.3,
+      "isNew": false
+    },
+    {
+      "rank": 94,
+      "title": "有了暴君读心术，我在宫里杀疯了",
+      "author": "尹在水",
+      "status": "已完结",
+      "category": "古言脑洞",
+      "wordCount": 86.8,
+      "isNew": false
+    },
+    {
+      "rank": 95,
+      "title": "上城之下",
+      "author": "李马",
+      "status": "已完结",
+      "category": "都市高武",
+      "wordCount": 265.3,
+      "isNew": false
+    },
+    {
+      "rank": 96,
+      "title": "高手下山：我不当赘婿",
+      "author": "市井仙人",
+      "status": "已完结",
+      "category": "都市修真",
+      "wordCount": 308.9,
+      "isNew": false
+    },
+    {
+      "rank": 97,
+      "title": "我不过作作妖，怎么就成了白月光",
+      "author": "叁生三三",
+      "status": "连载中",
+      "category": "现言脑洞",
+      "wordCount": 181.0,
+      "isNew": false
+    },
+    {
+      "rank": 98,
+      "title": "人在高武，开局送老婆",
+      "author": "精神病院卖大力",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 72.0,
       "isNew": false
     },
     {
       "rank": 99,
-      "title": "一剑霸天",
-      "author": "永夜星河",
+      "title": "重生八零：老太太抛子弃女",
+      "author": "招财猫儿",
       "status": "连载中",
-      "category": "传统玄幻",
-      "wordCount": 768.0,
+      "category": "年代",
+      "wordCount": 162.7,
       "isNew": false
     },
     {
       "rank": 100,
-      "title": "都重生了谁还追她啊",
-      "author": "心有浩然气",
-      "status": "已完结",
-      "category": "都市日常",
-      "wordCount": 168.2,
+      "title": "被师娘骗去修炼后，傻子无敌了！",
+      "author": "琳小羽",
+      "status": "连载中",
+      "category": "传统玄幻",
+      "wordCount": 62.6,
       "isNew": false
     }
   ],
@@ -909,7 +909,7 @@
       "author": "三九音域",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 324.2,
+      "wordCount": 325.0,
       "isNew": false
     },
     {
@@ -936,7 +936,7 @@
       "author": "紫灵风雪",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 526.4,
+      "wordCount": 527.3,
       "isNew": false
     },
     {
@@ -954,74 +954,65 @@
       "author": "沐潇三生",
       "status": "连载中",
       "category": "传统玄幻",
-      "wordCount": 463.1,
+      "wordCount": 463.9,
       "isNew": false
     },
     {
       "rank": 7,
-      "title": "重生千禧年：官场之路从片警开始",
-      "author": "码到死",
-      "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 137.6,
-      "isNew": false
-    },
-    {
-      "rank": 8,
       "title": "诸神愚戏",
       "author": "一月九十秋",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 309.9,
+      "wordCount": 311.0,
       "isNew": false
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "时停起手，邪神也得给我跪下！",
       "author": "六个葫芦",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 79.9,
+      "wordCount": 81.1,
       "isNew": false
     },
     {
-      "rank": 10,
-      "title": "公考捡漏：从女友抛弃到权利巅峰",
-      "author": "元明小阳",
-      "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 84.5,
-      "isNew": false
-    },
-    {
-      "rank": 11,
+      "rank": 9,
       "title": "系统赋我长生，我熬死了所有人",
       "author": "一只榴莲3号",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 383.9,
+      "wordCount": 384.7,
       "isNew": false
     },
     {
-      "rank": 12,
+      "rank": 10,
+      "title": "重生千禧年：官场之路从片警开始",
+      "author": "码到死",
+      "status": "连载中",
+      "category": "都市日常",
+      "wordCount": 139.3,
+      "isNew": false
+    },
+    {
+      "rank": 11,
       "title": "斩仙台上何人？灵台方寸关门弟子",
       "author": "小蟑螂七岁了",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 45.3,
+      "wordCount": 46.2,
       "isNew": false
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "惊鸿",
       "author": "一夕烟雨",
       "status": "连载中",
       "category": "传统玄幻",
-      "wordCount": 778.0,
+      "wordCount": 778.8,
       "isNew": false
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "反派：我的弟弟是天选之子",
       "author": "家养了只肥兔",
       "status": "已完结",
@@ -1030,25 +1021,7 @@
       "isNew": false
     },
     {
-      "rank": 15,
-      "title": "序列公路求生：我在末日升级物资",
-      "author": "山海呼啸",
-      "status": "连载中",
-      "category": "悬疑脑洞",
-      "wordCount": 115.6,
-      "isNew": false
-    },
-    {
-      "rank": 16,
-      "title": "大一实习，你跑去749收容怪物",
-      "author": "我爱罗的沙",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 210.1,
-      "isNew": false
-    },
-    {
-      "rank": 17,
+      "rank": 14,
       "title": "诡舍",
       "author": "夜来风雨声丶",
       "status": "已完结",
@@ -1057,12 +1030,39 @@
       "isNew": false
     },
     {
-      "rank": 18,
+      "rank": 15,
+      "title": "大一实习，你跑去749收容怪物",
+      "author": "我爱罗的沙",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 211.0,
+      "isNew": false
+    },
+    {
+      "rank": 16,
+      "title": "公考捡漏：从女友抛弃到权利巅峰",
+      "author": "元明小阳",
+      "status": "连载中",
+      "category": "都市日常",
+      "wordCount": 85.5,
+      "isNew": false
+    },
+    {
+      "rank": 17,
       "title": "我以狐仙镇百鬼",
       "author": "紫梦游龙",
       "status": "连载中",
       "category": "悬疑灵异",
-      "wordCount": 777.9,
+      "wordCount": 779.4,
+      "isNew": false
+    },
+    {
+      "rank": 18,
+      "title": "我国补克星，你问我光刻机能修吗",
+      "author": "核动力打窝仙人",
+      "status": "连载中",
+      "category": "都市脑洞",
+      "wordCount": 43.9,
       "isNew": false
     },
     {
@@ -1071,11 +1071,20 @@
       "author": "隔胳呜呜",
       "status": "已完结",
       "category": "都市日常",
-      "wordCount": 297.7,
+      "wordCount": 297.9,
       "isNew": false
     },
     {
       "rank": 20,
+      "title": "序列公路求生：我在末日升级物资",
+      "author": "山海呼啸",
+      "status": "连载中",
+      "category": "悬疑脑洞",
+      "wordCount": 116.9,
+      "isNew": false
+    },
+    {
+      "rank": 21,
       "title": "北派盗墓笔记",
       "author": "云峰",
       "status": "连载中",
@@ -1084,30 +1093,21 @@
       "isNew": false
     },
     {
-      "rank": 21,
-      "title": "镇龙棺，阎王命",
-      "author": "匪夷",
-      "status": "连载中",
-      "category": "悬疑灵异",
-      "wordCount": 303.0,
-      "isNew": false
-    },
-    {
       "rank": 22,
-      "title": "蒙冤入狱服刑，一日作案十八次",
-      "author": "汽水伴东风",
-      "status": "连载中",
-      "category": "都市脑洞",
-      "wordCount": 22.2,
-      "isNew": false
-    },
-    {
-      "rank": 23,
       "title": "开局地摊卖大力",
       "author": "弈青锋",
       "status": "已完结",
       "category": "都市高武",
       "wordCount": 884.9,
+      "isNew": false
+    },
+    {
+      "rank": 23,
+      "title": "镇龙棺，阎王命",
+      "author": "匪夷",
+      "status": "连载中",
+      "category": "悬疑灵异",
+      "wordCount": 303.8,
       "isNew": false
     },
     {
@@ -1125,52 +1125,52 @@
       "author": "板面王仔",
       "status": "连载中",
       "category": "科幻末世",
-      "wordCount": 104.0,
+      "wordCount": 105.2,
       "isNew": false
     },
     {
       "rank": 26,
-      "title": "开局停职？我转投纪委调查组",
-      "author": "江门二爷",
+      "title": "蒙冤入狱服刑，一日作案十八次",
+      "author": "汽水伴东风",
       "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 444.8,
+      "category": "都市脑洞",
+      "wordCount": 23.6,
       "isNew": false
     },
     {
       "rank": 27,
-      "title": "我国补克星，你问我光刻机能修吗",
-      "author": "核动力打窝仙人",
+      "title": "开局停职？我转投纪委调查组",
+      "author": "江门二爷",
       "status": "连载中",
-      "category": "都市脑洞",
-      "wordCount": 43.1,
+      "category": "都市日常",
+      "wordCount": 446.2,
       "isNew": false
     },
     {
       "rank": 28,
-      "title": "天眼风水师",
-      "author": "道之光",
-      "status": "已完结",
-      "category": "都市日常",
-      "wordCount": 123.1,
+      "title": "末世：从副县长开始重建华夏",
+      "author": "喜欢摸鱼的九尾狐",
+      "status": "连载中",
+      "category": "科幻末世",
+      "wordCount": 31.3,
       "isNew": false
     },
     {
       "rank": 29,
-      "title": "高手下山，我家师姐太宠我了",
-      "author": "求求你让我火吧",
+      "title": "冒姓琅琊",
+      "author": "东周公子南",
       "status": "连载中",
-      "category": "都市修真",
-      "wordCount": 473.9,
+      "category": "历史古代",
+      "wordCount": 94.2,
       "isNew": false
     },
     {
       "rank": 30,
-      "title": "开局制卡师，一张核心找五年",
-      "author": "晓山青绿蓝",
+      "title": "退役佣兵：开局被红色家族认亲",
+      "author": "大乾太子李玄",
       "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 17.4,
+      "category": "战神赘婿",
+      "wordCount": 43.8,
       "isNew": false
     },
     {
@@ -1179,92 +1179,101 @@
       "author": "不要大脑要小脑",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 242.0,
+      "wordCount": 242.8,
       "isNew": false
     },
     {
       "rank": 32,
-      "title": "冒姓琅琊",
-      "author": "东周公子南",
-      "status": "连载中",
-      "category": "历史古代",
-      "wordCount": 93.9,
-      "isNew": false
-    },
-    {
-      "rank": 33,
-      "title": "全民氪命：化身死神救济天下女神",
-      "author": "可乐同学",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 78.5,
-      "isNew": false
-    },
-    {
-      "rank": 34,
-      "title": "冰河末世，我囤积了百亿物资",
-      "author": "记忆的海",
-      "status": "连载中",
-      "category": "科幻末世",
-      "wordCount": 534.2,
-      "isNew": false
-    },
-    {
-      "rank": 35,
-      "title": "我的东莞姐姐",
-      "author": "孔雀大魔王",
-      "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 70.7,
-      "isNew": false
-    },
-    {
-      "rank": 36,
       "title": "偏门之王的自我修养",
       "author": "35瓶",
       "status": "连载中",
       "category": "都市日常",
-      "wordCount": 52.7,
+      "wordCount": 53.6,
+      "isNew": false
+    },
+    {
+      "rank": 33,
+      "title": "高手下山，我家师姐太宠我了",
+      "author": "求求你让我火吧",
+      "status": "连载中",
+      "category": "都市修真",
+      "wordCount": 474.8,
+      "isNew": false
+    },
+    {
+      "rank": 34,
+      "title": "乱世荒年：我每日一卦粮肉满仓！",
+      "author": "风起于渊",
+      "status": "连载中",
+      "category": "历史脑洞",
+      "wordCount": 35.5,
+      "isNew": false
+    },
+    {
+      "rank": 35,
+      "title": "冰河末世，我囤积了百亿物资",
+      "author": "记忆的海",
+      "status": "连载中",
+      "category": "科幻末世",
+      "wordCount": 535.5,
+      "isNew": false
+    },
+    {
+      "rank": 36,
+      "title": "第九帝国",
+      "author": "清楼贵客",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 200.0,
       "isNew": false
     },
     {
       "rank": 37,
-      "title": "娱乐：被资本做局，我拿红歌护体",
-      "author": "污水塘",
+      "title": "开局多子多福，我打造绝世仙朝",
+      "author": "朽木可以雕",
       "status": "连载中",
-      "category": "都市脑洞",
-      "wordCount": 31.6,
+      "category": "玄幻脑洞",
+      "wordCount": 58.5,
       "isNew": false
     },
     {
       "rank": 38,
-      "title": "高武纪元：开局加载田伯光模板",
-      "author": "铁头龙",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 69.3,
+      "title": "天眼风水师",
+      "author": "道之光",
+      "status": "已完结",
+      "category": "都市日常",
+      "wordCount": 123.1,
       "isNew": false
     },
     {
       "rank": 39,
-      "title": "末世：从副县长开始重建华夏",
-      "author": "喜欢摸鱼的九尾狐",
+      "title": "高武纪元：开局加载田伯光模板",
+      "author": "铁头龙",
       "status": "连载中",
-      "category": "科幻末世",
-      "wordCount": 30.3,
+      "category": "都市高武",
+      "wordCount": 71.0,
       "isNew": false
     },
     {
       "rank": 40,
-      "title": "提前登陆游戏世界，开局联姻女帝",
-      "author": "潇楚还没睡",
+      "title": "开局制卡师，一张核心找五年",
+      "author": "晓山青绿蓝",
       "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 178.8,
+      "category": "都市高武",
+      "wordCount": 18.3,
       "isNew": false
     },
     {
       "rank": 41,
+      "title": "我的东莞姐姐",
+      "author": "孔雀大魔王",
+      "status": "连载中",
+      "category": "都市日常",
+      "wordCount": 71.5,
+      "isNew": false
+    },
+    {
+      "rank": 42,
       "title": "第九特区",
       "author": "伪戒",
       "status": "已完结",
@@ -1273,16 +1282,34 @@
       "isNew": false
     },
     {
-      "rank": 42,
-      "title": "开局多子多福，我打造绝世仙朝",
-      "author": "朽木可以雕",
+      "rank": 43,
+      "title": "全民氪命：化身死神救济天下女神",
+      "author": "可乐同学",
       "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 57.9,
+      "category": "都市高武",
+      "wordCount": 79.1,
       "isNew": false
     },
     {
-      "rank": 43,
+      "rank": 44,
+      "title": "全民大航海，我开局一条幽灵船",
+      "author": "新买的桃子",
+      "status": "连载中",
+      "category": "游戏体育",
+      "wordCount": 212.4,
+      "isNew": false
+    },
+    {
+      "rank": 45,
+      "title": "别叫我恶魔",
+      "author": "弈青锋",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 509.1,
+      "isNew": false
+    },
+    {
+      "rank": 46,
       "title": "武碎星河",
       "author": "妖夜",
       "status": "已完结",
@@ -1291,7 +1318,25 @@
       "isNew": false
     },
     {
-      "rank": 44,
+      "rank": 47,
+      "title": "提前登陆游戏世界，开局联姻女帝",
+      "author": "潇楚还没睡",
+      "status": "连载中",
+      "category": "玄幻脑洞",
+      "wordCount": 180.1,
+      "isNew": false
+    },
+    {
+      "rank": 48,
+      "title": "名义：我才是最后的赢家",
+      "author": "放千山",
+      "status": "连载中",
+      "category": "男频衍生",
+      "wordCount": 29.8,
+      "isNew": false
+    },
+    {
+      "rank": 49,
       "title": "诡异难杀？抱歉，我才是真正不死",
       "author": "六个葫芦",
       "status": "已完结",
@@ -1300,178 +1345,115 @@
       "isNew": false
     },
     {
-      "rank": 45,
-      "title": "第九帝国",
-      "author": "清楼贵客",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 199.0,
-      "isNew": false
-    },
-    {
-      "rank": 46,
-      "title": "别叫我恶魔",
-      "author": "弈青锋",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 508.2,
-      "isNew": false
-    },
-    {
-      "rank": 47,
-      "title": "名义：我才是最后的赢家",
-      "author": "放千山",
+      "rank": 50,
+      "title": "斗罗：收徒成神从截胡朱竹清开始",
+      "author": "此刻依然",
       "status": "连载中",
       "category": "男频衍生",
-      "wordCount": 28.7,
-      "isNew": false
+      "wordCount": 31.3,
+      "isNew": true
     },
     {
-      "rank": 48,
-      "title": "全民大航海，我开局一条幽灵船",
-      "author": "新买的桃子",
-      "status": "连载中",
-      "category": "游戏体育",
-      "wordCount": 211.6,
-      "isNew": false
-    },
-    {
-      "rank": 49,
-      "title": "人在游神，见鬼起乩增损二将",
-      "author": "仲夏将至",
-      "status": "连载中",
-      "category": "悬疑灵异",
-      "wordCount": 157.1,
-      "isNew": false
-    },
-    {
-      "rank": 50,
+      "rank": 51,
       "title": "凡骨",
       "author": "壹更大师",
       "status": "连载中",
       "category": "东方仙侠",
-      "wordCount": 688.0,
-      "isNew": false
-    },
-    {
-      "rank": 51,
-      "title": "古代饥荒年：带嫂纳妾，粮肉满仓",
-      "author": "书虫十一",
-      "status": "连载中",
-      "category": "历史古代",
-      "wordCount": 34.2,
+      "wordCount": 689.3,
       "isNew": false
     },
     {
       "rank": 52,
-      "title": "退役佣兵：开局被红色家族认亲",
-      "author": "大乾太子李玄",
-      "status": "连载中",
-      "category": "战神赘婿",
-      "wordCount": 42.5,
-      "isNew": false
-    },
-    {
-      "rank": 53,
-      "title": "乱世荒年：我每日一卦粮肉满仓！",
-      "author": "风起于渊",
-      "status": "连载中",
-      "category": "历史脑洞",
-      "wordCount": 34.4,
-      "isNew": false
-    },
-    {
-      "rank": 54,
-      "title": "上门龙婿",
-      "author": "叶公子",
-      "status": "连载中",
-      "category": "战神赘婿",
-      "wordCount": 842.2,
-      "isNew": false
-    },
-    {
-      "rank": 55,
-      "title": "人在高武，开局送老婆",
-      "author": "精神病院卖大力",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 70.8,
-      "isNew": false
-    },
-    {
-      "rank": 56,
-      "title": "宦海官途",
-      "author": "风流小二",
-      "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 478.5,
-      "isNew": false
-    },
-    {
-      "rank": 57,
       "title": "师门嫌我太狠辣，入朝堂后镇天下",
       "author": "武梁耶",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 59.0,
+      "wordCount": 60.3,
       "isNew": false
     },
     {
-      "rank": 58,
-      "title": "满门忠烈遭霸凌？我抬匾问哭军区",
-      "author": "短发小脸控",
-      "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 36.7,
-      "isNew": false
-    },
-    {
-      "rank": 59,
-      "title": "天不应",
-      "author": "夜来风雨声丶",
-      "status": "连载中",
-      "category": "东方仙侠",
-      "wordCount": 113.2,
-      "isNew": false
-    },
-    {
-      "rank": 60,
-      "title": "开局被分手，觉醒十大凶兽武魂",
-      "author": "上官素",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 228.9,
-      "isNew": false
-    },
-    {
-      "rank": 61,
-      "title": "被女帝离婚后，我分走百万倍修为",
-      "author": "戏柳先生",
-      "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 115.2,
-      "isNew": false
-    },
-    {
-      "rank": 62,
-      "title": "起底观心术",
-      "author": "鲍尔日",
-      "status": "已完结",
-      "category": "都市日常",
-      "wordCount": 158.6,
-      "isNew": false
-    },
-    {
-      "rank": 63,
+      "rank": 53,
       "title": "龙头至尊",
       "author": "简单的鱼",
       "status": "连载中",
       "category": "都市日常",
-      "wordCount": 588.4,
+      "wordCount": 590.7,
       "isNew": false
     },
     {
-      "rank": 64,
+      "rank": 54,
+      "title": "开局被分手，觉醒十大凶兽武魂",
+      "author": "上官素",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 229.8,
+      "isNew": false
+    },
+    {
+      "rank": 55,
+      "title": "娱乐：被资本做局，我拿红歌护体",
+      "author": "污水塘",
+      "status": "连载中",
+      "category": "都市脑洞",
+      "wordCount": 31.8,
+      "isNew": false
+    },
+    {
+      "rank": 56,
+      "title": "人在游神，见鬼起乩增损二将",
+      "author": "仲夏将至",
+      "status": "连载中",
+      "category": "悬疑灵异",
+      "wordCount": 157.9,
+      "isNew": false
+    },
+    {
+      "rank": 57,
+      "title": "上门龙婿",
+      "author": "叶公子",
+      "status": "连载中",
+      "category": "战神赘婿",
+      "wordCount": 842.7,
+      "isNew": false
+    },
+    {
+      "rank": 58,
+      "title": "被女帝离婚后，我分走百万倍修为",
+      "author": "戏柳先生",
+      "status": "连载中",
+      "category": "玄幻脑洞",
+      "wordCount": 116.6,
+      "isNew": false
+    },
+    {
+      "rank": 59,
+      "title": "宦海官途",
+      "author": "风流小二",
+      "status": "连载中",
+      "category": "都市日常",
+      "wordCount": 479.3,
+      "isNew": false
+    },
+    {
+      "rank": 60,
+      "title": "你们刷怪啊，刷我干嘛！",
+      "author": "喜欢吃橘子",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 119.1,
+      "isNew": false
+    },
+    {
+      "rank": 61,
+      "title": "开局圣地道子，你让我走废材流？",
+      "author": "东大街一霸",
+      "status": "连载中",
+      "category": "玄幻脑洞",
+      "wordCount": 158.6,
+      "isNew": false
+    },
+    {
+      "rank": 62,
       "title": "我的法宝都是规则系",
       "author": "板面王仔",
       "status": "已完结",
@@ -1480,25 +1462,52 @@
       "isNew": false
     },
     {
-      "rank": 65,
-      "title": "开局圣地道子，你让我走废材流？",
-      "author": "东大街一霸",
+      "rank": 63,
+      "title": "天不应",
+      "author": "夜来风雨声丶",
       "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 157.7,
+      "category": "东方仙侠",
+      "wordCount": 113.5,
+      "isNew": false
+    },
+    {
+      "rank": 64,
+      "title": "起底观心术",
+      "author": "鲍尔日",
+      "status": "已完结",
+      "category": "都市日常",
+      "wordCount": 158.6,
+      "isNew": false
+    },
+    {
+      "rank": 65,
+      "title": "公主太恶劣？抱紧她大腿后真香！",
+      "author": "桃白白真的白",
+      "status": "连载中",
+      "category": "传统玄幻",
+      "wordCount": 48.1,
       "isNew": false
     },
     {
       "rank": 66,
-      "title": "网游：我有超神级天赋",
-      "author": "撼动猩",
+      "title": "只赚钱不谈情，职业舔狗我最行！",
+      "author": "长叹一声",
       "status": "连载中",
-      "category": "游戏体育",
-      "wordCount": 409.8,
+      "category": "都市日常",
+      "wordCount": 220.8,
       "isNew": false
     },
     {
       "rank": 67,
+      "title": "人在高武，开局送老婆",
+      "author": "精神病院卖大力",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 72.0,
+      "isNew": false
+    },
+    {
+      "rank": 68,
       "title": "谍战小特务的逆袭",
       "author": "冬天不热",
       "status": "已完结",
@@ -1507,169 +1516,79 @@
       "isNew": false
     },
     {
-      "rank": 68,
-      "title": "只赚钱不谈情，职业舔狗我最行！",
-      "author": "长叹一声",
-      "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 220.0,
-      "isNew": false
-    },
-    {
       "rank": 69,
-      "title": "你们刷怪啊，刷我干嘛！",
-      "author": "喜欢吃橘子",
+      "title": "网游：我有超神级天赋",
+      "author": "撼动猩",
       "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 118.4,
+      "category": "游戏体育",
+      "wordCount": 410.8,
       "isNew": false
     },
     {
       "rank": 70,
-      "title": "科举，农家子的权臣之路",
-      "author": "江河大爷",
+      "title": "古代饥荒年：带嫂纳妾，粮肉满仓",
+      "author": "书虫十一",
       "status": "连载中",
       "category": "历史古代",
-      "wordCount": 86.2,
+      "wordCount": 35.4,
       "isNew": false
     },
     {
       "rank": 71,
-      "title": "和植物人女神领证，系统激活！",
-      "author": "一只微胖的皮皮虾",
-      "status": "连载中",
-      "category": "都市脑洞",
-      "wordCount": 17.9,
-      "isNew": false
-    },
-    {
-      "rank": 72,
-      "title": "退役后找不到工作，被迫当雇佣兵",
-      "author": "七进七出赵子龙",
-      "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 29.2,
-      "isNew": false
-    },
-    {
-      "rank": 73,
-      "title": "高手下山，我有九个无敌师父！",
-      "author": "小殇殇",
-      "status": "连载中",
-      "category": "都市修真",
-      "wordCount": 747.5,
-      "isNew": false
-    },
-    {
-      "rank": 74,
       "title": "天物觉醒：我能刻印一切",
       "author": "御风而行的葉子",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 202.9,
+      "wordCount": 203.4,
       "isNew": false
     },
     {
-      "rank": 75,
-      "title": "全球迷宫：开局设计精绝古城",
-      "author": "无戒僧",
+      "rank": 72,
+      "title": "满门忠烈遭霸凌？我抬匾问哭军区",
+      "author": "短发小脸控",
       "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 60.9,
-      "isNew": false
-    },
-    {
-      "rank": 76,
-      "title": "高手下山：我不当赘婿",
-      "author": "市井仙人",
-      "status": "已完结",
-      "category": "都市修真",
-      "wordCount": 308.9,
-      "isNew": false
-    },
-    {
-      "rank": 77,
-      "title": "公主太恶劣？抱紧她大腿后真香！",
-      "author": "桃白白真的白",
-      "status": "连载中",
-      "category": "传统玄幻",
-      "wordCount": 47.7,
-      "isNew": false
-    },
-    {
-      "rank": 78,
-      "title": "重生：官运亨通",
-      "author": "弹剑听潮",
-      "status": "已完结",
       "category": "都市日常",
-      "wordCount": 578.0,
+      "wordCount": 38.1,
       "isNew": false
     },
     {
-      "rank": 79,
-      "title": "重生：那个人好骚啊",
-      "author": "icp住户",
-      "status": "连载中",
-      "category": "都市种田",
-      "wordCount": 65.3,
-      "isNew": false
-    },
-    {
-      "rank": 80,
-      "title": "赛车娘世界：我有神级改装词条！",
-      "author": "宇宙无敌暴龙烧鹅",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 64.5,
-      "isNew": false
-    },
-    {
-      "rank": 81,
+      "rank": 73,
       "title": "一剑霸天",
       "author": "永夜星河",
       "status": "连载中",
       "category": "传统玄幻",
-      "wordCount": 768.0,
+      "wordCount": 769.3,
       "isNew": false
     },
     {
-      "rank": 82,
-      "title": "都重生了谁还追她啊",
-      "author": "心有浩然气",
-      "status": "已完结",
-      "category": "都市日常",
-      "wordCount": 168.2,
-      "isNew": false
-    },
-    {
-      "rank": 83,
-      "title": "被师娘骗去修炼后，傻子无敌了！",
-      "author": "琳小羽",
+      "rank": 74,
+      "title": "高手下山，我有九个无敌师父！",
+      "author": "小殇殇",
       "status": "连载中",
-      "category": "传统玄幻",
-      "wordCount": 61.6,
+      "category": "都市修真",
+      "wordCount": 749.1,
       "isNew": false
     },
     {
-      "rank": 84,
-      "title": "变身流氓鹦鹉，让校花全网社死！",
-      "author": "锦鲤旺",
+      "rank": 75,
+      "title": "科举，农家子的权臣之路",
+      "author": "江河大爷",
+      "status": "连载中",
+      "category": "历史古代",
+      "wordCount": 87.0,
+      "isNew": false
+    },
+    {
+      "rank": 76,
+      "title": "赛车娘世界：我有神级改装词条！",
+      "author": "宇宙无敌暴龙烧鹅",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 21.8,
+      "wordCount": 65.3,
       "isNew": false
     },
     {
-      "rank": 85,
-      "title": "多子多福，国家帮我攻略女神",
-      "author": "鸡翅鸡腿",
-      "status": "连载中",
-      "category": "都市脑洞",
-      "wordCount": 16.6,
-      "isNew": false
-    },
-    {
-      "rank": 86,
+      "rank": 77,
       "title": "上城之下",
       "author": "李马",
       "status": "已完结",
@@ -1678,21 +1597,102 @@
       "isNew": false
     },
     {
-      "rank": 87,
+      "rank": 78,
+      "title": "高手下山：我不当赘婿",
+      "author": "市井仙人",
+      "status": "已完结",
+      "category": "都市修真",
+      "wordCount": 308.9,
+      "isNew": false
+    },
+    {
+      "rank": 79,
+      "title": "被师娘骗去修炼后，傻子无敌了！",
+      "author": "琳小羽",
+      "status": "连载中",
+      "category": "传统玄幻",
+      "wordCount": 62.6,
+      "isNew": false
+    },
+    {
+      "rank": 80,
+      "title": "和植物人女神领证，系统激活！",
+      "author": "一只微胖的皮皮虾",
+      "status": "连载中",
+      "category": "都市脑洞",
+      "wordCount": 18.5,
+      "isNew": false
+    },
+    {
+      "rank": 81,
+      "title": "重生：官运亨通",
+      "author": "弹剑听潮",
+      "status": "已完结",
+      "category": "都市日常",
+      "wordCount": 578.0,
+      "isNew": false
+    },
+    {
+      "rank": 82,
+      "title": "重生：那个人好骚啊",
+      "author": "icp住户",
+      "status": "连载中",
+      "category": "都市种田",
+      "wordCount": 66.7,
+      "isNew": false
+    },
+    {
+      "rank": 83,
+      "title": "退役后找不到工作，被迫当雇佣兵",
+      "author": "七进七出赵子龙",
+      "status": "连载中",
+      "category": "都市日常",
+      "wordCount": 30.4,
+      "isNew": false
+    },
+    {
+      "rank": 84,
+      "title": "被污蔑当天，反手编辑大帝背景！",
+      "author": "大贼2",
+      "status": "连载中",
+      "category": "玄幻脑洞",
+      "wordCount": 108.2,
+      "isNew": false
+    },
+    {
+      "rank": 85,
+      "title": "都重生了谁还追她啊",
+      "author": "心有浩然气",
+      "status": "已完结",
+      "category": "都市日常",
+      "wordCount": 168.2,
+      "isNew": false
+    },
+    {
+      "rank": 86,
       "title": "血战淞沪从抽到警察局到拥兵百万",
       "author": "土豆勇者",
       "status": "连载中",
       "category": "抗战谍战",
-      "wordCount": 49.6,
+      "wordCount": 50.7,
       "isNew": false
     },
     {
-      "rank": 88,
+      "rank": 87,
       "title": "刀哥爆红娱乐圈，粉丝求我别杀了",
       "author": "孤风一醉",
       "status": "连载中",
       "category": "都市脑洞",
-      "wordCount": 81.8,
+      "wordCount": 82.7,
+      "isNew": false
+    },
+    {
+      "rank": 88,
+      "title": "我，三清弟子，洪荒最强关系户！",
+      "author": "平凡的脑洞君",
+      "status": "连载中",
+      "category": "东方仙侠",
+      "wordCount": 42.3,
       "isNew": false
     },
     {
@@ -1701,43 +1701,43 @@
       "author": "戒界",
       "status": "连载中",
       "category": "传统玄幻",
-      "wordCount": 275.3,
+      "wordCount": 276.1,
       "isNew": false
     },
     {
       "rank": 90,
-      "title": "谍战：我在敌占区扮演鬼子军官",
-      "author": "拳打幼儿园",
+      "title": "29岁白衬衫，大佬说我前途无量",
+      "author": "我饿饿饿饿饿了",
       "status": "连载中",
-      "category": "抗战谍战",
-      "wordCount": 61.1,
+      "category": "都市日常",
+      "wordCount": 52.6,
       "isNew": false
     },
     {
       "rank": 91,
-      "title": "校花怀孕上门，激活超级全能系统",
-      "author": "我本不凡",
+      "title": "让你贵族学校读书，你去泡大小姐",
+      "author": "有点易断但不多",
       "status": "连载中",
-      "category": "都市种田",
-      "wordCount": 31.1,
-      "isNew": false
+      "category": "都市脑洞",
+      "wordCount": 58.4,
+      "isNew": true
     },
     {
       "rank": 92,
-      "title": "名义：有了氪金系统的赵德汉",
-      "author": "吹风吞云",
+      "title": "我真没想当王爷啊",
+      "author": "溜达的长刀",
       "status": "连载中",
-      "category": "男频衍生",
-      "wordCount": 26.1,
-      "isNew": false
+      "category": "传统玄幻",
+      "wordCount": 105.2,
+      "isNew": true
     },
     {
       "rank": 93,
-      "title": "尸生子，鬼抬棺",
-      "author": "界玉",
-      "status": "已完结",
-      "category": "悬疑灵异",
-      "wordCount": 329.7,
+      "title": "大秦：开局扶苏被贬，忽悠他造反",
+      "author": "瑜兰瑾",
+      "status": "连载中",
+      "category": "历史古代",
+      "wordCount": 159.6,
       "isNew": false
     },
     {
@@ -1746,61 +1746,61 @@
       "author": "威煞虎鲶",
       "status": "连载中",
       "category": "都市脑洞",
-      "wordCount": 100.3,
-      "isNew": true
+      "wordCount": 102.5,
+      "isNew": false
     },
     {
       "rank": 95,
-      "title": "全家一等功，我告到军区你怕什么",
-      "author": "一叶凌九天",
+      "title": "变身流氓鹦鹉，让校花全网社死！",
+      "author": "锦鲤旺",
       "status": "连载中",
-      "category": "都市日常",
-      "wordCount": 40.3,
+      "category": "都市高武",
+      "wordCount": 23.1,
       "isNew": false
     },
     {
       "rank": 96,
-      "title": "大秦：开局扶苏被贬，忽悠他造反",
-      "author": "瑜兰瑾",
+      "title": "逆经：骗子住手",
+      "author": "任梵无音",
       "status": "连载中",
-      "category": "历史古代",
-      "wordCount": 158.8,
-      "isNew": false
+      "category": "东方仙侠",
+      "wordCount": 70.0,
+      "isNew": true
     },
     {
       "rank": 97,
-      "title": "被污蔑当天，反手编辑大帝背景！",
-      "author": "大贼2",
+      "title": "我合成了全世界",
+      "author": "王自律",
       "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 107.8,
+      "category": "科幻末世",
+      "wordCount": 204.1,
       "isNew": true
     },
     {
       "rank": 98,
-      "title": "29岁白衬衫，大佬说我前途无量",
-      "author": "我饿饿饿饿饿了",
+      "title": "从烂仔到黑道枭雄",
+      "author": "祝融必火",
       "status": "连载中",
       "category": "都市日常",
-      "wordCount": 51.4,
+      "wordCount": 181.3,
       "isNew": false
     },
     {
       "rank": 99,
-      "title": "我，三清弟子，洪荒最强关系户！",
-      "author": "平凡的脑洞君",
+      "title": "这个皇帝不仅摆烂，还没有素质",
+      "author": "三斤葡萄",
       "status": "连载中",
-      "category": "东方仙侠",
-      "wordCount": 40.6,
-      "isNew": true
+      "category": "历史脑洞",
+      "wordCount": 29.1,
+      "isNew": false
     },
     {
       "rank": 100,
-      "title": "二柱子，乡村好快活",
-      "author": "天天不等闲",
+      "title": "校花怀孕上门，激活超级全能系统",
+      "author": "我本不凡",
       "status": "连载中",
-      "category": "都市修真",
-      "wordCount": 351.3,
+      "category": "都市种田",
+      "wordCount": 32.3,
       "isNew": false
     }
   ],
@@ -1811,7 +1811,7 @@
       "author": "猫不秃",
       "status": "连载中",
       "category": "游戏体育",
-      "wordCount": 230.1,
+      "wordCount": 231.0,
       "isNew": false
     },
     {
@@ -1843,87 +1843,69 @@
     },
     {
       "rank": 5,
-      "title": "奶团被找回，京圈大佬一心洗奶瓶",
-      "author": "多多锦",
+      "title": "新婚慢熟",
+      "author": "芥婕",
       "status": "连载中",
       "category": "豪门总裁",
-      "wordCount": 23.0,
+      "wordCount": 14.6,
       "isNew": false
     },
     {
       "rank": 6,
+      "title": "奶团被找回，京圈大佬一心洗奶瓶",
+      "author": "多多锦",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 23.8,
+      "isNew": false
+    },
+    {
+      "rank": 7,
       "title": "穿书后意外攻略了苗疆少年",
       "author": "奔跑的桃子",
-      "status": "连载中",
+      "status": "已完结",
       "category": "古言脑洞",
       "wordCount": 48.5,
       "isNew": false
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "现代女散修的元神漫游记",
       "author": "梵一善",
       "status": "连载中",
       "category": "现言脑洞",
-      "wordCount": 33.7,
-      "isNew": false
-    },
-    {
-      "rank": 8,
-      "title": "她醉酒进错房，京圈大佬一夜沦陷",
-      "author": "妖铃",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 43.9,
+      "wordCount": 35.0,
       "isNew": false
     },
     {
       "rank": 9,
-      "title": "拜金樊胜美，孟宴臣偏要宠",
-      "author": "希暖十月",
-      "status": "已完结",
-      "category": "女频衍生",
-      "wordCount": 33.9,
+      "title": "揣双胎带灵泉，资本家小姐去随军",
+      "author": "范氏女子",
+      "status": "连载中",
+      "category": "年代",
+      "wordCount": 50.0,
       "isNew": false
     },
     {
       "rank": 10,
-      "title": "闷骚前男友空降，成了我老板",
-      "author": "玥从安",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 27.4,
-      "isNew": false
-    },
-    {
-      "rank": 11,
-      "title": "逼我断亲，住牛棚我暴富你们哭啥",
-      "author": "樱花的梦",
-      "status": "已完结",
-      "category": "种田",
-      "wordCount": 127.0,
-      "isNew": false
-    },
-    {
-      "rank": 12,
-      "title": "谢太太的退场",
-      "author": "易木殇",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 15.7,
-      "isNew": false
-    },
-    {
-      "rank": 13,
       "title": "闺蜜说大哥凶，可他夜里喊我宝宝",
       "author": "鎏旗",
       "status": "连载中",
       "category": "豪门总裁",
-      "wordCount": 42.5,
+      "wordCount": 43.3,
       "isNew": false
     },
     {
-      "rank": 14,
+      "rank": 11,
+      "title": "她醉酒进错房，京圈大佬一夜沦陷",
+      "author": "妖铃",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 44.8,
+      "isNew": false
+    },
+    {
+      "rank": 12,
       "title": "怎敌她动人",
       "author": "彼呦",
       "status": "连载中",
@@ -1932,34 +1914,61 @@
       "isNew": false
     },
     {
+      "rank": 13,
+      "title": "恶毒女配守活寡？夫兄，人家好怕",
+      "author": "叶不鸿",
+      "status": "连载中",
+      "category": "宫斗宅斗",
+      "wordCount": 49.7,
+      "isNew": false
+    },
+    {
+      "rank": 14,
+      "title": "不求真心求苟活，奈何帝王偏爱我",
+      "author": "楼台烟雨中",
+      "status": "连载中",
+      "category": "宫斗宅斗",
+      "wordCount": 38.9,
+      "isNew": false
+    },
+    {
       "rank": 15,
       "title": "公路求生榜一说她要走到公路尽头",
       "author": "张泡泡",
       "status": "连载中",
       "category": "游戏体育",
-      "wordCount": 122.9,
+      "wordCount": 123.9,
       "isNew": false
     },
     {
       "rank": 16,
-      "title": "有了暴君读心术，我在宫里杀疯了",
-      "author": "尹在水",
-      "status": "已完结",
-      "category": "古言脑洞",
-      "wordCount": 86.8,
+      "title": "谢太太的退场",
+      "author": "易木殇",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 16.5,
       "isNew": false
     },
     {
       "rank": 17,
-      "title": "我不过作作妖，怎么就成了白月光",
-      "author": "叁生三三",
+      "title": "闷骚前男友空降，成了我老板",
+      "author": "玥从安",
       "status": "连载中",
-      "category": "现言脑洞",
-      "wordCount": 180.1,
+      "category": "豪门总裁",
+      "wordCount": 28.2,
       "isNew": false
     },
     {
       "rank": 18,
+      "title": "逼我断亲，住牛棚我暴富你们哭啥",
+      "author": "樱花的梦",
+      "status": "已完结",
+      "category": "种田",
+      "wordCount": 127.0,
+      "isNew": false
+    },
+    {
+      "rank": 19,
       "title": "全宗门都是恋爱脑，唯我是真疯批",
       "author": "纸老虎",
       "status": "已完结",
@@ -1968,7 +1977,34 @@
       "isNew": false
     },
     {
-      "rank": 19,
+      "rank": 20,
+      "title": "有了暴君读心术，我在宫里杀疯了",
+      "author": "尹在水",
+      "status": "已完结",
+      "category": "古言脑洞",
+      "wordCount": 86.8,
+      "isNew": false
+    },
+    {
+      "rank": 21,
+      "title": "我不过作作妖，怎么就成了白月光",
+      "author": "叁生三三",
+      "status": "连载中",
+      "category": "现言脑洞",
+      "wordCount": 181.0,
+      "isNew": false
+    },
+    {
+      "rank": 22,
+      "title": "重生八零：老太太抛子弃女",
+      "author": "招财猫儿",
+      "status": "连载中",
+      "category": "年代",
+      "wordCount": 162.7,
+      "isNew": false
+    },
+    {
+      "rank": 23,
       "title": "我靠摆烂拯救了全宗门",
       "author": "公主不回家",
       "status": "已完结",
@@ -1977,16 +2013,16 @@
       "isNew": false
     },
     {
-      "rank": 20,
-      "title": "霍总，太太想跟你离婚很久了",
-      "author": "逆氧",
+      "rank": 24,
+      "title": "反派幼崽三岁半，爹不造反我来干",
+      "author": "月亮跌入梦",
       "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 53.7,
+      "category": "宫斗宅斗",
+      "wordCount": 19.2,
       "isNew": false
     },
     {
-      "rank": 21,
+      "rank": 25,
       "title": "京澳春潮",
       "author": "仲夏雨",
       "status": "已完结",
@@ -1995,7 +2031,25 @@
       "isNew": false
     },
     {
-      "rank": 22,
+      "rank": 26,
+      "title": "女承母业，我在豪门当保姆",
+      "author": "白素素",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 24.6,
+      "isNew": false
+    },
+    {
+      "rank": 27,
+      "title": "霍总，太太想跟你离婚很久了",
+      "author": "逆氧",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 54.1,
+      "isNew": false
+    },
+    {
+      "rank": 28,
       "title": "被S级alpha们包围的直男",
       "author": "拒清水",
       "status": "已完结",
@@ -2004,84 +2058,30 @@
       "isNew": false
     },
     {
-      "rank": 23,
-      "title": "重生八零：老太太抛子弃女",
-      "author": "招财猫儿",
-      "status": "连载中",
-      "category": "年代",
-      "wordCount": 161.5,
-      "isNew": false
-    },
-    {
-      "rank": 24,
-      "title": "不求真心求苟活，奈何帝王偏爱我",
-      "author": "楼台烟雨中",
-      "status": "连载中",
-      "category": "宫斗宅斗",
-      "wordCount": 38.4,
-      "isNew": false
-    },
-    {
-      "rank": 25,
-      "title": "反派幼崽三岁半，爹不造反我来干",
-      "author": "月亮跌入梦",
-      "status": "连载中",
-      "category": "宫斗宅斗",
-      "wordCount": 18.3,
-      "isNew": false
-    },
-    {
-      "rank": 26,
-      "title": "揣双胎带灵泉，资本家小姐去随军",
-      "author": "范氏女子",
-      "status": "连载中",
-      "category": "年代",
-      "wordCount": 48.7,
-      "isNew": false
-    },
-    {
-      "rank": 27,
-      "title": "小可怜揣崽偷哭，豪门婆家来团宠",
-      "author": "木兮柳",
+      "rank": 29,
+      "title": "禁欲佛爷白天抄经，晚上掐腰亲！",
+      "author": "洛汀序",
       "status": "连载中",
       "category": "豪门总裁",
-      "wordCount": 31.2,
-      "isNew": false
-    },
-    {
-      "rank": 28,
-      "title": "恶毒女配守活寡？夫兄，人家好怕",
-      "author": "叶不鸿",
-      "status": "连载中",
-      "category": "宫斗宅斗",
-      "wordCount": 48.8,
-      "isNew": false
-    },
-    {
-      "rank": 29,
-      "title": "穿书年代，炮灰原配携崽随军去啦",
-      "author": "空山灵雨",
-      "status": "已完结",
-      "category": "年代",
-      "wordCount": 100.1,
+      "wordCount": 39.3,
       "isNew": false
     },
     {
       "rank": 30,
-      "title": "逆天萌兽：绝世妖女倾天下",
-      "author": "初一见月",
-      "status": "已完结",
-      "category": "玄幻言情",
-      "wordCount": 622.8,
+      "title": "恶女训狗无数！攀高枝！引雄竞",
+      "author": "桃花映酒",
+      "status": "连载中",
+      "category": "宫斗宅斗",
+      "wordCount": 52.1,
       "isNew": false
     },
     {
       "rank": 31,
-      "title": "开局被害？侯府真千金杀疯京城",
-      "author": "那年的花",
+      "title": "拜金樊胜美，孟宴臣偏要宠",
+      "author": "希暖十月",
       "status": "已完结",
-      "category": "宫斗宅斗",
-      "wordCount": 167.8,
+      "category": "女频衍生",
+      "wordCount": 33.9,
       "isNew": false
     },
     {
@@ -2095,33 +2095,51 @@
     },
     {
       "rank": 33,
-      "title": "禁欲佛爷白天抄经，晚上掐腰亲！",
-      "author": "洛汀序",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 38.5,
+      "title": "逆天萌兽：绝世妖女倾天下",
+      "author": "初一见月",
+      "status": "已完结",
+      "category": "玄幻言情",
+      "wordCount": 622.8,
       "isNew": false
     },
     {
       "rank": 34,
-      "title": "离婚OK啦，但公公婆婆必须归我",
-      "author": "北上渊",
+      "title": "小鼻嘎不过作作妖，爹娘被哄翘嘴",
+      "author": "吃香菜的猪猪",
+      "status": "连载中",
+      "category": "宫斗宅斗",
+      "wordCount": 51.3,
+      "isNew": false
+    },
+    {
+      "rank": 35,
+      "title": "小可怜揣崽偷哭，豪门婆家来团宠",
+      "author": "木兮柳",
       "status": "连载中",
       "category": "豪门总裁",
       "wordCount": 31.9,
       "isNew": false
     },
     {
-      "rank": 35,
-      "title": "小鼻嘎不过作作妖，爹娘被哄翘嘴",
-      "author": "吃香菜的猪猪",
+      "rank": 36,
+      "title": "全家疯批，我穿成了养崽文对照组",
+      "author": "寒霜榭",
       "status": "连载中",
-      "category": "宫斗宅斗",
-      "wordCount": 50.4,
+      "category": "豪门总裁",
+      "wordCount": 44.8,
       "isNew": false
     },
     {
-      "rank": 36,
+      "rank": 37,
+      "title": "白月光死而复生，疯批帝争着当狗",
+      "author": "红兔",
+      "status": "连载中",
+      "category": "宫斗宅斗",
+      "wordCount": 24.4,
+      "isNew": false
+    },
+    {
+      "rank": 38,
       "title": "听说我死后成了反派白月光",
       "author": "甜甜的瓜",
       "status": "已完结",
@@ -2130,34 +2148,61 @@
       "isNew": false
     },
     {
-      "rank": 37,
-      "title": "女承母业，我在豪门当保姆",
-      "author": "白素素",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 24.2,
-      "isNew": false
-    },
-    {
-      "rank": 38,
-      "title": "潮汐界限",
-      "author": "奶糖酥",
-      "status": "连载中",
-      "category": "职场婚恋",
-      "wordCount": 34.5,
-      "isNew": false
-    },
-    {
       "rank": 39,
-      "title": "白月光死而复生，疯批帝争着当狗",
-      "author": "红兔",
-      "status": "连载中",
+      "title": "开局被害？侯府真千金杀疯京城",
+      "author": "那年的花",
+      "status": "已完结",
       "category": "宫斗宅斗",
-      "wordCount": 23.6,
+      "wordCount": 167.8,
       "isNew": false
     },
     {
       "rank": 40,
+      "title": "离婚OK啦，但公公婆婆必须归我",
+      "author": "北上渊",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 32.7,
+      "isNew": false
+    },
+    {
+      "rank": 41,
+      "title": "穿书年代，炮灰原配携崽随军去啦",
+      "author": "空山灵雨",
+      "status": "已完结",
+      "category": "年代",
+      "wordCount": 100.1,
+      "isNew": false
+    },
+    {
+      "rank": 42,
+      "title": "在八月盛夏",
+      "author": "适常",
+      "status": "已完结",
+      "category": "职场婚恋",
+      "wordCount": 33.6,
+      "isNew": false
+    },
+    {
+      "rank": 43,
+      "title": "穿越七零，开局闪婚了",
+      "author": "胖蜗牛很懒",
+      "status": "连载中",
+      "category": "年代",
+      "wordCount": 30.1,
+      "isNew": false
+    },
+    {
+      "rank": 44,
+      "title": "潮汐界限",
+      "author": "奶糖酥",
+      "status": "已完结",
+      "category": "职场婚恋",
+      "wordCount": 34.7,
+      "isNew": false
+    },
+    {
+      "rank": 45,
       "title": "好孕随军去养崽，重生女配成团宠",
       "author": "东方既白",
       "status": "已完结",
@@ -2166,66 +2211,21 @@
       "isNew": false
     },
     {
-      "rank": 41,
-      "title": "恶女训狗无数！攀高枝！引雄竞",
-      "author": "桃花映酒",
-      "status": "连载中",
-      "category": "宫斗宅斗",
-      "wordCount": 51.2,
-      "isNew": false
-    },
-    {
-      "rank": 42,
-      "title": "宗族想吃绝户？嫡女单开百年族谱",
-      "author": "寸寸金",
-      "status": "连载中",
-      "category": "古代言情",
-      "wordCount": 29.3,
-      "isNew": false
-    },
-    {
-      "rank": 43,
-      "title": "新婚慢熟",
-      "author": "芥婕",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 13.8,
-      "isNew": true
-    },
-    {
-      "rank": 44,
-      "title": "全家疯批，我穿成了养崽文对照组",
-      "author": "寒霜榭",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 43.9,
-      "isNew": false
-    },
-    {
-      "rank": 45,
-      "title": "穿越七零，开局闪婚了",
-      "author": "胖蜗牛很懒",
-      "status": "连载中",
-      "category": "年代",
-      "wordCount": 29.5,
-      "isNew": false
-    },
-    {
       "rank": 46,
-      "title": "驯娇！京圈大佬撕碎温柔掐颈吻狠",
-      "author": "陈大喵0",
+      "title": "大佬归来，裴律师追妻从情人做起",
+      "author": "木音子",
       "status": "已完结",
       "category": "豪门总裁",
-      "wordCount": 41.2,
+      "wordCount": 100.3,
       "isNew": false
     },
     {
       "rank": 47,
-      "title": "小知青不乖，禁欲首长又争又抢",
-      "author": "锦鲤咖啡",
-      "status": "已完结",
-      "category": "年代",
-      "wordCount": 83.9,
+      "title": "宗族想吃绝户？嫡女单开百年族谱",
+      "author": "寸寸金",
+      "status": "连载中",
+      "category": "古代言情",
+      "wordCount": 30.0,
       "isNew": false
     },
     {
@@ -2239,11 +2239,11 @@
     },
     {
       "rank": 49,
-      "title": "大佬归来，裴律师追妻从情人做起",
-      "author": "木音子",
+      "title": "知青被藏地窖五年吃肉喝血后重生",
+      "author": "超爱小叮当",
       "status": "已完结",
-      "category": "豪门总裁",
-      "wordCount": 100.3,
+      "category": "年代",
+      "wordCount": 107.0,
       "isNew": false
     },
     {
@@ -2257,6 +2257,15 @@
     },
     {
       "rank": 51,
+      "title": "都九州第一了，我缺点德怎么了",
+      "author": "姜小言",
+      "status": "连载中",
+      "category": "玄幻言情",
+      "wordCount": 124.0,
+      "isNew": false
+    },
+    {
+      "rank": 52,
       "title": "七零，对我不好的人就不带你飞了",
       "author": "无月公子",
       "status": "已完结",
@@ -2265,34 +2274,16 @@
       "isNew": false
     },
     {
-      "rank": 52,
-      "title": "领证爽约？我嫁你小叔疯什么",
-      "author": "漫长与你",
+      "rank": 53,
+      "title": "驯娇！京圈大佬撕碎温柔掐颈吻狠",
+      "author": "陈大喵0",
       "status": "已完结",
       "category": "豪门总裁",
-      "wordCount": 53.3,
-      "isNew": false
-    },
-    {
-      "rank": 53,
-      "title": "港城冲喜来了个小财神",
-      "author": "楮君",
-      "status": "连载中",
-      "category": "年代",
-      "wordCount": 59.2,
+      "wordCount": 41.2,
       "isNew": false
     },
     {
       "rank": 54,
-      "title": "都九州第一了，我缺点德怎么了",
-      "author": "姜小言",
-      "status": "连载中",
-      "category": "玄幻言情",
-      "wordCount": 122.8,
-      "isNew": false
-    },
-    {
-      "rank": 55,
       "title": "心肝宠",
       "author": "九棂",
       "status": "已完结",
@@ -2301,43 +2292,34 @@
       "isNew": false
     },
     {
-      "rank": 56,
-      "title": "穿成早死的炮灰原配，我怒嫁反派",
-      "author": "烽火尽染",
-      "status": "已完结",
+      "rank": 55,
+      "title": "重生后扑到权臣怀里哭，他红温了",
+      "author": "小鱼学游泳",
+      "status": "连载中",
       "category": "宫斗宅斗",
-      "wordCount": 177.6,
+      "wordCount": 18.9,
+      "isNew": false
+    },
+    {
+      "rank": 56,
+      "title": "咬夏棠",
+      "author": "大肉包子啊",
+      "status": "连载中",
+      "category": "青春甜宠",
+      "wordCount": 29.4,
       "isNew": false
     },
     {
       "rank": 57,
-      "title": "资本家小姐觉醒，掏空家产去随军",
-      "author": "陈墨铮",
-      "status": "连载中",
-      "category": "年代",
-      "wordCount": 52.5,
-      "isNew": false
-    },
-    {
-      "rank": 58,
-      "title": "重生者太密集？我带国家队下场",
-      "author": "边鹿",
-      "status": "已完结",
-      "category": "科幻末世",
-      "wordCount": 75.6,
-      "isNew": false
-    },
-    {
-      "rank": 59,
       "title": "和变态分手后，忘记关亲密付了",
       "author": "小鸭鸭",
       "status": "连载中",
       "category": "现言脑洞",
-      "wordCount": 42.9,
+      "wordCount": 43.6,
       "isNew": false
     },
     {
-      "rank": 60,
+      "rank": 58,
       "title": "谁教你这么当兄弟的",
       "author": "桃气乌龙正常糖",
       "status": "已完结",
@@ -2346,61 +2328,34 @@
       "isNew": false
     },
     {
+      "rank": 59,
+      "title": "小知青不乖，禁欲首长又争又抢",
+      "author": "锦鲤咖啡",
+      "status": "已完结",
+      "category": "年代",
+      "wordCount": 83.9,
+      "isNew": false
+    },
+    {
+      "rank": 60,
+      "title": "重生者太密集？我带国家队下场",
+      "author": "边鹿",
+      "status": "已完结",
+      "category": "科幻末世",
+      "wordCount": 75.6,
+      "isNew": false
+    },
+    {
       "rank": 61,
-      "title": "宠妾灭妻，重生我退婚渣男嫁王爷",
-      "author": "之知",
+      "title": "穿成早死的炮灰原配，我怒嫁反派",
+      "author": "烽火尽染",
       "status": "已完结",
       "category": "宫斗宅斗",
-      "wordCount": 64.0,
+      "wordCount": 177.6,
       "isNew": false
     },
     {
       "rank": 62,
-      "title": "重生后扑到权臣怀里哭，他红温了",
-      "author": "小鱼学游泳",
-      "status": "连载中",
-      "category": "宫斗宅斗",
-      "wordCount": 18.1,
-      "isNew": false
-    },
-    {
-      "rank": 63,
-      "title": "被迫与校草做情侣",
-      "author": "浅浅茜",
-      "status": "已完结",
-      "category": "青春甜宠",
-      "wordCount": 113.6,
-      "isNew": false
-    },
-    {
-      "rank": 64,
-      "title": "知青被藏地窖五年吃肉喝血后重生",
-      "author": "超爱小叮当",
-      "status": "已完结",
-      "category": "年代",
-      "wordCount": 107.0,
-      "isNew": false
-    },
-    {
-      "rank": 65,
-      "title": "七零：万人嫌夫妇，大院发癫",
-      "author": "啵啵呆毛",
-      "status": "已完结",
-      "category": "年代",
-      "wordCount": 130.0,
-      "isNew": false
-    },
-    {
-      "rank": 66,
-      "title": "你们惹她干嘛，小师妹有天道宠着",
-      "author": "努力攒钱买贴纸",
-      "status": "连载中",
-      "category": "玄幻言情",
-      "wordCount": 83.3,
-      "isNew": false
-    },
-    {
-      "rank": 67,
       "title": "钓系娇娇小美人在修罗场求生",
       "author": "闪闪小金",
       "status": "已完结",
@@ -2409,12 +2364,57 @@
       "isNew": false
     },
     {
-      "rank": 68,
-      "title": "霍爷的小心肝，糖糖今天又变美了",
-      "author": "小熊有文化",
+      "rank": 63,
+      "title": "资本家小姐觉醒，掏空家产去随军",
+      "author": "陈墨铮",
       "status": "连载中",
       "category": "年代",
-      "wordCount": 18.2,
+      "wordCount": 53.4,
+      "isNew": false
+    },
+    {
+      "rank": 64,
+      "title": "港城冲喜来了个小财神",
+      "author": "楮君",
+      "status": "连载中",
+      "category": "年代",
+      "wordCount": 59.2,
+      "isNew": false
+    },
+    {
+      "rank": 65,
+      "title": "闺蜜齐穿书，你离，我隔一天！",
+      "author": "柿九",
+      "status": "已完结",
+      "category": "豪门总裁",
+      "wordCount": 50.1,
+      "isNew": true
+    },
+    {
+      "rank": 66,
+      "title": "宠妾灭妻，重生我退婚渣男嫁王爷",
+      "author": "之知",
+      "status": "已完结",
+      "category": "宫斗宅斗",
+      "wordCount": 64.0,
+      "isNew": false
+    },
+    {
+      "rank": 67,
+      "title": "你们惹她干嘛，小师妹有天道宠着",
+      "author": "努力攒钱买贴纸",
+      "status": "连载中",
+      "category": "玄幻言情",
+      "wordCount": 83.8,
+      "isNew": false
+    },
+    {
+      "rank": 68,
+      "title": "领证爽约？我嫁你小叔疯什么",
+      "author": "漫长与你",
+      "status": "已完结",
+      "category": "豪门总裁",
+      "wordCount": 53.3,
       "isNew": false
     },
     {
@@ -2423,254 +2423,20 @@
       "author": "十月的翠花",
       "status": "连载中",
       "category": "年代",
-      "wordCount": 48.5,
+      "wordCount": 49.4,
       "isNew": false
     },
     {
       "rank": 70,
-      "title": "穿成真千金的小族妹",
-      "author": "爱吃西瓜的小河马",
-      "status": "连载中",
+      "title": "七零：万人嫌夫妇，大院发癫",
+      "author": "啵啵呆毛",
+      "status": "已完结",
       "category": "年代",
-      "wordCount": 25.8,
+      "wordCount": 130.0,
       "isNew": false
     },
     {
       "rank": 71,
-      "title": "小助理变美后，抢了大明星的金主",
-      "author": "草莓糖心",
-      "status": "已完结",
-      "category": "豪门总裁",
-      "wordCount": 42.9,
-      "isNew": false
-    },
-    {
-      "rank": 72,
-      "title": "校草出轨，我闪婚太子爷，他疯了",
-      "author": "小毛球",
-      "status": "已完结",
-      "category": "青春甜宠",
-      "wordCount": 33.6,
-      "isNew": false
-    },
-    {
-      "rank": 73,
-      "title": "掌上娇娇",
-      "author": "支云",
-      "status": "已完结",
-      "category": "古言权谋",
-      "wordCount": 90.8,
-      "isNew": false
-    },
-    {
-      "rank": 74,
-      "title": "姐控的妹宝，随时被分手的他，惨",
-      "author": "琼予枝头",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 32.6,
-      "isNew": false
-    },
-    {
-      "rank": 75,
-      "title": "在八月盛夏",
-      "author": "适常",
-      "status": "已完结",
-      "category": "职场婚恋",
-      "wordCount": 33.6,
-      "isNew": false
-    },
-    {
-      "rank": 76,
-      "title": "五零：回儿时，夺宝改命",
-      "author": "悦盛",
-      "status": "连载中",
-      "category": "年代",
-      "wordCount": 17.6,
-      "isNew": false
-    },
-    {
-      "rank": 77,
-      "title": "妹妹，这疯批你驾驭不了，换我来",
-      "author": "之知",
-      "status": "已完结",
-      "category": "古言脑洞",
-      "wordCount": 62.7,
-      "isNew": false
-    },
-    {
-      "rank": 78,
-      "title": "暴烈掠夺",
-      "author": "大呀",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 23.2,
-      "isNew": false
-    },
-    {
-      "rank": 79,
-      "title": "穿成凤傲天的早死病弱姐姐",
-      "author": "兔宛",
-      "status": "已完结",
-      "category": "玄幻言情",
-      "wordCount": 100.9,
-      "isNew": false
-    },
-    {
-      "rank": 80,
-      "title": "疯批黑莲花：顶级财阀大小姐回归",
-      "author": "向日小葵花",
-      "status": "连载中",
-      "category": "现言脑洞",
-      "wordCount": 43.1,
-      "isNew": false
-    },
-    {
-      "rank": 81,
-      "title": "被渣爹抛弃后，首富爸爸宠翻天",
-      "author": "夏甜宝",
-      "status": "连载中",
-      "category": "现言脑洞",
-      "wordCount": 65.6,
-      "isNew": false
-    },
-    {
-      "rank": 82,
-      "title": "咬夏棠",
-      "author": "大肉包子啊",
-      "status": "连载中",
-      "category": "青春甜宠",
-      "wordCount": 28.5,
-      "isNew": false
-    },
-    {
-      "rank": 83,
-      "title": "盗墓：开局引领西王母寻找长生",
-      "author": "杨戬的第三只眼",
-      "status": "连载中",
-      "category": "悬疑脑洞",
-      "wordCount": 40.8,
-      "isNew": false
-    },
-    {
-      "rank": 84,
-      "title": "我法师加奶妈，用七把剑不过份吧",
-      "author": "暮回春",
-      "status": "连载中",
-      "category": "玄幻言情",
-      "wordCount": 218.1,
-      "isNew": false
-    },
-    {
-      "rank": 85,
-      "title": "修仙回来后：我靠种灵植发家致富",
-      "author": "宿命敲",
-      "status": "连载中",
-      "category": "现言脑洞",
-      "wordCount": 47.5,
-      "isNew": false
-    },
-    {
-      "rank": 86,
-      "title": "青山似玉",
-      "author": "玛瑙员外",
-      "status": "已完结",
-      "category": "豪门总裁",
-      "wordCount": 32.6,
-      "isNew": false
-    },
-    {
-      "rank": 87,
-      "title": "女配修仙，但是无限读档",
-      "author": "月对空",
-      "status": "已完结",
-      "category": "玄幻言情",
-      "wordCount": 124.8,
-      "isNew": false
-    },
-    {
-      "rank": 88,
-      "title": "金总，太太又带小姐离家出走了！",
-      "author": "斤二",
-      "status": "已完结",
-      "category": "豪门总裁",
-      "wordCount": 35.5,
-      "isNew": false
-    },
-    {
-      "rank": 89,
-      "title": "直播算命：开局完虐假千金",
-      "author": "棠汐",
-      "status": "连载中",
-      "category": "现言脑洞",
-      "wordCount": 50.5,
-      "isNew": true
-    },
-    {
-      "rank": 90,
-      "title": "饕餮崽崽被抛弃？全侯府追着投喂",
-      "author": "小饱耶",
-      "status": "连载中",
-      "category": "古言脑洞",
-      "wordCount": 29.7,
-      "isNew": true
-    },
-    {
-      "rank": 91,
-      "title": "穿越之我全家都是反派",
-      "author": "宋象白",
-      "status": "已完结",
-      "category": "古言脑洞",
-      "wordCount": 83.3,
-      "isNew": false
-    },
-    {
-      "rank": 92,
-      "title": "兽世：没想到吧，我把自己上交了",
-      "author": "喝碗羊杂汤",
-      "status": "连载中",
-      "category": "种田",
-      "wordCount": 40.1,
-      "isNew": false
-    },
-    {
-      "rank": 93,
-      "title": "半熟老公",
-      "author": "青山归屿",
-      "status": "已完结",
-      "category": "豪门总裁",
-      "wordCount": 34.3,
-      "isNew": false
-    },
-    {
-      "rank": 94,
-      "title": "相亲坐错桌，闪婚千亿豪门继承人",
-      "author": "麻米",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 141.1,
-      "isNew": true
-    },
-    {
-      "rank": 95,
-      "title": "不是联姻吗？裴总怎么陷入热恋了",
-      "author": "顾惊秋",
-      "status": "已完结",
-      "category": "豪门总裁",
-      "wordCount": 37.5,
-      "isNew": false
-    },
-    {
-      "rank": 96,
-      "title": "重生揣崽去部队后，被前夫亲哭了",
-      "author": "果果有点皮",
-      "status": "连载中",
-      "category": "年代",
-      "wordCount": 23.4,
-      "isNew": false
-    },
-    {
-      "rank": 97,
       "title": "穿成大佬恶毒前妻后，被全家团宠",
       "author": "牛腩焗饭",
       "status": "已完结",
@@ -2679,30 +2445,264 @@
       "isNew": false
     },
     {
-      "rank": 98,
-      "title": "月亮轻吟",
-      "author": "一只奶瓶",
+      "rank": 72,
+      "title": "掌上娇娇",
+      "author": "支云",
+      "status": "已完结",
+      "category": "古言权谋",
+      "wordCount": 90.8,
+      "isNew": false
+    },
+    {
+      "rank": 73,
+      "title": "校草出轨，我闪婚太子爷，他疯了",
+      "author": "小毛球",
       "status": "已完结",
       "category": "青春甜宠",
-      "wordCount": 38.6,
+      "wordCount": 33.6,
       "isNew": false
     },
     {
-      "rank": 99,
-      "title": "合约夫妻，到期不续",
-      "author": "东方翠花",
+      "rank": 74,
+      "title": "五零：回儿时，夺宝改命",
+      "author": "悦盛",
+      "status": "连载中",
+      "category": "年代",
+      "wordCount": 18.5,
+      "isNew": false
+    },
+    {
+      "rank": 75,
+      "title": "霍爷的小心肝，糖糖今天又变美了",
+      "author": "小熊有文化",
+      "status": "连载中",
+      "category": "年代",
+      "wordCount": 19.1,
+      "isNew": false
+    },
+    {
+      "rank": 76,
+      "title": "六零养崽，全村羡慕嫉妒疯了！",
+      "author": "炸毛的猫咪",
+      "status": "连载中",
+      "category": "年代",
+      "wordCount": 129.6,
+      "isNew": false
+    },
+    {
+      "rank": 77,
+      "title": "半熟老公",
+      "author": "青山归屿",
+      "status": "已完结",
+      "category": "豪门总裁",
+      "wordCount": 34.3,
+      "isNew": false
+    },
+    {
+      "rank": 78,
+      "title": "没招了！谁家好人在恨综磕CP啊",
+      "author": "小盐子",
+      "status": "连载中",
+      "category": "星光璀璨",
+      "wordCount": 15.4,
+      "isNew": true
+    },
+    {
+      "rank": 79,
+      "title": "女配修仙，但是无限读档",
+      "author": "月对空",
+      "status": "已完结",
+      "category": "玄幻言情",
+      "wordCount": 124.8,
+      "isNew": false
+    },
+    {
+      "rank": 80,
+      "title": "我法师加奶妈，用七把剑不过份吧",
+      "author": "暮回春",
+      "status": "连载中",
+      "category": "玄幻言情",
+      "wordCount": 218.5,
+      "isNew": false
+    },
+    {
+      "rank": 81,
+      "title": "青山似玉",
+      "author": "玛瑙员外",
+      "status": "已完结",
+      "category": "豪门总裁",
+      "wordCount": 32.6,
+      "isNew": false
+    },
+    {
+      "rank": 82,
+      "title": "穷掉渣老公竟是豪门继承人",
+      "author": "首可摘星陈",
       "status": "连载中",
       "category": "豪门总裁",
-      "wordCount": 35.6,
+      "wordCount": 189.0,
+      "isNew": true
+    },
+    {
+      "rank": 83,
+      "title": "暴烈掠夺",
+      "author": "大呀",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 24.0,
       "isNew": false
     },
     {
-      "rank": 100,
+      "rank": 84,
+      "title": "姐控的妹宝，随时被分手的他，惨",
+      "author": "琼予枝头",
+      "status": "已完结",
+      "category": "豪门总裁",
+      "wordCount": 32.8,
+      "isNew": false
+    },
+    {
+      "rank": 85,
+      "title": "疯批黑莲花：顶级财阀大小姐回归",
+      "author": "向日小葵花",
+      "status": "连载中",
+      "category": "现言脑洞",
+      "wordCount": 43.9,
+      "isNew": false
+    },
+    {
+      "rank": 86,
+      "title": "穿成凤傲天的早死病弱姐姐",
+      "author": "兔宛",
+      "status": "已完结",
+      "category": "玄幻言情",
+      "wordCount": 100.9,
+      "isNew": false
+    },
+    {
+      "rank": 87,
       "title": "六零：冷面军官被科研大佬拿捏了",
       "author": "茴茴猫",
       "status": "连载中",
       "category": "年代",
-      "wordCount": 497.1,
+      "wordCount": 498.4,
+      "isNew": false
+    },
+    {
+      "rank": 88,
+      "title": "不中了！八零禁欲新厂长是我前夫",
+      "author": "霍北山",
+      "status": "连载中",
+      "category": "年代",
+      "wordCount": 14.6,
+      "isNew": true
+    },
+    {
+      "rank": 89,
+      "title": "被渣爹抛弃后，首富爸爸宠翻天",
+      "author": "夏甜宝",
+      "status": "连载中",
+      "category": "现言脑洞",
+      "wordCount": 66.5,
+      "isNew": false
+    },
+    {
+      "rank": 90,
+      "title": "盗墓：开局引领西王母寻找长生",
+      "author": "杨戬的第三只眼",
+      "status": "连载中",
+      "category": "悬疑脑洞",
+      "wordCount": 41.6,
+      "isNew": false
+    },
+    {
+      "rank": 91,
+      "title": "我靠伪装神女攻略整个皇朝",
+      "author": "虞笑",
+      "status": "已完结",
+      "category": "古言脑洞",
+      "wordCount": 44.2,
+      "isNew": false
+    },
+    {
+      "rank": 92,
+      "title": "合约夫妻，到期不续",
+      "author": "东方翠花",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 36.2,
+      "isNew": false
+    },
+    {
+      "rank": 93,
+      "title": "偷偷生了崽，太子爷卑微求复合",
+      "author": "匠紫",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 27.9,
+      "isNew": false
+    },
+    {
+      "rank": 94,
+      "title": "分手？除非我死了",
+      "author": "哪一颗星",
+      "status": "已完结",
+      "category": "青春甜宠",
+      "wordCount": 48.0,
+      "isNew": true
+    },
+    {
+      "rank": 95,
+      "title": "穿越之我全家都是反派",
+      "author": "宋象白",
+      "status": "已完结",
+      "category": "古言脑洞",
+      "wordCount": 83.3,
+      "isNew": false
+    },
+    {
+      "rank": 96,
+      "title": "妹妹，这疯批你驾驭不了，换我来",
+      "author": "之知",
+      "status": "已完结",
+      "category": "古言脑洞",
+      "wordCount": 62.7,
+      "isNew": false
+    },
+    {
+      "rank": 97,
+      "title": "饕餮崽崽被抛弃？全侯府追着投喂",
+      "author": "小饱耶",
+      "status": "连载中",
+      "category": "古言脑洞",
+      "wordCount": 30.5,
+      "isNew": false
+    },
+    {
+      "rank": 98,
+      "title": "重生揣崽去部队后，被前夫亲哭了",
+      "author": "果果有点皮",
+      "status": "连载中",
+      "category": "年代",
+      "wordCount": 24.2,
+      "isNew": false
+    },
+    {
+      "rank": 99,
+      "title": "被迫与校草做情侣",
+      "author": "浅浅茜",
+      "status": "已完结",
+      "category": "青春甜宠",
+      "wordCount": 113.6,
+      "isNew": false
+    },
+    {
+      "rank": 100,
+      "title": "相亲坐错桌，闪婚千亿豪门继承人",
+      "author": "麻米",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 141.3,
       "isNew": false
     }
   ]
