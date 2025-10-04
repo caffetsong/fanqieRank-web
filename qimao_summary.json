@@ -1,12 +1,12 @@
 {
-  "updateTime": "2025-10-04 12:21",
+  "updateTime": "2025-10-04 12:29",
   "male": [
     {
       "rank": 1,
       "title": "盖世神医",
       "author": "狐颜乱语",
       "status": "连载中",
-      "category": "都市高武",
+      "category": "都市·都市高武",
       "wordCount": 745.5,
       "isNew": false
     },
@@ -15,7 +15,7 @@
       "title": "警报！真龙出狱！",
       "author": "红透半边天",
       "status": "连载中",
-      "category": "都市高手",
+      "category": "都市·都市高手",
       "wordCount": 195.99,
       "isNew": false
     },
@@ -24,7 +24,7 @@
       "title": "逍遥四公子",
       "author": "修果",
       "status": "连载中",
-      "category": "架空历史",
+      "category": "历史·架空历史",
       "wordCount": 397.08,
       "isNew": false
     },
@@ -33,7 +33,7 @@
       "title": "权力之巅",
       "author": "争渡",
       "status": "连载中",
-      "category": "官场",
+      "category": "都市·官场",
       "wordCount": 299.84,
       "isNew": false
     },
@@ -42,7 +42,7 @@
       "title": "掌天图",
       "author": "四眼秀才",
       "status": "连载中",
-      "category": "东方玄幻",
+      "category": "玄幻奇幻·东方玄幻",
       "wordCount": 130.77,
       "isNew": false
     },
@@ -51,7 +51,7 @@
       "title": "男人野性",
       "author": "月下冰河",
       "status": "连载中",
-      "category": "商战职场",
+      "category": "都市·商战职场",
       "wordCount": 53.59,
       "isNew": false
     },
@@ -60,7 +60,7 @@
       "title": "掌门怀孕，关我一个杂役什么事",
       "author": "雨夜终曲",
       "status": "连载中",
-      "category": "东方玄幻",
+      "category": "玄幻奇幻·东方玄幻",
       "wordCount": 65.63,
       "isNew": false
     },
@@ -69,7 +69,7 @@
       "title": "葬神棺",
       "author": "浮生一诺",
       "status": "连载中",
-      "category": "东方玄幻",
+      "category": "玄幻奇幻·东方玄幻",
       "wordCount": 518.09,
       "isNew": false
     },
@@ -78,7 +78,7 @@
       "title": "无敌六皇子",
       "author": "梁山老鬼",
       "status": "已完结",
-      "category": "架空历史",
+      "category": "历史·架空历史",
       "wordCount": 350.25,
       "isNew": false
     },
@@ -87,7 +87,7 @@
       "title": "边军悍卒",
       "author": "木有金箍",
       "status": "连载中",
-      "category": "架空历史",
+      "category": "历史·架空历史",
       "wordCount": 208.17,
       "isNew": false
     }
