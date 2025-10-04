@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-04 17:17",
+  "updateTime": "2025-10-04 17:20",
   "rankData": [
     {
       "rank": 1,
@@ -8,7 +8,7 @@
       "status": "连载中",
       "category": "都市·都市高武",
       "wordCount": 745.5,
-      "isNew": true
+      "isNew": false
     },
     {
       "rank": 2,
@@ -17,7 +17,7 @@
       "status": "连载中",
       "category": "都市·都市高手",
       "wordCount": 195.99,
-      "isNew": true
+      "isNew": false
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "status": "连载中",
       "category": "历史·架空历史",
       "wordCount": 397.08,
-      "isNew": true
+      "isNew": false
     },
     {
       "rank": 4,
@@ -35,7 +35,7 @@
       "status": "连载中",
       "category": "都市·官场",
       "wordCount": 299.84,
-      "isNew": true
+      "isNew": false
     },
     {
       "rank": 5,
@@ -44,7 +44,7 @@
       "status": "连载中",
       "category": "玄幻奇幻·东方玄幻",
       "wordCount": 130.77,
-      "isNew": true
+      "isNew": false
     },
     {
       "rank": 6,
@@ -53,7 +53,7 @@
       "status": "连载中",
       "category": "都市·商战职场",
       "wordCount": 53.59,
-      "isNew": true
+      "isNew": false
     },
     {
       "rank": 7,
@@ -62,7 +62,7 @@
       "status": "连载中",
       "category": "玄幻奇幻·东方玄幻",
       "wordCount": 66.24,
-      "isNew": true
+      "isNew": false
     },
     {
       "rank": 8,
@@ -71,7 +71,7 @@
       "status": "连载中",
       "category": "玄幻奇幻·东方玄幻",
       "wordCount": 518.09,
-      "isNew": true
+      "isNew": false
     },
     {
       "rank": 9,
@@ -80,7 +80,7 @@
       "status": "已完结",
       "category": "历史·架空历史",
       "wordCount": 350.25,
-      "isNew": true
+      "isNew": false
     },
     {
       "rank": 10,
@@ -89,7 +89,7 @@
       "status": "连载中",
       "category": "历史·架空历史",
       "wordCount": 208.17,
-      "isNew": true
+      "isNew": false
     }
   ]
 }
