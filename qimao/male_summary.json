@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-08 18:37",
+  "updateTime": "2025-10-04 17:20",
   "rankData": [
     {
       "rank": 1,
@@ -7,25 +7,25 @@
       "author": "狐颜乱语",
       "status": "连载中",
       "category": "都市·都市高武",
-      "wordCount": 747.96,
+      "wordCount": 745.5,
       "isNew": false
     },
     {
       "rank": 2,
-      "title": "逍遥四公子",
-      "author": "修果",
-      "status": "连载中",
-      "category": "历史·架空历史",
-      "wordCount": 399.58,
-      "isNew": false
-    },
-    {
-      "rank": 3,
       "title": "警报！真龙出狱！",
       "author": "红透半边天",
       "status": "连载中",
       "category": "都市·都市高手",
-      "wordCount": 197.74,
+      "wordCount": 195.99,
+      "isNew": false
+    },
+    {
+      "rank": 3,
+      "title": "逍遥四公子",
+      "author": "修果",
+      "status": "连载中",
+      "category": "历史·架空历史",
+      "wordCount": 397.08,
       "isNew": false
     },
     {
@@ -34,34 +34,34 @@
       "author": "争渡",
       "status": "连载中",
       "category": "都市·官场",
-      "wordCount": 302.46,
+      "wordCount": 299.84,
       "isNew": false
     },
     {
       "rank": 5,
-      "title": "男人野性",
-      "author": "月下冰河",
-      "status": "连载中",
-      "category": "都市·商战职场",
-      "wordCount": 55.75,
-      "isNew": false
-    },
-    {
-      "rank": 6,
       "title": "掌天图",
       "author": "四眼秀才",
       "status": "连载中",
       "category": "玄幻奇幻·东方玄幻",
-      "wordCount": 134.21,
+      "wordCount": 130.77,
+      "isNew": false
+    },
+    {
+      "rank": 6,
+      "title": "男人野性",
+      "author": "月下冰河",
+      "status": "连载中",
+      "category": "都市·商战职场",
+      "wordCount": 53.59,
       "isNew": false
     },
     {
       "rank": 7,
-      "title": "边关兵王",
-      "author": "青岳",
+      "title": "掌门怀孕，关我一个杂役什么事",
+      "author": "雨夜终曲",
       "status": "连载中",
-      "category": "历史·架空历史",
-      "wordCount": 82.72,
+      "category": "玄幻奇幻·东方玄幻",
+      "wordCount": 66.24,
       "isNew": false
     },
     {
@@ -70,25 +70,25 @@
       "author": "浮生一诺",
       "status": "连载中",
       "category": "玄幻奇幻·东方玄幻",
-      "wordCount": 520.92,
+      "wordCount": 518.09,
       "isNew": false
     },
     {
       "rank": 9,
-      "title": "掌门怀孕，关我一个杂役什么事",
-      "author": "雨夜终曲",
-      "status": "连载中",
-      "category": "玄幻奇幻·东方玄幻",
-      "wordCount": 68.69,
-      "isNew": false
-    },
-    {
-      "rank": 10,
       "title": "无敌六皇子",
       "author": "梁山老鬼",
       "status": "已完结",
       "category": "历史·架空历史",
       "wordCount": 350.25,
+      "isNew": false
+    },
+    {
+      "rank": 10,
+      "title": "边军悍卒",
+      "author": "木有金箍",
+      "status": "连载中",
+      "category": "历史·架空历史",
+      "wordCount": 208.17,
       "isNew": false
     }
   ]

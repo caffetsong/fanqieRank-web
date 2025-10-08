@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-08 18:37",
+  "updateTime": "2025-10-04 21:35",
   "rankData": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "猫不秃",
       "status": "连载中",
       "category": "游戏体育",
-      "wordCount": 233.6,
+      "wordCount": 231.8,
       "isNew": false
     },
     {
@@ -30,15 +30,6 @@
     },
     {
       "rank": 4,
-      "title": "新婚慢熟",
-      "author": "芥婕",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 17.0,
-      "isNew": false
-    },
-    {
-      "rank": 5,
       "title": "深情诱引",
       "author": "鸟松米",
       "status": "已完结",
@@ -47,39 +38,48 @@
       "isNew": false
     },
     {
+      "rank": 5,
+      "title": "新婚慢熟",
+      "author": "芥婕",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 15.4,
+      "isNew": false
+    },
+    {
       "rank": 6,
       "title": "闺蜜说大哥凶，可他夜里喊我宝宝",
       "author": "鎏旗",
-      "status": "已完结",
+      "status": "连载中",
       "category": "豪门总裁",
-      "wordCount": 44.9,
+      "wordCount": 44.1,
       "isNew": false
     },
     {
       "rank": 7,
-      "title": "揣双胎带灵泉，资本家小姐去随军",
-      "author": "范氏女子",
-      "status": "连载中",
-      "category": "年代",
-      "wordCount": 53.7,
-      "isNew": false
-    },
-    {
-      "rank": 8,
       "title": "现代女散修的元神漫游记",
       "author": "梵一善",
       "status": "连载中",
       "category": "现言脑洞",
-      "wordCount": 39.5,
+      "wordCount": 36.1,
+      "isNew": false
+    },
+    {
+      "rank": 8,
+      "title": "揣双胎带灵泉，资本家小姐去随军",
+      "author": "范氏女子",
+      "status": "连载中",
+      "category": "年代",
+      "wordCount": 51.3,
       "isNew": false
     },
     {
       "rank": 9,
-      "title": "不求真心求苟活，奈何帝王偏爱我",
-      "author": "楼台烟雨中",
-      "status": "连载中",
-      "category": "宫斗宅斗",
-      "wordCount": 41.5,
+      "title": "穿书后意外攻略了苗疆少年",
+      "author": "奔跑的桃子",
+      "status": "已完结",
+      "category": "古言脑洞",
+      "wordCount": 48.5,
       "isNew": false
     },
     {
@@ -88,7 +88,7 @@
       "author": "张泡泡",
       "status": "连载中",
       "category": "游戏体育",
-      "wordCount": 126.3,
+      "wordCount": 125.1,
       "isNew": false
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-08 18:37",
+  "updateTime": "2025-10-04 21:35",
   "rankData": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "三九音域",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 327.1,
+      "wordCount": 325.8,
       "isNew": false
     },
     {
@@ -34,47 +34,20 @@
       "author": "紫灵风雪",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 529.4,
+      "wordCount": 528.1,
       "isNew": false
     },
     {
       "rank": 5,
-      "title": "时停起手，邪神也得给我跪下！",
-      "author": "六个葫芦",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 84.2,
-      "isNew": false
-    },
-    {
-      "rank": 6,
       "title": "天渊",
       "author": "沐潇三生",
       "status": "连载中",
       "category": "传统玄幻",
-      "wordCount": 466.1,
+      "wordCount": 464.9,
       "isNew": false
     },
     {
-      "rank": 7,
-      "title": "诸神愚戏",
-      "author": "一月九十秋",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 313.9,
-      "isNew": false
-    },
-    {
-      "rank": 8,
-      "title": "我国补克星，你问我光刻机能修吗",
-      "author": "核动力打窝仙人",
-      "status": "连载中",
-      "category": "都市脑洞",
-      "wordCount": 46.4,
-      "isNew": false
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "皇家金牌县令",
       "author": "板面王仔",
       "status": "已完结",
@@ -83,12 +56,39 @@
       "isNew": false
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "title": "诸神愚戏",
+      "author": "一月九十秋",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 311.9,
+      "isNew": false
+    },
+    {
+      "rank": 8,
+      "title": "时停起手，邪神也得给我跪下！",
+      "author": "六个葫芦",
+      "status": "连载中",
+      "category": "都市高武",
+      "wordCount": 82.3,
+      "isNew": false
+    },
+    {
+      "rank": 9,
       "title": "系统赋我长生，我熬死了所有人",
       "author": "一只榴莲3号",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 387.0,
+      "wordCount": 385.8,
+      "isNew": false
+    },
+    {
+      "rank": 10,
+      "title": "我国补克星，你问我光刻机能修吗",
+      "author": "核动力打窝仙人",
+      "status": "连载中",
+      "category": "都市脑洞",
+      "wordCount": 45.0,
       "isNew": false
     }
   ]

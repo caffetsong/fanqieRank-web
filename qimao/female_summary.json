@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-08 18:37",
+  "updateTime": "2025-10-04 17:20",
   "rankData": [
     {
       "rank": 1,
@@ -7,8 +7,8 @@
       "author": "云中觅",
       "status": "连载中",
       "category": "现代言情·总裁豪门",
-      "wordCount": 61.87,
-      "isNew": false
+      "wordCount": 61.46,
+      "isNew": true
     },
     {
       "rank": 2,
@@ -16,8 +16,8 @@
       "author": "安卿心",
       "status": "连载中",
       "category": "古代言情·宫闱宅斗",
-      "wordCount": 325.05,
-      "isNew": false
+      "wordCount": 322.61,
+      "isNew": true
     },
     {
       "rank": 3,
@@ -25,8 +25,8 @@
       "author": "明婳",
       "status": "连载中",
       "category": "现代言情·总裁豪门",
-      "wordCount": 705.54,
-      "isNew": false
+      "wordCount": 702.92,
+      "isNew": true
     },
     {
       "rank": 4,
@@ -34,8 +34,8 @@
       "author": "乐恩",
       "status": "连载中",
       "category": "现代言情·总裁豪门",
-      "wordCount": 52.76,
-      "isNew": false
+      "wordCount": 52.17,
+      "isNew": true
     },
     {
       "rank": 5,
@@ -44,7 +44,7 @@
       "status": "已完结",
       "category": "现代言情·总裁豪门",
       "wordCount": 273.45,
-      "isNew": false
+      "isNew": true
     },
     {
       "rank": 6,
@@ -52,8 +52,8 @@
       "author": "莫小弃",
       "status": "连载中",
       "category": "古代言情·古代情缘",
-      "wordCount": 189.06,
-      "isNew": false
+      "wordCount": 187.43,
+      "isNew": true
     },
     {
       "rank": 7,
@@ -61,8 +61,8 @@
       "author": "我吃饱饱",
       "status": "连载中",
       "category": "古代言情·宫闱宅斗",
-      "wordCount": 131.08,
-      "isNew": false
+      "wordCount": 128.52,
+      "isNew": true
     },
     {
       "rank": 8,
@@ -70,8 +70,8 @@
       "author": "蓝九九",
       "status": "连载中",
       "category": "古代言情·宫闱宅斗",
-      "wordCount": 278.5,
-      "isNew": false
+      "wordCount": 276.07,
+      "isNew": true
     },
     {
       "rank": 9,
@@ -79,8 +79,8 @@
       "author": "卢平凡",
       "status": "连载中",
       "category": "现代言情·总裁豪门",
-      "wordCount": 73.17,
-      "isNew": false
+      "wordCount": 71.45,
+      "isNew": true
     },
     {
       "rank": 10,
@@ -88,8 +88,8 @@
       "author": "清砚",
       "status": "连载中",
       "category": "古代言情·宫闱宅斗",
-      "wordCount": 43.34,
-      "isNew": false
+      "wordCount": 41.56,
+      "isNew": true
     }
   ]
 }
