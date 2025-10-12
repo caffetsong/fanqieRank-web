@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-10 19:53",
+  "updateTime": "2025-10-12 19:53",
   "rankData": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "猫不秃",
       "status": "连载中",
       "category": "游戏体育",
-      "wordCount": 234.4,
+      "wordCount": 235.3,
       "isNew": false
     },
     {
@@ -21,20 +21,20 @@
     },
     {
       "rank": 3,
+      "title": "新婚慢熟",
+      "author": "芥婕",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 18.6,
+      "isNew": false
+    },
+    {
+      "rank": 4,
       "title": "癫，都癫，癫点好啊",
       "author": "小盐子",
       "status": "已完结",
       "category": "星光璀璨",
       "wordCount": 129.7,
-      "isNew": false
-    },
-    {
-      "rank": 4,
-      "title": "新婚慢熟",
-      "author": "芥婕",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 17.8,
       "isNew": false
     },
     {
@@ -48,6 +48,15 @@
     },
     {
       "rank": 6,
+      "title": "现代女散修的元神漫游记",
+      "author": "梵一善",
+      "status": "连载中",
+      "category": "现言脑洞",
+      "wordCount": 46.8,
+      "isNew": false
+    },
+    {
+      "rank": 7,
       "title": "深情诱引",
       "author": "鸟松米",
       "status": "已完结",
@@ -56,21 +65,12 @@
       "isNew": false
     },
     {
-      "rank": 7,
-      "title": "现代女散修的元神漫游记",
-      "author": "梵一善",
-      "status": "连载中",
-      "category": "现言脑洞",
-      "wordCount": 43.0,
-      "isNew": false
-    },
-    {
       "rank": 8,
       "title": "揣双胎带灵泉，资本家小姐去随军",
       "author": "范氏女子",
       "status": "连载中",
       "category": "年代",
-      "wordCount": 54.9,
+      "wordCount": 56.2,
       "isNew": false
     },
     {
@@ -79,7 +79,7 @@
       "author": "月亮跌入梦",
       "status": "连载中",
       "category": "宫斗宅斗",
-      "wordCount": 22.6,
+      "wordCount": 23.4,
       "isNew": false
     },
     {
@@ -88,7 +88,7 @@
       "author": "杨戬的第三只眼",
       "status": "连载中",
       "category": "悬疑脑洞",
-      "wordCount": 44.9,
+      "wordCount": 45.7,
       "isNew": false
     }
   ]
