@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-12 19:53",
+  "updateTime": "2025-10-14 19:53",
   "rankData": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "狐颜乱语",
       "status": "连载中",
       "category": "都市·都市高武",
-      "wordCount": 750.41,
+      "wordCount": 751.61,
       "isNew": false
     },
     {
@@ -16,7 +16,7 @@
       "author": "修果",
       "status": "连载中",
       "category": "历史·架空历史",
-      "wordCount": 402.1,
+      "wordCount": 403.35,
       "isNew": false
     },
     {
@@ -25,25 +25,25 @@
       "author": "红透半边天",
       "status": "连载中",
       "category": "都市·都市高手",
-      "wordCount": 199.12,
+      "wordCount": 199.87,
       "isNew": false
     },
     {
       "rank": 4,
-      "title": "权力之巅",
-      "author": "争渡",
+      "title": "掌天图",
+      "author": "四眼秀才",
       "status": "连载中",
-      "category": "都市·官场",
-      "wordCount": 304.68,
+      "category": "玄幻奇幻·东方玄幻",
+      "wordCount": 139.34,
       "isNew": false
     },
     {
       "rank": 5,
-      "title": "SSSSSSSSSSSSSS满级神医",
-      "author": "星空野狼",
+      "title": "权力之巅",
+      "author": "争渡",
       "status": "连载中",
-      "category": "都市·都市高手",
-      "wordCount": 54.63,
+      "category": "都市·官场",
+      "wordCount": 305.89,
       "isNew": false
     },
     {
@@ -52,7 +52,7 @@
       "author": "月下冰河",
       "status": "连载中",
       "category": "都市·商战职场",
-      "wordCount": 57.5,
+      "wordCount": 57.93,
       "isNew": false
     },
     {
@@ -61,34 +61,34 @@
       "author": "青岳",
       "status": "连载中",
       "category": "历史·架空历史",
-      "wordCount": 85.2,
+      "wordCount": 86.45,
       "isNew": false
     },
     {
       "rank": 8,
-      "title": "葬神棺",
-      "author": "浮生一诺",
+      "title": "SSSSSSSSSSSSSS满级神医",
+      "author": "星空野狼",
       "status": "连载中",
-      "category": "玄幻奇幻·东方玄幻",
-      "wordCount": 523.08,
+      "category": "都市·都市高手",
+      "wordCount": 55.33,
       "isNew": false
     },
     {
       "rank": 9,
+      "title": "葬神棺",
+      "author": "浮生一诺",
+      "status": "连载中",
+      "category": "玄幻奇幻·东方玄幻",
+      "wordCount": 524.72,
+      "isNew": false
+    },
+    {
+      "rank": 10,
       "title": "无敌六皇子",
       "author": "梁山老鬼",
       "status": "已完结",
       "category": "历史·架空历史",
       "wordCount": 350.25,
-      "isNew": false
-    },
-    {
-      "rank": 10,
-      "title": "掌天图",
-      "author": "四眼秀才",
-      "status": "连载中",
-      "category": "玄幻奇幻·东方玄幻",
-      "wordCount": 137.66,
       "isNew": false
     }
   ]

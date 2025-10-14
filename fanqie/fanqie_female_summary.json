@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-12 19:53",
+  "updateTime": "2025-10-14 19:53",
   "rankData": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "猫不秃",
       "status": "连载中",
       "category": "游戏体育",
-      "wordCount": 235.3,
+      "wordCount": 236.1,
       "isNew": false
     },
     {
@@ -21,15 +21,6 @@
     },
     {
       "rank": 3,
-      "title": "新婚慢熟",
-      "author": "芥婕",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 18.6,
-      "isNew": false
-    },
-    {
-      "rank": 4,
       "title": "癫，都癫，癫点好啊",
       "author": "小盐子",
       "status": "已完结",
@@ -38,7 +29,7 @@
       "isNew": false
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "闺蜜说大哥凶，可他夜里喊我宝宝",
       "author": "鎏旗",
       "status": "已完结",
@@ -47,12 +38,21 @@
       "isNew": false
     },
     {
+      "rank": 5,
+      "title": "新婚慢熟",
+      "author": "芥婕",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 19.4,
+      "isNew": false
+    },
+    {
       "rank": 6,
       "title": "现代女散修的元神漫游记",
       "author": "梵一善",
       "status": "连载中",
       "category": "现言脑洞",
-      "wordCount": 46.8,
+      "wordCount": 52.8,
       "isNew": false
     },
     {
@@ -66,29 +66,29 @@
     },
     {
       "rank": 8,
-      "title": "揣双胎带灵泉，资本家小姐去随军",
-      "author": "范氏女子",
-      "status": "连载中",
-      "category": "年代",
-      "wordCount": 56.2,
-      "isNew": false
-    },
-    {
-      "rank": 9,
       "title": "反派幼崽三岁半，爹不造反我来干",
       "author": "月亮跌入梦",
       "status": "连载中",
       "category": "宫斗宅斗",
-      "wordCount": 23.4,
+      "wordCount": 24.3,
+      "isNew": false
+    },
+    {
+      "rank": 9,
+      "title": "穿书后意外攻略了苗疆少年",
+      "author": "奔跑的桃子",
+      "status": "已完结",
+      "category": "古言脑洞",
+      "wordCount": 48.5,
       "isNew": false
     },
     {
       "rank": 10,
-      "title": "盗墓：开局引领西王母寻找长生",
-      "author": "杨戬的第三只眼",
+      "title": "恶毒女配守活寡？夫兄，人家好怕",
+      "author": "叶不鸿",
       "status": "连载中",
-      "category": "悬疑脑洞",
-      "wordCount": 45.7,
+      "category": "宫斗宅斗",
+      "wordCount": 54.4,
       "isNew": false
     }
   ]
