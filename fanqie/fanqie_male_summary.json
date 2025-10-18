@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-16 19:53",
+  "updateTime": "2025-10-18 19:53",
   "rankData": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "三九音域",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 330.8,
+      "wordCount": 331.6,
       "isNew": false
     },
     {
@@ -34,7 +34,7 @@
       "author": "六个葫芦",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 89.2,
+      "wordCount": 90.1,
       "isNew": false
     },
     {
@@ -43,7 +43,7 @@
       "author": "紫灵风雪",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 532.4,
+      "wordCount": 533.2,
       "isNew": false
     },
     {
@@ -52,7 +52,7 @@
       "author": "一月九十秋",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 317.8,
+      "wordCount": 318.8,
       "isNew": false
     },
     {
@@ -61,34 +61,34 @@
       "author": "沐潇三生",
       "status": "连载中",
       "category": "传统玄幻",
-      "wordCount": 469.3,
+      "wordCount": 470.1,
       "isNew": false
     },
     {
       "rank": 8,
-      "title": "系统赋我长生，我熬死了所有人",
-      "author": "一只榴莲3号",
-      "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 390.7,
-      "isNew": false
-    },
-    {
-      "rank": 9,
-      "title": "我以狐仙镇百鬼",
-      "author": "紫梦游龙",
-      "status": "连载中",
-      "category": "悬疑灵异",
-      "wordCount": 787.7,
-      "isNew": false
-    },
-    {
-      "rank": 10,
       "title": "斩仙台上何人？灵台方寸关门弟子",
       "author": "小蟑螂七岁了",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 52.9,
+      "wordCount": 53.8,
+      "isNew": false
+    },
+    {
+      "rank": 9,
+      "title": "系统赋我长生，我熬死了所有人",
+      "author": "一只榴莲3号",
+      "status": "连载中",
+      "category": "玄幻脑洞",
+      "wordCount": 391.3,
+      "isNew": false
+    },
+    {
+      "rank": 10,
+      "title": "我以狐仙镇百鬼",
+      "author": "紫梦游龙",
+      "status": "连载中",
+      "category": "悬疑灵异",
+      "wordCount": 788.9,
       "isNew": false
     }
   ]
