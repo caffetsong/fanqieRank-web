@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-22 19:53",
+  "updateTime": "2025-10-24 19:53",
   "rankData": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "狐颜乱语",
       "status": "连载中",
       "category": "都市·都市高武",
-      "wordCount": 756.5,
+      "wordCount": 757.72,
       "isNew": false
     },
     {
@@ -16,7 +16,7 @@
       "author": "修果",
       "status": "连载中",
       "category": "历史·架空历史",
-      "wordCount": 408.35,
+      "wordCount": 409.6,
       "isNew": false
     },
     {
@@ -25,70 +25,70 @@
       "author": "红透半边天",
       "status": "连载中",
       "category": "都市·都市高手",
-      "wordCount": 203.45,
+      "wordCount": 204.08,
       "isNew": false
     },
     {
       "rank": 4,
-      "title": "权力之巅",
-      "author": "争渡",
-      "status": "连载中",
-      "category": "都市·官场",
-      "wordCount": 310.75,
-      "isNew": false
-    },
-    {
-      "rank": 5,
       "title": "男人野性",
       "author": "月下冰河",
       "status": "连载中",
       "category": "都市·商战职场",
-      "wordCount": 61.97,
+      "wordCount": 62.87,
       "isNew": false
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "步步登阶",
       "author": "江湖如梦",
       "status": "连载中",
       "category": "都市·都市生活",
-      "wordCount": 109.96,
+      "wordCount": 111.19,
       "isNew": false
     },
     {
-      "rank": 7,
-      "title": "边关兵王",
-      "author": "青岳",
-      "status": "连载中",
-      "category": "历史·架空历史",
-      "wordCount": 93.9,
-      "isNew": false
-    },
-    {
-      "rank": 8,
-      "title": "SSSSSSSSSSSSSS满级神医",
-      "author": "星空野狼",
-      "status": "连载中",
-      "category": "都市·都市高手",
-      "wordCount": 60.62,
-      "isNew": false
-    },
-    {
-      "rank": 9,
-      "title": "掌天图",
-      "author": "四眼秀才",
-      "status": "连载中",
-      "category": "玄幻奇幻·东方玄幻",
-      "wordCount": 146.22,
-      "isNew": false
-    },
-    {
-      "rank": 10,
+      "rank": 6,
       "title": "葬神棺",
       "author": "浮生一诺",
       "status": "连载中",
       "category": "玄幻奇幻·东方玄幻",
-      "wordCount": 530.43,
+      "wordCount": 531.92,
+      "isNew": false
+    },
+    {
+      "rank": 7,
+      "title": "SSSSSSSSSSSSSS满级神医",
+      "author": "星空野狼",
+      "status": "连载中",
+      "category": "都市·都市高手",
+      "wordCount": 62.7,
+      "isNew": false
+    },
+    {
+      "rank": 8,
+      "title": "边关兵王",
+      "author": "青岳",
+      "status": "连载中",
+      "category": "历史·架空历史",
+      "wordCount": 94.31,
+      "isNew": false
+    },
+    {
+      "rank": 9,
+      "title": "无敌六皇子",
+      "author": "梁山老鬼",
+      "status": "已完结",
+      "category": "历史·架空历史",
+      "wordCount": 350.25,
+      "isNew": false
+    },
+    {
+      "rank": 10,
+      "title": "掌天图",
+      "author": "四眼秀才",
+      "status": "连载中",
+      "category": "玄幻奇幻·东方玄幻",
+      "wordCount": 147.92,
       "isNew": false
     }
   ]

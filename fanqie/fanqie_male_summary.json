@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-22 19:53",
+  "updateTime": "2025-10-24 19:53",
   "rankData": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "三九音域",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 332.8,
+      "wordCount": 333.2,
       "isNew": false
     },
     {
@@ -34,7 +34,7 @@
       "author": "紫灵风雪",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 534.9,
+      "wordCount": 535.7,
       "isNew": false
     },
     {
@@ -43,7 +43,7 @@
       "author": "一月九十秋",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 320.7,
+      "wordCount": 321.7,
       "isNew": false
     },
     {
@@ -52,20 +52,11 @@
       "author": "六个葫芦",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 91.7,
+      "wordCount": 92.6,
       "isNew": false
     },
     {
       "rank": 7,
-      "title": "斩仙台上何人？灵台方寸关门弟子",
-      "author": "小蟑螂七岁了",
-      "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 55.7,
-      "isNew": false
-    },
-    {
-      "rank": 8,
       "title": "天眼风水师",
       "author": "道之光",
       "status": "已完结",
@@ -74,12 +65,21 @@
       "isNew": false
     },
     {
+      "rank": 8,
+      "title": "斩仙台上何人？灵台方寸关门弟子",
+      "author": "小蟑螂七岁了",
+      "status": "连载中",
+      "category": "玄幻脑洞",
+      "wordCount": 56.6,
+      "isNew": false
+    },
+    {
       "rank": 9,
       "title": "天渊",
       "author": "沐潇三生",
       "status": "连载中",
       "category": "传统玄幻",
-      "wordCount": 471.7,
+      "wordCount": 473.0,
       "isNew": false
     },
     {
@@ -88,7 +88,7 @@
       "author": "一只榴莲3号",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 393.0,
+      "wordCount": 394.2,
       "isNew": false
     }
   ]
