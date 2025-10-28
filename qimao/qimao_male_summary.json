@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-26 19:53",
+  "updateTime": "2025-10-28 19:53",
   "rankData": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "狐颜乱语",
       "status": "连载中",
       "category": "都市·都市高武",
-      "wordCount": 758.94,
+      "wordCount": 760.16,
       "isNew": false
     },
     {
@@ -16,7 +16,7 @@
       "author": "修果",
       "status": "连载中",
       "category": "历史·架空历史",
-      "wordCount": 410.87,
+      "wordCount": 412.11,
       "isNew": false
     },
     {
@@ -25,7 +25,7 @@
       "author": "红透半边天",
       "status": "连载中",
       "category": "都市·都市高手",
-      "wordCount": 204.95,
+      "wordCount": 205.63,
       "isNew": false
     },
     {
@@ -34,7 +34,7 @@
       "author": "月下冰河",
       "status": "连载中",
       "category": "都市·商战职场",
-      "wordCount": 63.74,
+      "wordCount": 64.2,
       "isNew": false
     },
     {
@@ -43,7 +43,7 @@
       "author": "江湖如梦",
       "status": "连载中",
       "category": "都市·都市生活",
-      "wordCount": 112.43,
+      "wordCount": 113.24,
       "isNew": false
     },
     {
@@ -52,7 +52,7 @@
       "author": "浮生一诺",
       "status": "连载中",
       "category": "玄幻奇幻·东方玄幻",
-      "wordCount": 533.73,
+      "wordCount": 535.22,
       "isNew": false
     },
     {
@@ -61,20 +61,11 @@
       "author": "星空野狼",
       "status": "连载中",
       "category": "都市·都市高手",
-      "wordCount": 64.06,
+      "wordCount": 64.74,
       "isNew": false
     },
     {
       "rank": 8,
-      "title": "边关兵王",
-      "author": "青岳",
-      "status": "连载中",
-      "category": "历史·架空历史",
-      "wordCount": 95.54,
-      "isNew": false
-    },
-    {
-      "rank": 9,
       "title": "无敌六皇子",
       "author": "梁山老鬼",
       "status": "已完结",
@@ -83,12 +74,21 @@
       "isNew": false
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "桃花劫",
       "author": "推窗望岳",
       "status": "连载中",
       "category": "都市·商战职场",
-      "wordCount": 52.86,
+      "wordCount": 53.67,
+      "isNew": false
+    },
+    {
+      "rank": 10,
+      "title": "边关兵王",
+      "author": "青岳",
+      "status": "连载中",
+      "category": "历史·架空历史",
+      "wordCount": 96.15,
       "isNew": false
     }
   ]
