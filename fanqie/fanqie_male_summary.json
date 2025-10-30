@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-28 19:53",
+  "updateTime": "2025-10-30 19:54",
   "rankData": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "三九音域",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 334.9,
+      "wordCount": 335.7,
       "isNew": false
     },
     {
@@ -21,15 +21,6 @@
     },
     {
       "rank": 3,
-      "title": "我在精神病院学斩神",
-      "author": "三九音域",
-      "status": "已完结",
-      "category": "都市高武",
-      "wordCount": 426.4,
-      "isNew": false
-    },
-    {
-      "rank": 4,
       "title": "天眼风水师",
       "author": "道之光",
       "status": "已完结",
@@ -38,12 +29,21 @@
       "isNew": false
     },
     {
+      "rank": 4,
+      "title": "我在精神病院学斩神",
+      "author": "三九音域",
+      "status": "已完结",
+      "category": "都市高武",
+      "wordCount": 426.4,
+      "isNew": false
+    },
+    {
       "rank": 5,
       "title": "开局长生万古，苟到天荒地老",
       "author": "紫灵风雪",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 537.5,
+      "wordCount": 538.4,
       "isNew": false
     },
     {
@@ -52,7 +52,7 @@
       "author": "一月九十秋",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 323.7,
+      "wordCount": 324.8,
       "isNew": false
     },
     {
@@ -61,7 +61,7 @@
       "author": "六个葫芦",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 94.3,
+      "wordCount": 95.1,
       "isNew": false
     },
     {
@@ -70,7 +70,7 @@
       "author": "一只榴莲3号",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 395.4,
+      "wordCount": 396.5,
       "isNew": false
     },
     {
@@ -84,11 +84,11 @@
     },
     {
       "rank": 10,
-      "title": "寒门屠户之子的科举日常",
-      "author": "Diki粑粑",
-      "status": "连载中",
-      "category": "历史古代",
-      "wordCount": 57.5,
+      "title": "开局地摊卖大力",
+      "author": "弈青锋",
+      "status": "已完结",
+      "category": "都市高武",
+      "wordCount": 884.9,
       "isNew": false
     }
   ]

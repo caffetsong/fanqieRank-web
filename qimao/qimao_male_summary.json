@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-28 19:53",
+  "updateTime": "2025-10-30 19:54",
   "rankData": [
     {
       "rank": 1,
@@ -7,43 +7,43 @@
       "author": "狐颜乱语",
       "status": "连载中",
       "category": "都市·都市高武",
-      "wordCount": 760.16,
+      "wordCount": 761.39,
       "isNew": false
     },
     {
       "rank": 2,
-      "title": "逍遥四公子",
-      "author": "修果",
-      "status": "连载中",
-      "category": "历史·架空历史",
-      "wordCount": 412.11,
-      "isNew": false
-    },
-    {
-      "rank": 3,
       "title": "警报！真龙出狱！",
       "author": "红透半边天",
       "status": "连载中",
       "category": "都市·都市高手",
-      "wordCount": 205.63,
+      "wordCount": 206.19,
+      "isNew": false
+    },
+    {
+      "rank": 3,
+      "title": "逍遥四公子",
+      "author": "修果",
+      "status": "连载中",
+      "category": "历史·架空历史",
+      "wordCount": 413.36,
       "isNew": false
     },
     {
       "rank": 4,
-      "title": "男人野性",
-      "author": "月下冰河",
-      "status": "连载中",
-      "category": "都市·商战职场",
-      "wordCount": 64.2,
-      "isNew": false
-    },
-    {
-      "rank": 5,
       "title": "步步登阶",
       "author": "江湖如梦",
       "status": "连载中",
       "category": "都市·都市生活",
-      "wordCount": 113.24,
+      "wordCount": 114.09,
+      "isNew": false
+    },
+    {
+      "rank": 5,
+      "title": "男人野性",
+      "author": "月下冰河",
+      "status": "连载中",
+      "category": "都市·商战职场",
+      "wordCount": 65.1,
       "isNew": false
     },
     {
@@ -52,7 +52,7 @@
       "author": "浮生一诺",
       "status": "连载中",
       "category": "玄幻奇幻·东方玄幻",
-      "wordCount": 535.22,
+      "wordCount": 536.27,
       "isNew": false
     },
     {
@@ -61,7 +61,7 @@
       "author": "星空野狼",
       "status": "连载中",
       "category": "都市·都市高手",
-      "wordCount": 64.74,
+      "wordCount": 66.07,
       "isNew": false
     },
     {
@@ -79,16 +79,16 @@
       "author": "推窗望岳",
       "status": "连载中",
       "category": "都市·商战职场",
-      "wordCount": 53.67,
+      "wordCount": 54.47,
       "isNew": false
     },
     {
       "rank": 10,
-      "title": "边关兵王",
-      "author": "青岳",
+      "title": "权力医途",
+      "author": "端午",
       "status": "连载中",
-      "category": "历史·架空历史",
-      "wordCount": 96.15,
+      "category": "都市·官场",
+      "wordCount": 105.5,
       "isNew": false
     }
   ]
