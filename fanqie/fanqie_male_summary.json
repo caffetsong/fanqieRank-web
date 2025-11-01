@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-30 19:54",
+  "updateTime": "2025-11-01 19:54",
   "rankData": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "三九音域",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 335.7,
+      "wordCount": 336.1,
       "isNew": false
     },
     {
@@ -16,7 +16,7 @@
       "author": "杀虫队队员",
       "status": "已完结",
       "category": "悬疑脑洞",
-      "wordCount": 296.4,
+      "wordCount": 320.1,
       "isNew": false
     },
     {
@@ -43,7 +43,7 @@
       "author": "紫灵风雪",
       "status": "连载中",
       "category": "玄幻脑洞",
-      "wordCount": 538.4,
+      "wordCount": 539.2,
       "isNew": false
     },
     {
@@ -52,7 +52,7 @@
       "author": "一月九十秋",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 324.8,
+      "wordCount": 325.8,
       "isNew": false
     },
     {
@@ -61,20 +61,11 @@
       "author": "六个葫芦",
       "status": "连载中",
       "category": "都市高武",
-      "wordCount": 95.1,
+      "wordCount": 96.0,
       "isNew": false
     },
     {
       "rank": 8,
-      "title": "系统赋我长生，我熬死了所有人",
-      "author": "一只榴莲3号",
-      "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 396.5,
-      "isNew": false
-    },
-    {
-      "rank": 9,
       "title": "皇家金牌县令",
       "author": "板面王仔",
       "status": "已完结",
@@ -83,12 +74,21 @@
       "isNew": false
     },
     {
+      "rank": 9,
+      "title": "系统赋我长生，我熬死了所有人",
+      "author": "一只榴莲3号",
+      "status": "连载中",
+      "category": "玄幻脑洞",
+      "wordCount": 397.3,
+      "isNew": false
+    },
+    {
       "rank": 10,
-      "title": "开局地摊卖大力",
-      "author": "弈青锋",
+      "title": "起底观心术",
+      "author": "鲍尔日",
       "status": "已完结",
-      "category": "都市高武",
-      "wordCount": 884.9,
+      "category": "都市日常",
+      "wordCount": 158.6,
       "isNew": false
     }
   ]

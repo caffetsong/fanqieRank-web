@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-30 19:54",
+  "updateTime": "2025-11-01 19:54",
   "rankData": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "狐颜乱语",
       "status": "连载中",
       "category": "都市·都市高武",
-      "wordCount": 761.39,
+      "wordCount": 762.62,
       "isNew": false
     },
     {
@@ -16,7 +16,7 @@
       "author": "红透半边天",
       "status": "连载中",
       "category": "都市·都市高手",
-      "wordCount": 206.19,
+      "wordCount": 207.11,
       "isNew": false
     },
     {
@@ -25,7 +25,7 @@
       "author": "修果",
       "status": "连载中",
       "category": "历史·架空历史",
-      "wordCount": 413.36,
+      "wordCount": 414.64,
       "isNew": false
     },
     {
@@ -34,7 +34,7 @@
       "author": "江湖如梦",
       "status": "连载中",
       "category": "都市·都市生活",
-      "wordCount": 114.09,
+      "wordCount": 115.15,
       "isNew": false
     },
     {
@@ -43,52 +43,52 @@
       "author": "月下冰河",
       "status": "连载中",
       "category": "都市·商战职场",
-      "wordCount": 65.1,
+      "wordCount": 66.4,
       "isNew": false
     },
     {
       "rank": 6,
-      "title": "葬神棺",
-      "author": "浮生一诺",
+      "title": "巅峰权途",
+      "author": "争渡",
       "status": "连载中",
-      "category": "玄幻奇幻·东方玄幻",
-      "wordCount": 536.27,
-      "isNew": false
+      "category": "都市·官场",
+      "wordCount": 315.76,
+      "isNew": true
     },
     {
       "rank": 7,
-      "title": "SSSSSSSSSSSSSS满级神医",
-      "author": "星空野狼",
+      "title": "1977，开局女知青以身相许",
+      "author": "家有十猫",
       "status": "连载中",
-      "category": "都市·都市高手",
-      "wordCount": 66.07,
+      "category": "都市·都市生活",
+      "wordCount": 236.17,
       "isNew": false
     },
     {
       "rank": 8,
+      "title": "葬神棺",
+      "author": "浮生一诺",
+      "status": "连载中",
+      "category": "玄幻奇幻·东方玄幻",
+      "wordCount": 537.31,
+      "isNew": false
+    },
+    {
+      "rank": 9,
+      "title": "SSSSSSSSSSSSSS满级神医",
+      "author": "星空野狼",
+      "status": "连载中",
+      "category": "都市·都市高手",
+      "wordCount": 67.44,
+      "isNew": false
+    },
+    {
+      "rank": 10,
       "title": "无敌六皇子",
       "author": "梁山老鬼",
       "status": "已完结",
       "category": "历史·架空历史",
       "wordCount": 350.25,
-      "isNew": false
-    },
-    {
-      "rank": 9,
-      "title": "桃花劫",
-      "author": "推窗望岳",
-      "status": "连载中",
-      "category": "都市·商战职场",
-      "wordCount": 54.47,
-      "isNew": false
-    },
-    {
-      "rank": 10,
-      "title": "权力医途",
-      "author": "端午",
-      "status": "连载中",
-      "category": "都市·官场",
-      "wordCount": 105.5,
       "isNew": false
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-10-30 19:54",
+  "updateTime": "2025-11-01 19:54",
   "rankData": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "猫不秃",
       "status": "连载中",
       "category": "游戏体育",
-      "wordCount": 243.1,
+      "wordCount": 243.9,
       "isNew": false
     },
     {
@@ -39,24 +39,15 @@
     },
     {
       "rank": 5,
-      "title": "新婚慢熟",
-      "author": "芥婕",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 25.4,
-      "isNew": false
-    },
-    {
-      "rank": 6,
       "title": "她醉酒进错房，京圈大佬一夜沦陷",
       "author": "妖铃",
       "status": "连载中",
       "category": "豪门总裁",
-      "wordCount": 57.5,
+      "wordCount": 58.3,
       "isNew": false
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "恶毒女配守活寡？夫兄，人家好怕",
       "author": "叶不鸿",
       "status": "已完结",
@@ -65,7 +56,25 @@
       "isNew": false
     },
     {
+      "rank": 7,
+      "title": "新婚慢熟",
+      "author": "芥婕",
+      "status": "连载中",
+      "category": "豪门总裁",
+      "wordCount": 26.3,
+      "isNew": false
+    },
+    {
       "rank": 8,
+      "title": "前往军区离婚，被禁欲军官亲哭了",
+      "author": "我在深飘飘",
+      "status": "连载中",
+      "category": "年代",
+      "wordCount": 17.3,
+      "isNew": false
+    },
+    {
+      "rank": 9,
       "title": "和渣夫同归于尽后又双双重生了",
       "author": "超爱小螃蟹",
       "status": "已完结",
@@ -74,21 +83,12 @@
       "isNew": false
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "扬她骨灰后，疯批帝王一夜白头",
       "author": "闲枝妖妖",
       "status": "已完结",
       "category": "宫斗宅斗",
       "wordCount": 127.9,
-      "isNew": false
-    },
-    {
-      "rank": 10,
-      "title": "重生八零：老太太抛子弃女",
-      "author": "招财猫儿",
-      "status": "连载中",
-      "category": "年代",
-      "wordCount": 180.2,
       "isNew": false
     }
   ]
