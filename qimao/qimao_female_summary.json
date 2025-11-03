@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-11-01 19:54",
+  "updateTime": "2025-11-03 19:54",
   "rankData": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "云中觅",
       "status": "连载中",
       "category": "现代言情·总裁豪门",
-      "wordCount": 63.99,
+      "wordCount": 64.09,
       "isNew": false
     },
     {
@@ -16,7 +16,7 @@
       "author": "安卿心",
       "status": "连载中",
       "category": "古代言情·宫闱宅斗",
-      "wordCount": 339.07,
+      "wordCount": 340.08,
       "isNew": false
     },
     {
@@ -25,11 +25,20 @@
       "author": "明婳",
       "status": "连载中",
       "category": "现代言情·总裁豪门",
-      "wordCount": 721.13,
+      "wordCount": 722.39,
       "isNew": false
     },
     {
       "rank": 4,
+      "title": "婚后上瘾",
+      "author": "卢平凡",
+      "status": "连载中",
+      "category": "现代言情·总裁豪门",
+      "wordCount": 83.83,
+      "isNew": false
+    },
+    {
+      "rank": 5,
       "title": "大佬归来，假千金她不装了",
       "author": "骑着猫的小鱼干",
       "status": "已完结",
@@ -38,57 +47,48 @@
       "isNew": false
     },
     {
-      "rank": 5,
-      "title": "一胎又一胎，说好的禁欲指挥官呢？",
-      "author": "望南云慢",
-      "status": "连载中",
-      "category": "现代言情·年代重生",
-      "wordCount": 93.3,
-      "isNew": false
-    },
-    {
       "rank": 6,
       "title": "渣夫别跪了，夫人嫁顶级大佬啦",
       "author": "乐恩",
       "status": "连载中",
       "category": "现代言情·总裁豪门",
-      "wordCount": 58.08,
+      "wordCount": 58.42,
       "isNew": false
     },
     {
       "rank": 7,
-      "title": "王府里来了个捡破烂的崽崽",
-      "author": "三颗小石头",
+      "title": "一胎又一胎，说好的禁欲指挥官呢？",
+      "author": "望南云慢",
       "status": "连载中",
-      "category": "古代言情·宫闱宅斗",
-      "wordCount": 41.22,
+      "category": "现代言情·年代重生",
+      "wordCount": 93.92,
       "isNew": false
     },
     {
       "rank": 8,
-      "title": "他说不爱，婚后却沦陷了",
-      "author": "如鱼",
+      "title": "王府里来了个捡破烂的崽崽",
+      "author": "三颗小石头",
       "status": "连载中",
-      "category": "现代言情·总裁豪门",
-      "wordCount": 134.57,
+      "category": "古代言情·宫闱宅斗",
+      "wordCount": 42.48,
       "isNew": false
     },
     {
       "rank": 9,
-      "title": "全家夺我军功，重生嫡女屠了满门",
-      "author": "我吃饱饱",
+      "title": "他说不爱，婚后却沦陷了",
+      "author": "如鱼",
       "status": "连载中",
-      "category": "古代言情·宫闱宅斗",
-      "wordCount": 146.68,
+      "category": "现代言情·总裁豪门",
+      "wordCount": 135.8,
       "isNew": false
     },
     {
       "rank": 10,
-      "title": "为奴三年后，整个侯府跪求我原谅",
-      "author": "莫小弃",
+      "title": "全家夺我军功，重生嫡女屠了满门",
+      "author": "我吃饱饱",
       "status": "连载中",
-      "category": "古代言情·古代情缘",
-      "wordCount": 199.04,
+      "category": "古代言情·宫闱宅斗",
+      "wordCount": 147.91,
       "isNew": false
     }
   ]
