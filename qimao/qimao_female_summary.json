@@ -1,5 +1,5 @@
 {
-  "updateTime": "2025-11-09 19:54",
+  "updateTime": "2025-11-13 19:54",
   "rankData": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "author": "云中觅",
       "status": "连载中",
       "category": "现代言情·总裁豪门",
-      "wordCount": 64.72,
+      "wordCount": 65.13,
       "isNew": false
     },
     {
@@ -16,7 +16,7 @@
       "author": "安卿心",
       "status": "连载中",
       "category": "古代言情·宫闱宅斗",
-      "wordCount": 344.36,
+      "wordCount": 346.21,
       "isNew": false
     },
     {
@@ -25,7 +25,7 @@
       "author": "明婳",
       "status": "连载中",
       "category": "现代言情·总裁豪门",
-      "wordCount": 726.28,
+      "wordCount": 728.77,
       "isNew": false
     },
     {
@@ -34,11 +34,20 @@
       "author": "卢平凡",
       "status": "连载中",
       "category": "现代言情·总裁豪门",
-      "wordCount": 86.32,
+      "wordCount": 88.03,
       "isNew": false
     },
     {
       "rank": 5,
+      "title": "解春衫",
+      "author": "随山月",
+      "status": "连载中",
+      "category": "古代言情·宫闱宅斗",
+      "wordCount": 34.39,
+      "isNew": false
+    },
+    {
+      "rank": 6,
       "title": "大佬归来，假千金她不装了",
       "author": "骑着猫的小鱼干",
       "status": "已完结",
@@ -47,48 +56,39 @@
       "isNew": false
     },
     {
-      "rank": 6,
-      "title": "解春衫",
-      "author": "随山月",
-      "status": "连载中",
-      "category": "古代言情·宫闱宅斗",
-      "wordCount": 32.27,
-      "isNew": false
-    },
-    {
       "rank": 7,
       "title": "渣夫别跪了，夫人嫁顶级大佬啦",
       "author": "乐恩",
       "status": "连载中",
       "category": "现代言情·总裁豪门",
-      "wordCount": 59.24,
+      "wordCount": 60.17,
       "isNew": false
     },
     {
       "rank": 8,
-      "title": "王府里来了个捡破烂的崽崽",
-      "author": "三颗小石头",
-      "status": "连载中",
-      "category": "古代言情·宫闱宅斗",
-      "wordCount": 46.4,
-      "isNew": false
-    },
-    {
-      "rank": 9,
-      "title": "为奴三年后，整个侯府跪求我原谅",
-      "author": "莫小弃",
-      "status": "连载中",
-      "category": "古代言情·古代情缘",
-      "wordCount": 201.33,
-      "isNew": false
-    },
-    {
-      "rank": 10,
       "title": "大佬十代单传，我为他一胎生四宝",
       "author": "白生米",
       "status": "连载中",
       "category": "现代言情·总裁豪门",
-      "wordCount": 358.32,
+      "wordCount": 360.79,
+      "isNew": false
+    },
+    {
+      "rank": 9,
+      "title": "王府里来了个捡破烂的崽崽",
+      "author": "三颗小石头",
+      "status": "连载中",
+      "category": "古代言情·宫闱宅斗",
+      "wordCount": 49.15,
+      "isNew": false
+    },
+    {
+      "rank": 10,
+      "title": "为奴三年后，整个侯府跪求我原谅",
+      "author": "莫小弃",
+      "status": "连载中",
+      "category": "古代言情·古代情缘",
+      "wordCount": 202.37,
       "isNew": false
     }
   ]
