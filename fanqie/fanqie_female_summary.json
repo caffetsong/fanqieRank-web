@@ -1,95 +1,92 @@
-{
-  "updateTime": "2025-11-13 19:54",
-  "rankData": [
-    {
-      "rank": 1,
-      "title": "游戏入侵：抢男女主机缘会上瘾诶",
-      "author": "猫不秃",
-      "status": "连载中",
-      "category": "游戏体育",
-      "wordCount": 249.2,
-      "isNew": false
-    },
-    {
-      "rank": 2,
-      "title": "侯府忘恩义？摄政王撑腰，不原谅",
-      "author": "初点点",
-      "status": "已完结",
-      "category": "宫斗宅斗",
-      "wordCount": 108.3,
-      "isNew": false
-    },
-    {
-      "rank": 3,
-      "title": "七零崽崽父亲是隐形大佬",
-      "author": "俯视鱼的云",
-      "status": "连载中",
-      "category": "年代",
-      "wordCount": 130.6,
-      "isNew": false
-    },
-    {
-      "rank": 4,
-      "title": "新婚慢熟",
-      "author": "芥婕",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 31.0,
-      "isNew": false
-    },
-    {
-      "rank": 5,
-      "title": "闺蜜说大哥凶，可他夜里喊我宝宝",
-      "author": "鎏旗",
-      "status": "已完结",
-      "category": "豪门总裁",
-      "wordCount": 44.9,
-      "isNew": false
-    },
-    {
-      "rank": 6,
-      "title": "癫，都癫，癫点好啊",
-      "author": "小盐子",
-      "status": "已完结",
-      "category": "星光璀璨",
-      "wordCount": 129.7,
-      "isNew": false
-    },
-    {
-      "rank": 7,
-      "title": "糟糕！新婚夜，和姐姐走错了婚房",
-      "author": "吃西瓜的兔子",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 22.4,
-      "isNew": false
-    },
-    {
-      "rank": 8,
-      "title": "穿成男女主分手后趁虚而入的女配",
-      "author": "尤宫羽",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 28.2,
-      "isNew": false
-    },
-    {
-      "rank": 9,
-      "title": "穿越之八零，懒汉媳妇是个粘人精",
-      "author": "一轮明月Po",
-      "status": "连载中",
-      "category": "年代",
-      "wordCount": 187.7,
-      "isNew": false
-    },
-    {
-      "rank": 10,
-      "title": "她醉酒进错房，京圈大佬一夜沦陷",
-      "author": "妖铃",
-      "status": "连载中",
-      "category": "豪门总裁",
-      "wordCount": 63.7,
-      "isNew": false
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "游戏入侵：抢男女主机缘会上瘾诶",
+    "author": "猫不秃",
+    "status": "连载中",
+    "category": "游戏体育",
+    "wordCount": 249.2,
+    "isNew": false
+  },
+  {
+    "rank": 2,
+    "title": "侯府忘恩义？摄政王撑腰，不原谅",
+    "author": "初点点",
+    "status": "已完结",
+    "category": "宫斗宅斗",
+    "wordCount": 108.3,
+    "isNew": false
+  },
+  {
+    "rank": 3,
+    "title": "七零崽崽父亲是隐形大佬",
+    "author": "俯视鱼的云",
+    "status": "连载中",
+    "category": "年代",
+    "wordCount": 130.6,
+    "isNew": false
+  },
+  {
+    "rank": 4,
+    "title": "新婚慢熟",
+    "author": "芥婕",
+    "status": "连载中",
+    "category": "豪门总裁",
+    "wordCount": 31.0,
+    "isNew": false
+  },
+  {
+    "rank": 5,
+    "title": "闺蜜说大哥凶，可他夜里喊我宝宝",
+    "author": "鎏旗",
+    "status": "已完结",
+    "category": "豪门总裁",
+    "wordCount": 44.9,
+    "isNew": false
+  },
+  {
+    "rank": 6,
+    "title": "癫，都癫，癫点好啊",
+    "author": "小盐子",
+    "status": "已完结",
+    "category": "星光璀璨",
+    "wordCount": 129.7,
+    "isNew": false
+  },
+  {
+    "rank": 7,
+    "title": "糟糕！新婚夜，和姐姐走错了婚房",
+    "author": "吃西瓜的兔子",
+    "status": "连载中",
+    "category": "豪门总裁",
+    "wordCount": 22.4,
+    "isNew": false
+  },
+  {
+    "rank": 8,
+    "title": "穿成男女主分手后趁虚而入的女配",
+    "author": "尤宫羽",
+    "status": "连载中",
+    "category": "豪门总裁",
+    "wordCount": 28.2,
+    "isNew": false
+  },
+  {
+    "rank": 9,
+    "title": "穿越之八零，懒汉媳妇是个粘人精",
+    "author": "一轮明月Po",
+    "status": "连载中",
+    "category": "年代",
+    "wordCount": 187.7,
+    "isNew": false
+  },
+  {
+    "rank": 10,
+    "title": "她醉酒进错房，京圈大佬一夜沦陷",
+    "author": "妖铃",
+    "status": "连载中",
+    "category": "豪门总裁",
+    "wordCount": 63.7,
+    "isNew": false
+  }
+]
