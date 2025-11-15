@@ -1,11 +1,12 @@
-[
+{
+  "rankData": [
     {
       "rank": 1,
       "title": "盖世神医",
       "author": "狐颜乱语",
       "status": "连载中",
       "category": "都市·都市高武",
-      "wordCount": 769.96,
+      "wordCount": 771.19,
       "isNew": false
     },
     {
@@ -14,7 +15,7 @@
       "author": "修果",
       "status": "连载中",
       "category": "历史·架空历史",
-      "wordCount": 422.14,
+      "wordCount": 423.37,
       "isNew": false
     },
     {
@@ -23,25 +24,25 @@
       "author": "红透半边天",
       "status": "连载中",
       "category": "都市·都市高手",
-      "wordCount": 212.72,
+      "wordCount": 214.02,
       "isNew": false
     },
     {
       "rank": 4,
-      "title": "男人野性",
-      "author": "月下冰河",
-      "status": "连载中",
-      "category": "都市·商战职场",
-      "wordCount": 71.95,
-      "isNew": false
-    },
-    {
-      "rank": 5,
       "title": "SSSSSSSSSSSSS级镇狱狂龙",
       "author": "封情老衲",
       "status": "连载中",
       "category": "都市·都市高手",
-      "wordCount": 104.34,
+      "wordCount": 106.64,
+      "isNew": false
+    },
+    {
+      "rank": 5,
+      "title": "男人野性",
+      "author": "月下冰河",
+      "status": "连载中",
+      "category": "都市·商战职场",
+      "wordCount": 72.81,
       "isNew": false
     },
     {
@@ -50,7 +51,7 @@
       "author": "浮生一诺",
       "status": "连载中",
       "category": "玄幻奇幻·东方玄幻",
-      "wordCount": 545.98,
+      "wordCount": 546.75,
       "isNew": false
     },
     {
@@ -59,7 +60,7 @@
       "author": "江湖如梦",
       "status": "连载中",
       "category": "都市·都市生活",
-      "wordCount": 122.38,
+      "wordCount": 123.62,
       "isNew": false
     },
     {
@@ -68,7 +69,7 @@
       "author": "争渡",
       "status": "连载中",
       "category": "都市·官场",
-      "wordCount": 321.61,
+      "wordCount": 323.02,
       "isNew": false
     },
     {
@@ -77,7 +78,7 @@
       "author": "青岳",
       "status": "连载中",
       "category": "历史·架空历史",
-      "wordCount": 104.43,
+      "wordCount": 105.66,
       "isNew": false
     },
     {
@@ -86,7 +87,8 @@
       "author": "推窗望岳",
       "status": "连载中",
       "category": "都市·商战职场",
-      "wordCount": 59.78,
+      "wordCount": 60.58,
       "isNew": false
     }
   ]
+}
