@@ -1,94 +1,92 @@
-{
-  "rankData": [
-    {
-      "rank": 1,
-      "title": "我不是戏神",
-      "author": "三九音域",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 341.5,
-      "isNew": false
-    },
-    {
-      "rank": 2,
-      "title": "十日终焉",
-      "author": "杀虫队队员",
-      "status": "已完结",
-      "category": "悬疑脑洞",
-      "wordCount": 320.1,
-      "isNew": false
-    },
-    {
-      "rank": 3,
-      "title": "天眼风水师",
-      "author": "道之光",
-      "status": "已完结",
-      "category": "都市日常",
-      "wordCount": 123.1,
-      "isNew": false
-    },
-    {
-      "rank": 4,
-      "title": "我在精神病院学斩神",
-      "author": "三九音域",
-      "status": "已完结",
-      "category": "都市高武",
-      "wordCount": 426.4,
-      "isNew": false
-    },
-    {
-      "rank": 5,
-      "title": "冒姓琅琊",
-      "author": "东周公子南",
-      "status": "连载中",
-      "category": "历史古代",
-      "wordCount": 101.5,
-      "isNew": false
-    },
-    {
-      "rank": 6,
-      "title": "开局上交修仙界，国家让我先成仙",
-      "author": "美丽的洋葱",
-      "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 26.0,
-      "isNew": false
-    },
-    {
-      "rank": 7,
-      "title": "诸神愚戏",
-      "author": "一月九十秋",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 332.3,
-      "isNew": false
-    },
-    {
-      "rank": 8,
-      "title": "你们刷怪啊，刷我干嘛！",
-      "author": "喜欢吃橘子",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 146.2,
-      "isNew": false
-    },
-    {
-      "rank": 9,
-      "title": "开局长生万古，苟到天荒地老",
-      "author": "紫灵风雪",
-      "status": "连载中",
-      "category": "玄幻脑洞",
-      "wordCount": 545.2,
-      "isNew": false
-    },
-    {
-      "rank": 10,
-      "title": "时停起手，邪神也得给我跪下！",
-      "author": "六个葫芦",
-      "status": "连载中",
-      "category": "都市高武",
-      "wordCount": 102.0,
-      "isNew": false
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "我不是戏神",
+    "author": "三九音域",
+    "status": "连载中",
+    "category": "都市高武",
+    "wordCount": 341.9,
+    "isNew": false
+  },
+  {
+    "rank": 2,
+    "title": "十日终焉",
+    "author": "杀虫队队员",
+    "status": "已完结",
+    "category": "悬疑脑洞",
+    "wordCount": 320.1,
+    "isNew": false
+  },
+  {
+    "rank": 3,
+    "title": "天眼风水师",
+    "author": "道之光",
+    "status": "已完结",
+    "category": "都市日常",
+    "wordCount": 123.1,
+    "isNew": false
+  },
+  {
+    "rank": 4,
+    "title": "我在精神病院学斩神",
+    "author": "三九音域",
+    "status": "已完结",
+    "category": "都市高武",
+    "wordCount": 426.4,
+    "isNew": false
+  },
+  {
+    "rank": 5,
+    "title": "你们刷怪啊，刷我干嘛！",
+    "author": "喜欢吃橘子",
+    "status": "连载中",
+    "category": "都市高武",
+    "wordCount": 147.5,
+    "isNew": false
+  },
+  {
+    "rank": 6,
+    "title": "冒姓琅琊",
+    "author": "东周公子南",
+    "status": "连载中",
+    "category": "历史古代",
+    "wordCount": 101.5,
+    "isNew": false
+  },
+  {
+    "rank": 7,
+    "title": "开局上交修仙界，国家让我先成仙",
+    "author": "美丽的洋葱",
+    "status": "连载中",
+    "category": "玄幻脑洞",
+    "wordCount": 26.6,
+    "isNew": false
+  },
+  {
+    "rank": 8,
+    "title": "诸神愚戏",
+    "author": "一月九十秋",
+    "status": "连载中",
+    "category": "都市高武",
+    "wordCount": 332.8,
+    "isNew": false
+  },
+  {
+    "rank": 9,
+    "title": "开局长生万古，苟到天荒地老",
+    "author": "紫灵风雪",
+    "status": "连载中",
+    "category": "玄幻脑洞",
+    "wordCount": 546.1,
+    "isNew": false
+  },
+  {
+    "rank": 10,
+    "title": "我就砍个树，怎么灭世级了",
+    "author": "殿堂郁子",
+    "status": "连载中",
+    "category": "都市高武",
+    "wordCount": 22.6,
+    "isNew": false
+  }
+]
