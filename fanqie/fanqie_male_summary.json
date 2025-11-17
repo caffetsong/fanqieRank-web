@@ -5,7 +5,7 @@
     "author": "三九音域",
     "status": "连载中",
     "category": "都市高武",
-    "wordCount": 341.9,
+    "wordCount": 342.3,
     "isNew": false
   },
   {
@@ -23,20 +23,11 @@
     "author": "道之光",
     "status": "已完结",
     "category": "都市日常",
-    "wordCount": 123.1,
+    "wordCount": 123.0,
     "isNew": false
   },
   {
     "rank": 4,
-    "title": "我在精神病院学斩神",
-    "author": "三九音域",
-    "status": "已完结",
-    "category": "都市高武",
-    "wordCount": 426.4,
-    "isNew": false
-  },
-  {
-    "rank": 5,
     "title": "你们刷怪啊，刷我干嘛！",
     "author": "喜欢吃橘子",
     "status": "连载中",
@@ -45,12 +36,21 @@
     "isNew": false
   },
   {
+    "rank": 5,
+    "title": "我在精神病院学斩神",
+    "author": "三九音域",
+    "status": "已完结",
+    "category": "都市高武",
+    "wordCount": 426.4,
+    "isNew": false
+  },
+  {
     "rank": 6,
     "title": "冒姓琅琊",
     "author": "东周公子南",
     "status": "连载中",
     "category": "历史古代",
-    "wordCount": 101.5,
+    "wordCount": 101.8,
     "isNew": false
   },
   {
@@ -59,7 +59,7 @@
     "author": "美丽的洋葱",
     "status": "连载中",
     "category": "玄幻脑洞",
-    "wordCount": 26.6,
+    "wordCount": 27.2,
     "isNew": false
   },
   {
@@ -68,25 +68,25 @@
     "author": "一月九十秋",
     "status": "连载中",
     "category": "都市高武",
-    "wordCount": 332.8,
+    "wordCount": 333.2,
     "isNew": false
   },
   {
     "rank": 9,
-    "title": "开局长生万古，苟到天荒地老",
-    "author": "紫灵风雪",
-    "status": "连载中",
-    "category": "玄幻脑洞",
-    "wordCount": 546.1,
-    "isNew": false
-  },
-  {
-    "rank": 10,
     "title": "我就砍个树，怎么灭世级了",
     "author": "殿堂郁子",
     "status": "连载中",
     "category": "都市高武",
     "wordCount": 22.6,
+    "isNew": false
+  },
+  {
+    "rank": 10,
+    "title": "开局长生万古，苟到天荒地老",
+    "author": "紫灵风雪",
+    "status": "连载中",
+    "category": "玄幻脑洞",
+    "wordCount": 546.1,
     "isNew": false
   }
 ]
