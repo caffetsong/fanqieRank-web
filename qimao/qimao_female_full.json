@@ -5,7 +5,7 @@
     "author": "云中觅",
     "status": "连载中",
     "category": "现代言情·总裁豪门",
-    "wordCount": 65.54,
+    "wordCount": 65.65,
     "isNew": false
   },
   {
@@ -14,7 +14,7 @@
     "author": "安卿心",
     "status": "连载中",
     "category": "古代言情·宫闱宅斗",
-    "wordCount": 348.66,
+    "wordCount": 350.1,
     "isNew": false
   },
   {
@@ -23,29 +23,38 @@
     "author": "明婳",
     "status": "连载中",
     "category": "现代言情·总裁豪门",
-    "wordCount": 731.1,
+    "wordCount": 733.08,
     "isNew": false
   },
   {
     "rank": 4,
-    "title": "婚后上瘾",
-    "author": "卢平凡",
-    "status": "连载中",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 89.74,
-    "isNew": false
-  },
-  {
-    "rank": 5,
     "title": "解春衫",
     "author": "随山月",
     "status": "连载中",
     "category": "古代言情·宫闱宅斗",
-    "wordCount": 36.84,
+    "wordCount": 38.07,
+    "isNew": false
+  },
+  {
+    "rank": 5,
+    "title": "婚后上瘾",
+    "author": "卢平凡",
+    "status": "连载中",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 90.59,
     "isNew": false
   },
   {
     "rank": 6,
+    "title": "一胎又一胎，说好的禁欲指挥官呢？",
+    "author": "望南云慢",
+    "status": "连载中",
+    "category": "现代言情·年代重生",
+    "wordCount": 102.51,
+    "isNew": false
+  },
+  {
+    "rank": 7,
     "title": "大佬归来，假千金她不装了",
     "author": "骑着猫的小鱼干",
     "status": "已完结",
@@ -54,43 +63,52 @@
     "isNew": false
   },
   {
-    "rank": 7,
+    "rank": 8,
     "title": "渣夫别跪了，夫人嫁顶级大佬啦",
     "author": "乐恩",
     "status": "连载中",
     "category": "现代言情·总裁豪门",
-    "wordCount": 60.81,
-    "isNew": false
-  },
-  {
-    "rank": 8,
-    "title": "大佬十代单传，我为他一胎生四宝",
-    "author": "白生米",
-    "status": "连载中",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 363.28,
+    "wordCount": 61.15,
     "isNew": false
   },
   {
     "rank": 9,
-    "title": "敲骨吸髓？重生另选家人宠我如宝",
-    "author": "清砚",
-    "status": "连载中",
-    "category": "古代言情·宫闱宅斗",
-    "wordCount": 62.35,
-    "isNew": false
-  },
-  {
-    "rank": 10,
     "title": "渣夫骗我领假证，转身携千亿资产嫁权少",
     "author": "唐小糖",
     "status": "连载中",
     "category": "现代言情·总裁豪门",
-    "wordCount": 57.62,
+    "wordCount": 58.44,
+    "isNew": false
+  },
+  {
+    "rank": 10,
+    "title": "为奴三年后，整个侯府跪求我原谅",
+    "author": "莫小弃",
+    "status": "连载中",
+    "category": "古代言情·古代情缘",
+    "wordCount": 203.56,
     "isNew": false
   },
   {
     "rank": 11,
+    "title": "大佬十代单传，我为他一胎生四宝",
+    "author": "白生米",
+    "status": "连载中",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 364.51,
+    "isNew": false
+  },
+  {
+    "rank": 12,
+    "title": "敲骨吸髓？重生另选家人宠我如宝",
+    "author": "清砚",
+    "status": "连载中",
+    "category": "古代言情·宫闱宅斗",
+    "wordCount": 63.25,
+    "isNew": false
+  },
+  {
+    "rank": 13,
     "title": "第一凤女",
     "author": "十二妖",
     "status": "已完结",
@@ -99,111 +117,93 @@
     "isNew": false
   },
   {
-    "rank": 12,
+    "rank": 14,
     "title": "凰宫梦",
     "author": "蓝九九",
     "status": "连载中",
     "category": "古代言情·宫闱宅斗",
-    "wordCount": 301.47,
-    "isNew": false
-  },
-  {
-    "rank": 13,
-    "title": "为奴三年后，整个侯府跪求我原谅",
-    "author": "莫小弃",
-    "status": "连载中",
-    "category": "古代言情·古代情缘",
-    "wordCount": 203.02,
-    "isNew": false
-  },
-  {
-    "rank": 14,
-    "title": "全家夺我军功，重生嫡女屠了满门",
-    "author": "我吃饱饱",
-    "status": "连载中",
-    "category": "古代言情·宫闱宅斗",
-    "wordCount": 156.98,
+    "wordCount": 302.61,
     "isNew": false
   },
   {
     "rank": 15,
-    "title": "王府里来了个捡破烂的崽崽",
-    "author": "三颗小石头",
+    "title": "全家夺我军功，重生嫡女屠了满门",
+    "author": "我吃饱饱",
     "status": "连载中",
     "category": "古代言情·宫闱宅斗",
-    "wordCount": 51.68,
+    "wordCount": 158.23,
     "isNew": false
   },
   {
     "rank": 16,
-    "title": "他说不爱，婚后却沦陷了",
-    "author": "如鱼",
-    "status": "连载中",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 144.41,
-    "isNew": false
-  },
-  {
-    "rank": 17,
-    "title": "顾总，你前妻在科研界杀疯了！",
-    "author": "席宝贝",
-    "status": "连载中",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 148.26,
-    "isNew": false
-  },
-  {
-    "rank": 18,
-    "title": "一胎又一胎，说好的禁欲指挥官呢？",
-    "author": "望南云慢",
-    "status": "连载中",
-    "category": "现代言情·年代重生",
-    "wordCount": 100.14,
-    "isNew": false
-  },
-  {
-    "rank": 19,
-    "title": "五年冷婚，我跑路了你发什么疯",
-    "author": "一尾小锦鲤",
-    "status": "连载中",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 57.6,
-    "isNew": false
-  },
-  {
-    "rank": 20,
-    "title": "步步失控",
-    "author": "毛兮",
-    "status": "连载中",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 52.51,
-    "isNew": false
-  },
-  {
-    "rank": 21,
-    "title": "六年后，我携四个幼崽炸翻前夫家",
-    "author": "相思一顾",
-    "status": "连载中",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 546.03,
-    "isNew": false
-  },
-  {
-    "rank": 22,
-    "title": "孩子谁爱生谁生，我勾帝心夺凤位",
-    "author": "爱吃石榴",
-    "status": "连载中",
-    "category": "古代言情·宫闱宅斗",
-    "wordCount": 156.04,
-    "isNew": false
-  },
-  {
-    "rank": 23,
     "title": "嫁太监？踏破鬼门女帝凤临天下",
     "author": "狐狸九",
     "status": "连载中",
     "category": "古代言情·宫闱宅斗",
-    "wordCount": 88.27,
+    "wordCount": 89.14,
+    "isNew": false
+  },
+  {
+    "rank": 17,
+    "title": "五年冷婚，我跑路了你发什么疯",
+    "author": "一尾小锦鲤",
+    "status": "连载中",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 58.42,
+    "isNew": false
+  },
+  {
+    "rank": 18,
+    "title": "他说不爱，婚后却沦陷了",
+    "author": "如鱼",
+    "status": "连载中",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 145.64,
+    "isNew": false
+  },
+  {
+    "rank": 19,
+    "title": "王府里来了个捡破烂的崽崽",
+    "author": "三颗小石头",
+    "status": "连载中",
+    "category": "古代言情·宫闱宅斗",
+    "wordCount": 52.96,
+    "isNew": false
+  },
+  {
+    "rank": 20,
+    "title": "顾总，你前妻在科研界杀疯了！",
+    "author": "席宝贝",
+    "status": "连载中",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 149.48,
+    "isNew": false
+  },
+  {
+    "rank": 21,
+    "title": "步步失控",
+    "author": "毛兮",
+    "status": "连载中",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 53.32,
+    "isNew": false
+  },
+  {
+    "rank": 22,
+    "title": "六年后，我携四个幼崽炸翻前夫家",
+    "author": "相思一顾",
+    "status": "连载中",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 547.25,
+    "isNew": false
+  },
+  {
+    "rank": 23,
+    "title": "孩子谁爱生谁生，我勾帝心夺凤位",
+    "author": "爱吃石榴",
+    "status": "连载中",
+    "category": "古代言情·宫闱宅斗",
+    "wordCount": 157.12,
     "isNew": false
   },
   {
@@ -212,7 +212,7 @@
     "author": "沙子",
     "status": "连载中",
     "category": "古代言情·宫闱宅斗",
-    "wordCount": 142.54,
+    "wordCount": 143.37,
     "isNew": false
   },
   {
@@ -221,29 +221,38 @@
     "author": "北派无尽夏",
     "status": "连载中",
     "category": "现代言情·都市奇幻",
-    "wordCount": 105.12,
+    "wordCount": 105.95,
     "isNew": false
   },
   {
     "rank": 26,
-    "title": "去父留子后才知，前夫爱的人竟是我",
-    "author": "乐希",
+    "title": "他的小撩精",
+    "author": "街灯读我",
     "status": "连载中",
     "category": "现代言情·总裁豪门",
-    "wordCount": 105.21,
+    "wordCount": 42.81,
     "isNew": false
   },
   {
     "rank": 27,
-    "title": "捉奸当天，豪门继承人拉我去领证",
-    "author": "慕容悠然",
+    "title": "去父留子后才知，前夫爱的人竟是我",
+    "author": "乐希",
     "status": "连载中",
     "category": "现代言情·总裁豪门",
-    "wordCount": 398.73,
+    "wordCount": 106.02,
     "isNew": false
   },
   {
     "rank": 28,
+    "title": "捉奸当天，豪门继承人拉我去领证",
+    "author": "慕容悠然",
+    "status": "连载中",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 399.98,
+    "isNew": false
+  },
+  {
+    "rank": 29,
     "title": "春棠欲醉",
     "author": "锦一",
     "status": "已完结",
@@ -252,22 +261,13 @@
     "isNew": false
   },
   {
-    "rank": 29,
+    "rank": 30,
     "title": "续弦小夫人",
     "author": "江摇舟",
     "status": "已完结",
     "category": "古代言情·宫闱宅斗",
     "wordCount": 80.62,
     "isNew": false
-  },
-  {
-    "rank": 30,
-    "title": "七零闪婚不见面，带娃炸翻家属院",
-    "author": "桃桃宝宝",
-    "status": "连载中",
-    "category": "现代言情·年代重生",
-    "wordCount": 35.38,
-    "isNew": true
   },
   {
     "rank": 31,
@@ -280,15 +280,24 @@
   },
   {
     "rank": 32,
-    "title": "他的小撩精",
-    "author": "街灯读我",
+    "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
+    "author": "三十嘉",
     "status": "连载中",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 41.69,
+    "category": "古代言情·宫闱宅斗",
+    "wordCount": 89.67,
     "isNew": false
   },
   {
     "rank": 33,
+    "title": "八零娇女一撒娇，高冷军少领证了",
+    "author": "白茶流萤",
+    "status": "连载中",
+    "category": "现代言情·年代重生",
+    "wordCount": 81.77,
+    "isNew": false
+  },
+  {
+    "rank": 34,
     "title": "七零：最硬糙汉被媳妇撩红了眼",
     "author": "一尾小锦鲤",
     "status": "已完结",
@@ -297,70 +306,7 @@
     "isNew": false
   },
   {
-    "rank": 34,
-    "title": "柔弱医修今天也在背地里暴打魔尊",
-    "author": "白木木",
-    "status": "连载中",
-    "category": "幻想言情·玄幻仙侠",
-    "wordCount": 100.13,
-    "isNew": false
-  },
-  {
     "rank": 35,
-    "title": "随母改嫁旺新家，重生嫡女嘎嘎乱杀",
-    "author": "三十嘉",
-    "status": "连载中",
-    "category": "古代言情·宫闱宅斗",
-    "wordCount": 86.55,
-    "isNew": false
-  },
-  {
-    "rank": 36,
-    "title": "八零娇女一撒娇，高冷军少领证了",
-    "author": "白茶流萤",
-    "status": "连载中",
-    "category": "现代言情·年代重生",
-    "wordCount": 81.44,
-    "isNew": false
-  },
-  {
-    "rank": 37,
-    "title": "出宫前夜，沦为暴君掌中物",
-    "author": "素律",
-    "status": "连载中",
-    "category": "古代言情·宫闱宅斗",
-    "wordCount": 118.72,
-    "isNew": false
-  },
-  {
-    "rank": 38,
-    "title": "我团宠小师妹，嚣张点怎么了",
-    "author": "瑰夏",
-    "status": "已完结",
-    "category": "幻想言情·玄幻仙侠",
-    "wordCount": 333.32,
-    "isNew": false
-  },
-  {
-    "rank": 39,
-    "title": "傅总，夫人不想当首富太太了",
-    "author": "蓝尧",
-    "status": "连载中",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 166.19,
-    "isNew": false
-  },
-  {
-    "rank": 40,
-    "title": "冻死风雪夜，重生真嫡女虐翻全家",
-    "author": "一颗胖梨",
-    "status": "已完结",
-    "category": "古代言情·宫闱宅斗",
-    "wordCount": 189.56,
-    "isNew": false
-  },
-  {
-    "rank": 41,
     "title": "凤池生春",
     "author": "秦安安",
     "status": "已完结",
@@ -369,7 +315,7 @@
     "isNew": false
   },
   {
-    "rank": 42,
+    "rank": 36,
     "title": "神算萌妻：傅太太才是玄学真大佬",
     "author": "易小升",
     "status": "已完结",
@@ -378,43 +324,79 @@
     "isNew": false
   },
   {
+    "rank": 37,
+    "title": "柔弱医修今天也在背地里暴打魔尊",
+    "author": "白木木",
+    "status": "连载中",
+    "category": "幻想言情·玄幻仙侠",
+    "wordCount": 101.01,
+    "isNew": false
+  },
+  {
+    "rank": 38,
+    "title": "出宫前夜，沦为暴君掌中物",
+    "author": "素律",
+    "status": "连载中",
+    "category": "古代言情·宫闱宅斗",
+    "wordCount": 119.44,
+    "isNew": false
+  },
+  {
+    "rank": 39,
+    "title": "七零闪婚不见面，带娃炸翻家属院",
+    "author": "桃桃宝宝",
+    "status": "连载中",
+    "category": "现代言情·年代重生",
+    "wordCount": 36.26,
+    "isNew": false
+  },
+  {
+    "rank": 40,
+    "title": "傅总，夫人不想当首富太太了",
+    "author": "蓝尧",
+    "status": "连载中",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 167.69,
+    "isNew": false
+  },
+  {
+    "rank": 41,
+    "title": "我团宠小师妹，嚣张点怎么了",
+    "author": "瑰夏",
+    "status": "已完结",
+    "category": "幻想言情·玄幻仙侠",
+    "wordCount": 333.32,
+    "isNew": false
+  },
+  {
+    "rank": 42,
+    "title": "冻死风雪夜，重生真嫡女虐翻全家",
+    "author": "一颗胖梨",
+    "status": "已完结",
+    "category": "古代言情·宫闱宅斗",
+    "wordCount": 189.56,
+    "isNew": false
+  },
+  {
     "rank": 43,
     "title": "抢我婚约嫁太子？我携孕肚嫁皇帝",
     "author": "缓缓归",
     "status": "连载中",
     "category": "古代言情·宫闱宅斗",
-    "wordCount": 44.71,
+    "wordCount": 45.5,
     "isNew": false
   },
   {
     "rank": 44,
-    "title": "七零：冷面军少被作精娇妻拿捏了",
-    "author": "桃三月",
-    "status": "已完结",
-    "category": "现代言情·年代重生",
-    "wordCount": 133.8,
-    "isNew": false
-  },
-  {
-    "rank": 45,
-    "title": "暗恋她的第十一年",
-    "author": "有香如故",
-    "status": "已完结",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 103.33,
-    "isNew": false
-  },
-  {
-    "rank": 46,
     "title": "饥荒年，我囤货娇养了古代大将军",
     "author": "苜肉",
     "status": "连载中",
     "category": "古代言情·古代情缘",
-    "wordCount": 222.52,
+    "wordCount": 223.35,
     "isNew": false
   },
   {
-    "rank": 47,
+    "rank": 45,
     "title": "世子先别死，夫人有喜了",
     "author": "沙拉薯条",
     "status": "已完结",
@@ -423,178 +405,142 @@
     "isNew": false
   },
   {
+    "rank": 46,
+    "title": "七零：冷面军少被作精娇妻拿捏了",
+    "author": "桃三月",
+    "status": "已完结",
+    "category": "现代言情·年代重生",
+    "wordCount": 133.8,
+    "isNew": false
+  },
+  {
+    "rank": 47,
+    "title": "暗恋她的第十一年",
+    "author": "有香如故",
+    "status": "已完结",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 103.33,
+    "isNew": false
+  },
+  {
     "rank": 48,
     "title": "离婚三天：我冷淡至极，他索吻成瘾",
     "author": "风羽轻轻",
     "status": "连载中",
     "category": "现代言情·总裁豪门",
-    "wordCount": 135.0,
+    "wordCount": 135.81,
     "isNew": false
   },
   {
     "rank": 49,
-    "title": "成全他和青梅后，我却成了白月光",
-    "author": "墨墨卿卿",
-    "status": "连载中",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 37.73,
-    "isNew": false
-  },
-  {
-    "rank": 50,
     "title": "再近点，就失控了",
     "author": "雪泥",
     "status": "连载中",
     "category": "现代言情·青春校园",
-    "wordCount": 78.49,
+    "wordCount": 79.16,
     "isNew": false
   },
   {
-    "rank": 51,
-    "title": "叉腰腰，全家都是我捡来哒！",
-    "author": "柠檬鱼头",
-    "status": "连载中",
-    "category": "幻想言情·玄幻仙侠",
-    "wordCount": 119.79,
-    "isNew": false
-  },
-  {
-    "rank": 52,
+    "rank": 50,
     "title": "于他怀中轻颤",
     "author": "苏晚舟",
     "status": "连载中",
     "category": "现代言情·总裁豪门",
-    "wordCount": 50.37,
+    "wordCount": 51.02,
     "isNew": false
   },
   {
-    "rank": 53,
+    "rank": 51,
     "title": "小姑奶奶下山了，在桥洞底下摆摊算命",
     "author": "骑着猫的小鱼干",
     "status": "连载中",
     "category": "现代言情·都市奇幻",
-    "wordCount": 99.87,
+    "wordCount": 100.69,
     "isNew": false
   },
   {
-    "rank": 54,
+    "rank": 52,
     "title": "半熟",
     "author": "槿郗",
     "status": "连载中",
     "category": "现代言情·总裁豪门",
-    "wordCount": 107.75,
+    "wordCount": 108.57,
+    "isNew": false
+  },
+  {
+    "rank": 53,
+    "title": "随母改嫁换新爹，拖油瓶成了团宠",
+    "author": "萝兹萝丝",
+    "status": "连载中",
+    "category": "现代言情·年代重生",
+    "wordCount": 32.29,
+    "isNew": true
+  },
+  {
+    "rank": 54,
+    "title": "成全他和青梅后，我却成了白月光",
+    "author": "墨墨卿卿",
+    "status": "连载中",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 38.71,
     "isNew": false
   },
   {
     "rank": 55,
-    "title": "主播万人迷，榜一大哥争着宠",
-    "author": "熊就要有个熊样",
-    "status": "已完结",
-    "category": "现代言情·娱乐明星",
-    "wordCount": 97.76,
-    "isNew": false
-  },
-  {
-    "rank": 56,
-    "title": "重生再嫁皇胄，我只想乱帝心夺凤位",
-    "author": "月下小兔",
-    "status": "连载中",
-    "category": "古代言情·宫闱宅斗",
-    "wordCount": 216.13,
-    "isNew": false
-  },
-  {
-    "rank": 57,
-    "title": "我赚够两千就下播，榜一大哥却急了",
-    "author": "哼哼哈哈",
-    "status": "连载中",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 110.75,
-    "isNew": false
-  },
-  {
-    "rank": 58,
     "title": "惨死生子夜，重生嫡女屠尽侯府",
     "author": "南酥青子",
     "status": "连载中",
     "category": "古代言情·宫闱宅斗",
-    "wordCount": 97.25,
+    "wordCount": 98.07,
     "isNew": false
   },
   {
-    "rank": 59,
-    "title": "被抄家流放，飒爽嫡女在边关盖大楼！",
-    "author": "重阳",
-    "status": "连载中",
-    "category": "古代言情·种田经商",
-    "wordCount": 97.08,
-    "isNew": false
-  },
-  {
-    "rank": 60,
+    "rank": 56,
     "title": "双生兄弟要换亲？我稳做侯门主母",
     "author": "林拾酒",
     "status": "连载中",
     "category": "古代言情·宫闱宅斗",
-    "wordCount": 58.97,
+    "wordCount": 60.19,
     "isNew": false
   },
   {
-    "rank": 61,
-    "title": "领证爽约？我转嫁你哥哭什么",
-    "author": "欧橙",
-    "status": "连载中",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 81.61,
-    "isNew": false
-  },
-  {
-    "rank": 62,
-    "title": "陆总别作，太太她不要你了",
-    "author": "是空空呀",
-    "status": "连载中",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 97.22,
-    "isNew": false
-  },
-  {
-    "rank": 63,
-    "title": "雪夜活埋后，我夺了假千金凤命",
-    "author": "柠檬小丸子",
-    "status": "连载中",
-    "category": "古代言情·宫闱宅斗",
-    "wordCount": 177.33,
-    "isNew": false
-  },
-  {
-    "rank": 64,
+    "rank": 57,
     "title": "深情失控，他服软低哄别离婚",
     "author": "林深深",
     "status": "连载中",
     "category": "现代言情·总裁豪门",
-    "wordCount": 74.56,
+    "wordCount": 75.56,
     "isNew": false
   },
   {
-    "rank": 65,
-    "title": "喜棺开，百鬼散，王妃她从地狱来",
-    "author": "一碗佛跳墙",
-    "status": "已完结",
-    "category": "古代言情·古代情缘",
-    "wordCount": 136.99,
+    "rank": 58,
+    "title": "叉腰腰，全家都是我捡来哒！",
+    "author": "柠檬鱼头",
+    "status": "连载中",
+    "category": "幻想言情·玄幻仙侠",
+    "wordCount": 121.03,
     "isNew": false
   },
   {
-    "rank": 66,
-    "title": "挺孕肚离婚二嫁财阀，渣前夫悔疯了",
-    "author": "一颗胖梨",
+    "rank": 59,
+    "title": "重生再嫁皇胄，我只想乱帝心夺凤位",
+    "author": "月下小兔",
+    "status": "连载中",
+    "category": "古代言情·宫闱宅斗",
+    "wordCount": 217.39,
+    "isNew": false
+  },
+  {
+    "rank": 60,
+    "title": "领证爽约？我转嫁你哥哭什么",
+    "author": "欧橙",
     "status": "连载中",
     "category": "现代言情·总裁豪门",
-    "wordCount": 43.28,
+    "wordCount": 82.88,
     "isNew": false
   },
   {
-    "rank": 67,
+    "rank": 61,
     "title": "重生七零再高嫁",
     "author": "星月相随",
     "status": "已完结",
@@ -603,12 +549,66 @@
     "isNew": false
   },
   {
-    "rank": 68,
+    "rank": 62,
+    "title": "雪夜活埋后，我夺了假千金凤命",
+    "author": "柠檬小丸子",
+    "status": "连载中",
+    "category": "古代言情·宫闱宅斗",
+    "wordCount": 178.17,
+    "isNew": false
+  },
+  {
+    "rank": 63,
+    "title": "喜棺开，百鬼散，王妃她从地狱来",
+    "author": "一碗佛跳墙",
+    "status": "已完结",
+    "category": "古代言情·古代情缘",
+    "wordCount": 136.99,
+    "isNew": false
+  },
+  {
+    "rank": 64,
+    "title": "陆总别作，太太她不要你了",
+    "author": "是空空呀",
+    "status": "连载中",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 98.5,
+    "isNew": false
+  },
+  {
+    "rank": 65,
+    "title": "出狱后，我闪婚了植物人大佬",
+    "author": "柠七七",
+    "status": "已完结",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 297.92,
+    "isNew": false
+  },
+  {
+    "rank": 66,
+    "title": "我赚够两千就下播，榜一大哥却急了",
+    "author": "哼哼哈哈",
+    "status": "连载中",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 111.27,
+    "isNew": false
+  },
+  {
+    "rank": 67,
     "title": "春色满棠",
     "author": "糯米紫",
     "status": "连载中",
     "category": "古代言情·古代情缘",
-    "wordCount": 106.83,
+    "wordCount": 107.24,
+    "isNew": false
+  },
+  {
+    "rank": 68,
+    "title": "被抄家流放，飒爽嫡女在边关盖大楼！",
+    "author": "重阳",
+    "status": "已完结",
+    "category": "古代言情·种田经商",
+    "wordCount": 100.08,
     "isNew": false
   },
   {
@@ -617,7 +617,7 @@
     "author": "谈栖",
     "status": "连载中",
     "category": "现代言情·总裁豪门",
-    "wordCount": 84.53,
+    "wordCount": 85.53,
     "isNew": false
   },
   {
@@ -631,24 +631,15 @@
   },
   {
     "rank": 71,
-    "title": "出狱后，我闪婚了植物人大佬",
-    "author": "柠七七",
-    "status": "已完结",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 297.92,
+    "title": "重生1994，逃婚海钓赢麻了！",
+    "author": "林溪",
+    "status": "连载中",
+    "category": "现代言情·年代重生",
+    "wordCount": 284.7,
     "isNew": false
   },
   {
     "rank": 72,
-    "title": "我宫斗冠军，矜贵世子俯首称臣",
-    "author": "唐荔枝",
-    "status": "已完结",
-    "category": "古代言情·宫闱宅斗",
-    "wordCount": 111.87,
-    "isNew": false
-  },
-  {
-    "rank": 73,
     "title": "重生八零：离婚后被军少宠上天",
     "author": "小白蛇",
     "status": "已完结",
@@ -657,52 +648,16 @@
     "isNew": false
   },
   {
-    "rank": 74,
-    "title": "重生1994，逃婚海钓赢麻了！",
-    "author": "林溪",
-    "status": "连载中",
-    "category": "现代言情·年代重生",
-    "wordCount": 283.48,
-    "isNew": false
-  },
-  {
-    "rank": 75,
+    "rank": 73,
     "title": "霍总，太太不复婚，只改嫁！",
     "author": "相思一顾",
     "status": "连载中",
     "category": "现代言情·总裁豪门",
-    "wordCount": 131.64,
+    "wordCount": 132.46,
     "isNew": false
   },
   {
-    "rank": 76,
-    "title": "马甲藏不住，假千金炸翻全京圈",
-    "author": "程不言",
-    "status": "已完结",
-    "category": "现代言情·青春校园",
-    "wordCount": 100.39,
-    "isNew": false
-  },
-  {
-    "rank": 77,
-    "title": "七零美人要离婚，冷面军少他急了",
-    "author": "钱小二",
-    "status": "连载中",
-    "category": "现代言情·年代重生",
-    "wordCount": 43.86,
-    "isNew": false
-  },
-  {
-    "rank": 78,
-    "title": "召诸神，踏万界，天命帝女逆乾坤",
-    "author": "澜岸",
-    "status": "连载中",
-    "category": "幻想言情·玄幻仙侠",
-    "wordCount": 160.77,
-    "isNew": false
-  },
-  {
-    "rank": 79,
+    "rank": 74,
     "title": "将军活不过仨月，换亲后我旺他百年",
     "author": "不知绿",
     "status": "已完结",
@@ -711,52 +666,106 @@
     "isNew": false
   },
   {
-    "rank": 80,
-    "title": "你惹她干什么？她修的是杀道啊",
-    "author": "璃焰",
-    "status": "连载中",
-    "category": "幻想言情·玄幻仙侠",
-    "wordCount": 51.79,
-    "isNew": false
-  },
-  {
-    "rank": 81,
-    "title": "离婚后，渣爹做梦都在偷妈咪",
-    "author": "独步寻梦",
+    "rank": 75,
+    "title": "主播万人迷，榜一大哥争着宠",
+    "author": "熊就要有个熊样",
     "status": "已完结",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 146.0,
+    "category": "现代言情·娱乐明星",
+    "wordCount": 97.76,
     "isNew": false
   },
   {
-    "rank": 82,
-    "title": "渣男装穷两年，我转身高嫁太子爷",
-    "author": "朝花辞月",
+    "rank": 76,
+    "title": "挺孕肚离婚二嫁财阀，渣前夫悔疯了",
+    "author": "一颗胖梨",
     "status": "连载中",
     "category": "现代言情·总裁豪门",
-    "wordCount": 55.46,
+    "wordCount": 44.52,
     "isNew": false
   },
   {
-    "rank": 83,
+    "rank": 77,
+    "title": "马甲藏不住，假千金炸翻全京圈",
+    "author": "程不言",
+    "status": "已完结",
+    "category": "现代言情·青春校园",
+    "wordCount": 100.39,
+    "isNew": false
+  },
+  {
+    "rank": 78,
+    "title": "八零：渣夫骗婚娶大嫂，我转身嫁首长",
+    "author": "锦禾",
+    "status": "连载中",
+    "category": "现代言情·年代重生",
+    "wordCount": 47.62,
+    "isNew": false
+  },
+  {
+    "rank": 79,
+    "title": "我宫斗冠军，矜贵世子俯首称臣",
+    "author": "唐荔枝",
+    "status": "已完结",
+    "category": "古代言情·宫闱宅斗",
+    "wordCount": 111.87,
+    "isNew": false
+  },
+  {
+    "rank": 80,
     "title": "夫君清心寡欲，我却连生三胎",
     "author": "米团开花",
     "status": "已完结",
     "category": "古代言情·宫闱宅斗",
-    "wordCount": 146.34,
+    "wordCount": 146.35,
+    "isNew": false
+  },
+  {
+    "rank": 81,
+    "title": "渣男装穷两年，我转身高嫁太子爷",
+    "author": "朝花辞月",
+    "status": "连载中",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 56.29,
+    "isNew": false
+  },
+  {
+    "rank": 82,
+    "title": "考中状元又怎样，我娘是长公主",
+    "author": "汐家锦锂",
+    "status": "连载中",
+    "category": "古代言情·宫闱宅斗",
+    "wordCount": 37.66,
+    "isNew": true
+  },
+  {
+    "rank": 83,
+    "title": "你惹她干什么？她修的是杀道啊",
+    "author": "璃焰",
+    "status": "连载中",
+    "category": "幻想言情·玄幻仙侠",
+    "wordCount": 54.75,
     "isNew": false
   },
   {
     "rank": 84,
-    "title": "直播算命太准，全网蹲守吃瓜",
-    "author": "荷衣",
-    "status": "已完结",
-    "category": "现代言情·都市奇幻",
-    "wordCount": 230.39,
+    "title": "第五年重逢，驰先生再度失控",
+    "author": "锦锦不是妖",
+    "status": "连载中",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 25.92,
     "isNew": false
   },
   {
     "rank": 85,
+    "title": "傅律师，太太说她不回头了",
+    "author": "荣荣子铱",
+    "status": "连载中",
+    "category": "现代言情·总裁豪门",
+    "wordCount": 188.14,
+    "isNew": false
+  },
+  {
+    "rank": 86,
     "title": "锦帐春深",
     "author": "温流",
     "status": "已完结",
@@ -765,88 +774,70 @@
     "isNew": false
   },
   {
-    "rank": 86,
-    "title": "和离前夜，她重生回了出嫁前",
-    "author": "柳程安",
-    "status": "已完结",
-    "category": "古代言情·古代情缘",
-    "wordCount": 63.03,
-    "isNew": false
-  },
-  {
     "rank": 87,
-    "title": "重回拜师日，偏心师尊靠边站",
-    "author": "观云涧",
+    "title": "召诸神，踏万界，天命帝女逆乾坤",
+    "author": "澜岸",
     "status": "连载中",
     "category": "幻想言情·玄幻仙侠",
-    "wordCount": 133.93,
+    "wordCount": 167.11,
     "isNew": false
   },
   {
     "rank": 88,
-    "title": "第一召唤师",
-    "author": "喵喵大人",
+    "title": "直播算命太准，全网蹲守吃瓜",
+    "author": "荷衣",
     "status": "已完结",
-    "category": "幻想言情·玄幻仙侠",
-    "wordCount": 250.71,
+    "category": "现代言情·都市奇幻",
+    "wordCount": 230.39,
     "isNew": false
   },
   {
     "rank": 89,
-    "title": "傅律师，太太说她不回头了",
-    "author": "荣荣子铱",
-    "status": "连载中",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 187.07,
-    "isNew": false
-  },
-  {
-    "rank": 90,
     "title": "摆摊开饭馆，她惊动全京城",
     "author": "幸运团团",
     "status": "连载中",
     "category": "古代言情·古代情缘",
-    "wordCount": 69.64,
+    "wordCount": 72.71,
     "isNew": false
   },
   {
-    "rank": 91,
-    "title": "第五年重逢，驰先生再度失控",
-    "author": "锦锦不是妖",
-    "status": "连载中",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 24.95,
-    "isNew": false
-  },
-  {
-    "rank": 92,
+    "rank": 90,
     "title": "重生八零嫁给全军第一硬汉",
     "author": "九羊猪猪",
     "status": "连载中",
     "category": "现代言情·年代重生",
-    "wordCount": 478.0,
+    "wordCount": 479.22,
     "isNew": false
   },
   {
-    "rank": 93,
-    "title": "三年同房两次，要离婚他跪求复合",
-    "author": "一只小甜饼",
+    "rank": 91,
+    "title": "七零美人要离婚，冷面军少他急了",
+    "author": "钱小二",
     "status": "连载中",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 41.86,
+    "category": "现代言情·年代重生",
+    "wordCount": 47.03,
     "isNew": false
   },
   {
-    "rank": 94,
+    "rank": 92,
     "title": "重回七零，搬空养父母家库房下乡了",
     "author": "暖以沐",
     "status": "连载中",
     "category": "现代言情·年代重生",
-    "wordCount": 97.26,
+    "wordCount": 98.5,
     "isNew": false
   },
   {
-    "rank": 95,
+    "rank": 93,
+    "title": "首辅大人请自重，这一世是我不要你了",
+    "author": "陆六",
+    "status": "连载中",
+    "category": "古代言情·宫闱宅斗",
+    "wordCount": 88.25,
+    "isNew": false
+  },
+  {
+    "rank": 94,
     "title": "退婚后被权爷宠上天",
     "author": "一川风月",
     "status": "已完结",
@@ -855,12 +846,21 @@
     "isNew": false
   },
   {
-    "rank": 96,
-    "title": "君夫人的马甲层出不穷",
-    "author": "荷衣",
+    "rank": 95,
+    "title": "第一召唤师",
+    "author": "喵喵大人",
     "status": "已完结",
-    "category": "现代言情·总裁豪门",
-    "wordCount": 133.53,
+    "category": "幻想言情·玄幻仙侠",
+    "wordCount": 250.71,
+    "isNew": false
+  },
+  {
+    "rank": 96,
+    "title": "和离前夜，她重生回了出嫁前",
+    "author": "柳程安",
+    "status": "已完结",
+    "category": "古代言情·古代情缘",
+    "wordCount": 63.03,
     "isNew": false
   },
   {
@@ -874,11 +874,11 @@
   },
   {
     "rank": 98,
-    "title": "首辅大人请自重，这一世是我不要你了",
-    "author": "陆六",
-    "status": "连载中",
-    "category": "古代言情·宫闱宅斗",
-    "wordCount": 87.16,
+    "title": "七零美人到西北，硬汉红温了",
+    "author": "棠元",
+    "status": "已完结",
+    "category": "现代言情·年代重生",
+    "wordCount": 105.93,
     "isNew": false
   },
   {
@@ -892,11 +892,11 @@
   },
   {
     "rank": 100,
-    "title": "爹爹开门，系窝呀！",
-    "author": "垂耳兔",
+    "title": "嫁给高冷执政官后，小记者求轻宠",
+    "author": "黑森林西米露",
     "status": "已完结",
-    "category": "古代言情·古代情缘",
-    "wordCount": 100.01,
-    "isNew": false
+    "category": "现代言情·职场情缘",
+    "wordCount": 70.19,
+    "isNew": true
   }
 ]

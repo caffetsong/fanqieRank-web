@@ -5,7 +5,7 @@
     "author": "猫不秃",
     "status": "连载中",
     "category": "游戏体育",
-    "wordCount": 250.8,
+    "wordCount": 251.7,
     "isNew": false
   },
   {
@@ -14,7 +14,7 @@
     "author": "俯视鱼的云",
     "status": "连载中",
     "category": "年代",
-    "wordCount": 133.0,
+    "wordCount": 134.3,
     "isNew": false
   },
   {
@@ -23,7 +23,7 @@
     "author": "芥婕",
     "status": "连载中",
     "category": "豪门总裁",
-    "wordCount": 32.5,
+    "wordCount": 33.1,
     "isNew": false
   },
   {
@@ -46,6 +46,15 @@
   },
   {
     "rank": 6,
+    "title": "宝宝，选我好不好",
+    "author": "甜桃莓莓耶",
+    "status": "连载中",
+    "category": "青春甜宠",
+    "wordCount": 18.9,
+    "isNew": false
+  },
+  {
+    "rank": 7,
     "title": "闺蜜说大哥凶，可他夜里喊我宝宝",
     "author": "鎏旗",
     "status": "已完结",
@@ -54,39 +63,30 @@
     "isNew": false
   },
   {
-    "rank": 7,
-    "title": "宝宝，选我好不好",
-    "author": "甜桃莓莓耶",
-    "status": "连载中",
-    "category": "青春甜宠",
-    "wordCount": 18.1,
-    "isNew": false
-  },
-  {
     "rank": 8,
     "title": "穿成男女主分手后趁虚而入的女配",
     "author": "尤宫羽",
     "status": "连载中",
     "category": "豪门总裁",
-    "wordCount": 30.2,
+    "wordCount": 31.2,
     "isNew": false
   },
   {
     "rank": 9,
-    "title": "诱哄失忆小青梅",
-    "author": "沐木子夕",
+    "title": "陷落京霓",
+    "author": "元芍七",
     "status": "连载中",
     "category": "豪门总裁",
-    "wordCount": 36.0,
+    "wordCount": 17.5,
     "isNew": false
   },
   {
     "rank": 10,
-    "title": "掏空家产，资本家小姐去部队寻夫",
-    "author": "锦绣钱橙",
-    "status": "已完结",
-    "category": "年代",
-    "wordCount": 102.2,
+    "title": "诱哄失忆小青梅",
+    "author": "沐木子夕",
+    "status": "连载中",
+    "category": "豪门总裁",
+    "wordCount": 36.4,
     "isNew": false
   }
 ]
