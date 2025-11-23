@@ -5,7 +5,7 @@
     "author": "猫不秃",
     "status": "连载中",
     "category": "游戏体育",
-    "wordCount": 252.5,
+    "wordCount": 253.4,
     "isNew": false
   },
   {
@@ -14,7 +14,7 @@
     "author": "俯视鱼的云",
     "status": "连载中",
     "category": "年代",
-    "wordCount": 135.5,
+    "wordCount": 136.7,
     "isNew": false
   },
   {
@@ -23,7 +23,7 @@
     "author": "芥婕",
     "status": "连载中",
     "category": "豪门总裁",
-    "wordCount": 33.8,
+    "wordCount": 34.6,
     "isNew": false
   },
   {
@@ -46,6 +46,33 @@
   },
   {
     "rank": 6,
+    "title": "时光，它替我们记得",
+    "author": "浅浅茜",
+    "status": "已完结",
+    "category": "豪门总裁",
+    "wordCount": 32.2,
+    "isNew": false
+  },
+  {
+    "rank": 7,
+    "title": "陷落京霓",
+    "author": "元芍七",
+    "status": "连载中",
+    "category": "豪门总裁",
+    "wordCount": 19.2,
+    "isNew": false
+  },
+  {
+    "rank": 8,
+    "title": "禁欲佛爷白天抄经，晚上掐腰亲！",
+    "author": "洛汀序",
+    "status": "已完结",
+    "category": "豪门总裁",
+    "wordCount": 52.4,
+    "isNew": false
+  },
+  {
+    "rank": 9,
     "title": "闺蜜说大哥凶，可他夜里喊我宝宝",
     "author": "鎏旗",
     "status": "已完结",
@@ -54,39 +81,12 @@
     "isNew": false
   },
   {
-    "rank": 7,
-    "title": "时光，它替我们记得",
-    "author": "浅浅茜",
-    "status": "连载中",
-    "category": "豪门总裁",
-    "wordCount": 32.2,
-    "isNew": false
-  },
-  {
-    "rank": 8,
-    "title": "陷落京霓",
-    "author": "元芍七",
-    "status": "连载中",
-    "category": "豪门总裁",
-    "wordCount": 18.3,
-    "isNew": false
-  },
-  {
-    "rank": 9,
-    "title": "穿成男女主分手后趁虚而入的女配",
-    "author": "尤宫羽",
-    "status": "连载中",
-    "category": "豪门总裁",
-    "wordCount": 32.2,
-    "isNew": false
-  },
-  {
     "rank": 10,
     "title": "宝宝，选我好不好",
     "author": "甜桃莓莓耶",
     "status": "连载中",
     "category": "青春甜宠",
-    "wordCount": 19.9,
+    "wordCount": 20.8,
     "isNew": false
   }
 ]
