@@ -5,7 +5,7 @@
     "author": "三九音域",
     "status": "连载中",
     "category": "都市高武",
-    "wordCount": 344.3,
+    "wordCount": 345.1,
     "isNew": false
   },
   {
@@ -23,7 +23,7 @@
     "author": "喜欢吃橘子",
     "status": "连载中",
     "category": "都市高武",
-    "wordCount": 151.4,
+    "wordCount": 152.7,
     "isNew": false
   },
   {
@@ -41,20 +41,11 @@
     "author": "一月九十秋",
     "status": "连载中",
     "category": "都市高武",
-    "wordCount": 336.2,
+    "wordCount": 337.2,
     "isNew": false
   },
   {
     "rank": 6,
-    "title": "冒姓琅琊",
-    "author": "东周公子南",
-    "status": "连载中",
-    "category": "历史古代",
-    "wordCount": 102.8,
-    "isNew": false
-  },
-  {
-    "rank": 7,
     "title": "我在精神病院学斩神",
     "author": "三九音域",
     "status": "已完结",
@@ -63,12 +54,21 @@
     "isNew": false
   },
   {
+    "rank": 7,
+    "title": "冒姓琅琊",
+    "author": "东周公子南",
+    "status": "连载中",
+    "category": "历史古代",
+    "wordCount": 103.1,
+    "isNew": false
+  },
+  {
     "rank": 8,
     "title": "开局上交修仙界，国家让我先成仙",
     "author": "美丽的洋葱",
     "status": "连载中",
     "category": "玄幻脑洞",
-    "wordCount": 31.0,
+    "wordCount": 32.7,
     "isNew": false
   },
   {
@@ -77,7 +77,7 @@
     "author": "殿堂郁子",
     "status": "连载中",
     "category": "都市高武",
-    "wordCount": 26.5,
+    "wordCount": 27.9,
     "isNew": false
   },
   {
@@ -86,7 +86,7 @@
     "author": "紫灵风雪",
     "status": "连载中",
     "category": "玄幻脑洞",
-    "wordCount": 548.7,
+    "wordCount": 549.5,
     "isNew": false
   }
 ]
